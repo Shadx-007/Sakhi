@@ -6,8 +6,8 @@
   "static/chunks/37474_recharts_es6_state_c431891f._.js",
   "static/chunks/37474_recharts_es6_component_9fc4b73c._.js",
   "static/chunks/37474_recharts_es6_cartesian_c03509a0._.js",
-  "static/chunks/37474_recharts_es6_658e62d6._.js",
-  "static/chunks/37474_2cb12e49._.js"
+  "static/chunks/37474_recharts_es6_7fa22075._.js",
+  "static/chunks/37474_2fca614f._.js"
 ],
     source: "dynamic"
 });

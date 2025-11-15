@@ -30,6 +30,7 @@ export function Navbar() {
     { label: 'Farmers Hub', href: '/farmers-hub' },
     { label: 'Marketplace', href: '/marketplace' },
     { label: 'Resources', href: '/resources' },
+    { label: 'About Us', href: '/about' },
   ];
 
   const toggleTheme = () => {
