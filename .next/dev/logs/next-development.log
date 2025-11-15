@@ -1,0 +1,2308 @@
+[00:00:00.633] Server  LOG      ✓ Ready in 412ms
+[00:00:02.510] Server  ERROR   C:\Users\vikra\Downloads\code (1)\.next\dev\server\chunks\ssr\Downloads_code (1)_510f1fb3._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:02.511] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'map')
+[00:00:02.811] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:02.965] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:03.088] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="/Downloads...">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <main className="min-h-scre...">
+                        <Navbar>
+                        <div>
+                        <section className="relative m...">
+                          <div className="absolute i...">
+                            <div>
+                            <div>
+                            <div className="absolute i...">
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "4.839634329077446%"
+-                                 left: "88.9996%"
++                                 top: "6.732963627734279%"
+-                                 top: "2.45829%"
++                                 animationDelay: "1.410389104714792s"
+-                                 animation-delay: "0.198788s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "69.40218303645503%"
+-                                 left: "66.3886%"
++                                 top: "74.56751744181865%"
+-                                 top: "85.9517%"
++                                 animationDelay: "1.9949219078640283s"
+-                                 animation-delay: "0.938423s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "98.41077003281029%"
+-                                 left: "40.185%"
++                                 top: "88.20479984752099%"
+-                                 top: "4.14562%"
++                                 animationDelay: "0.8510013733105022s"
+-                                 animation-delay: "1.25846s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "23.748668372686264%"
+-                                 left: "38.4991%"
++                                 top: "87.29150962626913%"
+-                                 top: "25.4256%"
++                                 animationDelay: "0.5044814675860723s"
+-                                 animation-delay: "0.908365s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "74.32309545723254%"
+-                                 left: "26.0582%"
++                                 top: "32.19590991451262%"
+-                                 top: "68.9738%"
++                                 animationDelay: "1.3616946361871614s"
+-                                 animation-delay: "1.67513s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "84.60310868448153%"
+-                                 left: "15.525%"
++                                 top: "64.75730925414935%"
+-                                 top: "20.4355%"
++                                 animationDelay: "0.9608874392443649s"
+-                                 animation-delay: "0.951275s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "80.88255004083325%"
+-                                 left: "37.427%"
++                                 top: "99.19275381248586%"
+-                                 top: "2.34955%"
++                                 animationDelay: "0.7756238744131474s"
+-                                 animation-delay: "0.52178s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "10.50346513703776%"
+-                                 left: "73.9537%"
++                                 top: "43.140507854063024%"
+-                                 top: "76.8763%"
++                                 animationDelay: "1.947120321594787s"
+-                                 animation-delay: "1.46101s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "40.07714920791393%"
+-                                 left: "46.3795%"
++                                 top: "85.50775373693946%"
+-                                 top: "24.5751%"
++                                 animationDelay: "1.266912011738375s"
+-                                 animation-delay: "1.29322s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "64.72239333602036%"
+-                                 left: "10.0169%"
++                                 top: "0.038040034035036197%"
+-                                 top: "47.6509%"
++                                 animationDelay: "0.6402821432421963s"
+-                                 animation-delay: "0.236786s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "15.536707181701036%"
+-                                 left: "47.377%"
++                                 top: "42.40181570615826%"
+-                                 top: "42.5862%"
++                                 animationDelay: "1.4511239407151848s"
+-                                 animation-delay: "1.52389s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "6.66403492162212%"
+-                                 left: "11.6541%"
++                                 top: "82.37907264021712%"
+-                                 top: "4.31832%"
++                                 animationDelay: "0.7979561442613481s"
+-                                 animation-delay: "1.104s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "75.47596050265581%"
+-                                 left: "70.704%"
++                                 top: "25.946675495785463%"
+-                                 top: "6.18172%"
++                                 animationDelay: "1.279441387041414s"
+-                                 animation-delay: "0.205961s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "95.8758125477355%"
+-                                 left: "19.3311%"
++                                 top: "20.286064099326328%"
+-                                 top: "69.294%"
++                                 animationDelay: "1.1750870505007214s"
+-                                 animation-delay: "1.45284s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "15.99960985809018%"
+-                                 left: "86.5706%"
++                                 top: "45.66582192111597%"
+-                                 top: "6.52392%"
++                                 animationDelay: "1.8839523021287583s"
+-                                 animation-delay: "1.18646s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "24.640378115651195%"
+-                                 left: "96.7665%"
++                                 top: "0.09283786889159318%"
+-                                 top: "88.9989%"
++                                 animationDelay: "1.3121303551433001s"
+-                                 animation-delay: "0.0580387s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "50.221088110413156%"
+-                                 left: "72.0178%"
++                                 top: "81.74871483527602%"
+-                                 top: "37.3723%"
++                                 animationDelay: "0.3907576536958288s"
+-                                 animation-delay: "1.73986s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "22.151325455326297%"
+-                                 left: "86.2264%"
++                                 top: "93.52462170009085%"
+-                                 top: "90.1795%"
++                                 animationDelay: "0.9972378392568966s"
+-                                 animation-delay: "1.77795s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "73.46478909468937%"
+-                                 left: "89.1914%"
++                                 top: "24.71911892991231%"
+-                                 top: "13.4084%"
++                                 animationDelay: "0.9139630716925624s"
+-                                 animation-delay: "1.08769s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "81.21023794492633%"
+-                                 left: "41.7874%"
++                                 top: "55.57564745524757%"
+-                                 top: "20.6683%"
++                                 animationDelay: "1.1781968692556608s"
+-                                 animation-delay: "1.39965s"
+                                }}
+                              >
+                          ...
+                        ...
+                ...
+              ...
+
+[00:00:03.126] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:03.217] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:03.217] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:03.217] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763183745771}
+[00:00:03.300] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="/Downloads...">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <main className="min-h-scre...">
+                        <Navbar>
+                        <div>
+                        <section className="relative m...">
+                          <div className="absolute i...">
+                            <div>
+                            <div>
+                            <div className="absolute i...">
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "68.98406985779985%"
+-                                 left: "41.9677%"
++                                 top: "27.53121397880871%"
+-                                 top: "18.4746%"
++                                 animationDelay: "0.3066160249180654s"
+-                                 animation-delay: "0.773283s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "0.06783462189258183%"
+-                                 left: "58.1259%"
++                                 top: "69.21040519354005%"
+-                                 top: "2.61303%"
++                                 animationDelay: "0.9857697032135329s"
+-                                 animation-delay: "1.74529s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "37.26326899572147%"
+-                                 left: "42.238%"
++                                 top: "26.43881304675857%"
+-                                 top: "4.48351%"
++                                 animationDelay: "1.294842177504604s"
+-                                 animation-delay: "0.368577s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "46.93436167236176%"
+-                                 left: "45.8579%"
++                                 top: "91.81719080492807%"
+-                                 top: "12.5888%"
++                                 animationDelay: "1.06586721099178s"
+-                                 animation-delay: "1.57834s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "98.6337497778855%"
+-                                 left: "98.6116%"
++                                 top: "22.851852254599592%"
+-                                 top: "79.3101%"
++                                 animationDelay: "1.4337855442664462s"
+-                                 animation-delay: "1.07035s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "53.08153680047864%"
+-                                 left: "58.3813%"
++                                 top: "98.56663701092819%"
+-                                 top: "90.149%"
++                                 animationDelay: "1.3442566019057518s"
+-                                 animation-delay: "1.26396s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "29.88124025194453%"
+-                                 left: "23.283%"
++                                 top: "24.94628278997911%"
+-                                 top: "11.7577%"
++                                 animationDelay: "1.7335271074197893s"
+-                                 animation-delay: "1.8027s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "92.8903467931518%"
+-                                 left: "53.6607%"
++                                 top: "52.78372424816524%"
+-                                 top: "14.4921%"
++                                 animationDelay: "0.3469098271287785s"
+-                                 animation-delay: "0.980741s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "3.7673668418300443%"
+-                                 left: "66.0871%"
++                                 top: "71.74980130195084%"
+-                                 top: "84.521%"
++                                 animationDelay: "1.2807035724665559s"
+-                                 animation-delay: "0.982003s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "38.191562403308396%"
+-                                 left: "93.6312%"
++                                 top: "27.738994600127022%"
+-                                 top: "81.2574%"
++                                 animationDelay: "1.9686193142464838s"
+-                                 animation-delay: "0.184036s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "8.232076927759824%"
+-                                 left: "22.3502%"
++                                 top: "98.92852397914974%"
+-                                 top: "83.3732%"
++                                 animationDelay: "1.7076495166657397s"
+-                                 animation-delay: "1.22482s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "26.659803274805927%"
+-                                 left: "2.01255%"
++                                 top: "84.74933236695634%"
+-                                 top: "9.74017%"
++                                 animationDelay: "1.302275473696432s"
+-                                 animation-delay: "1.93158s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "2.702790158007673%"
+-                                 left: "33.2966%"
++                                 top: "68.82219391204283%"
+-                                 top: "23.3847%"
++                                 animationDelay: "0.6025896034184428s"
+-                                 animation-delay: "0.865963s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "21.299312055679444%"
+-                                 left: "10.2258%"
++                                 top: "36.738647784323994%"
+-                                 top: "47.5789%"
++                                 animationDelay: "0.7151663778390103s"
+-                                 animation-delay: "1.65653s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "36.79777810835979%"
+-                                 left: "27.0527%"
++                                 top: "22.288790192115737%"
+-                                 top: "27.9755%"
++                                 animationDelay: "1.9698106303043006s"
+-                                 animation-delay: "1.3715s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "95.03487601896519%"
+-                                 left: "2.86624%"
++                                 top: "22.311642321961312%"
+-                                 top: "75.5928%"
++                                 animationDelay: "1.5966773089446513s"
+-                                 animation-delay: "1.96753s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "21.470972427104982%"
+-                                 left: "66.865%"
++                                 top: "12.263289278787715%"
+-                                 top: "44.8807%"
++                                 animationDelay: "0.6980258084771229s"
+-                                 animation-delay: "1.32362s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "37.08465214946938%"
+-                                 left: "19.3741%"
++                                 top: "52.93439031596713%"
+-                                 top: "78.686%"
++                                 animationDelay: "0.41499589052592234s"
+-                                 animation-delay: "0.173047s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "46.52366365851752%"
+-                                 left: "33.2821%"
++                                 top: "62.04782560537506%"
+-                                 top: "83.8729%"
++                                 animationDelay: "0.47611804795106627s"
+-                                 animation-delay: "0.381974s"
+                                }}
+                              >
+                              <div
+                                className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+                                style={{
++                                 left: "98.60204897363593%"
+-                                 left: "49.0582%"
++                                 top: "99.58719305790218%"
+-                                 top: "74.3267%"
++                                 animationDelay: "1.4811875215279542s"
+-                                 animation-delay: "1.37008s"
+                                }}
+                              >
+                          ...
+                        ...
+                ...
+              ...
+
+[00:00:03.512] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:00:03.653] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:03.653] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:03.653] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763183746187}
+[00:00:04.662] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:00:37.060] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:00:37.067] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:00:37.072] Server  LOG      ✓ Compiled in 53ms
+[00:00:37.102] Server  ERROR   C:\Users\vikra\Downloads\code (1)\.next\dev\server\chunks\ssr\Downloads_code (1)_510f1fb3._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:37.102] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'map')
+[00:00:37.136] Server  ERROR   C:\Users\vikra\Downloads\code (1)\.next\dev\server\chunks\ssr\Downloads_code (1)_510f1fb3._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:37.136] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'map')
+[00:00:37.297] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:37.299] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:38.512] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:00:38.515] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:00:41.666] Server  ERROR   C:\Users\vikra\Downloads\code (1)\.next\dev\server\chunks\ssr\Downloads_code (1)_510f1fb3._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:41.667] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'map')
+[00:00:41.801] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:41.961] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:01:08.609] Server  LOG      ✓ Compiled in 87ms
+[00:01:08.722] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:08.722] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:08.755] Server  ERROR   C:\Users\vikra\Downloads\code (1)\.next\dev\server\chunks\ssr\Downloads_code (1)_510f1fb3._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:01:08.755] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'map')
+[00:01:08.786] Server  ERROR   C:\Users\vikra\Downloads\code (1)\.next\dev\server\chunks\ssr\Downloads_code (1)_510f1fb3._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:01:08.786] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'map')
+[00:01:08.926] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:08.951] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:09.522] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:01:09.523] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:01:50.721] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.721] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.722] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.723] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.724] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.724] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.725] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.725] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.726] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.727] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.727] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.728] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.729] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.729] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.730] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.731] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.731] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.732] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.733] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.733] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:50.757] Server  LOG      ✓ Compiled in 94ms
+[00:01:50.863] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:51.505] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:51.505] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:01.798] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:01.913] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:01.913] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:02.506] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:02.855] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:02.855] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:02.979] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:02.980] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:03.837] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:03.837] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:03.939] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:03.948] Browser ERROR   uncaughtError: Error: ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:04.114] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:04.114] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:04.117] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:04.507] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:04.507] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:05.594] Server  ERROR    ⨯ ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:05.721] Browser ERROR   uncaughtError: Error: ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:05.740] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:05.871] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:05.871] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:05.872] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:06.505] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:06.505] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:30.512] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:30.512] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:30.513] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:46.509] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:46.510] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:46.510] Browser ERROR   ./Downloads/code (1)/components/language-selector.tsx:5:1
+Module not found: Can't resolve '@/data/languages'
+  3 | import { useLanguage } from '@/contexts/language-context';
+  4 | import Select from 'react-select';
+> 5 | import { languages } from '@/data/languages';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function LanguageSelector() {
+  8 |   const { language, setLanguage } = useLanguage();
+
+Import map: aliased to relative './data/languages' inside of [project]/Downloads/code (1)
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component Browser]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/code (1)/components/language-selector.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Client Component SSR]
+    ./Downloads/code (1)/app/signup/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:52.064] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:02:52.064] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:02:52.065] Server  LOG      ✓ Compiled in 75ms
+[00:02:52.345] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:52.371] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:53.507] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HTTPAccessFallbackBoundary notFound={undefined} forbidden={undefined} unauthorized={undefined}>
+      <RedirectBoundary>
+        <RedirectErrorBoundary router={{...}}>
+          <InnerLayoutRouter url="/signup" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+            <SegmentViewNode type="page" pagePath="/Downloads...">
+              <SegmentTrieNode>
+              <ClientPageRoot Component={function Signup} serverProvidedParams={{...}}>
+                <Signup params={Promise} searchParams={Promise}>
+                  <main className="min-h-scre...">
+                    <Navbar>
+                    <MiddleSectionObjects>
+                      <div className="absolute i...">
+                        <motion.div className="absolute r..." style={{...}} animate={{y:[...], ...}} ...>
+                          <div
+                            className="absolute rounded-full border border-green-400/30 dark:border-green-300/40"
+                            style={{
++                             width: 148.75511552153452
+-                             width: "112.187px"
++                             height: 107.73424861968336
+-                             height: "148.574px"
++                             left: "10%"
+-                             left: "10%"
++                             top: "62.4856931148794%"
+-                             top: "47.1125%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute r..." style={{...}} animate={{y:[...], ...}} ...>
+                          <div
+                            className="absolute rounded-full border border-green-400/30 dark:border-green-300/40"
+                            style={{
++                             width: 104.83677164989255
+-                             width: "62.9472px"
++                             height: 119.83745029462433
+-                             height: "68.2802px"
++                             left: "30%"
+-                             left: "30%"
++                             top: "50.4265963300373%"
+-                             top: "32.7146%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute r..." style={{...}} animate={{y:[...], ...}} ...>
+                          <div
+                            className="absolute rounded-full border border-green-400/30 dark:border-green-300/40"
+                            style={{
++                             width: 119.48089011359819
+-                             width: "62.7331px"
++                             height: 94.28332160342548
+-                             height: "67.0987px"
++                             left: "50%"
+-                             left: "50%"
++                             top: "41.74313328497442%"
+-                             top: "39.8923%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute r..." style={{...}} animate={{y:[...], ...}} ...>
+                          <div
+                            className="absolute rounded-full border border-green-400/30 dark:border-green-300/40"
+                            style={{
++                             width: 60.844983240750835
+-                             width: "130.715px"
++                             height: 67.45335442442399
+-                             height: "90.9488px"
++                             left: "70%"
+-                             left: "70%"
++                             top: "41.00262375605266%"
+-                             top: "39.7972%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute r..." style={{...}} animate={{y:[...], ...}} ...>
+                          <div
+                            className="absolute rounded-full border border-green-400/30 dark:border-green-300/40"
+                            style={{
++                             width: 127.2041521675861
+-                             width: "94.9834px"
++                             height: 72.36677084806126
+-                             height: "105.04px"
++                             left: "90%"
+-                             left: "90%"
++                             top: "32.26848576931721%"
+-                             top: "38.1617%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute" style={{left:"20%", ...}} animate={{rotate:[...], ...}} ...>
+                          <div
+                            className="absolute"
+                            style={{
++                             left: "20%"
+-                             left: "20%"
++                             top: "40.60351178513586%"
+-                             top: "49.0774%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute" style={{left:"40%", ...}} animate={{rotate:[...], ...}} ...>
+                          <div
+                            className="absolute"
+                            style={{
++                             left: "40%"
+-                             left: "40%"
++                             top: "57.04199987572859%"
+-                             top: "57.6264%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute" style={{left:"60%", ...}} animate={{rotate:[...], ...}} ...>
+                          <div
+                            className="absolute"
+                            style={{
++                             left: "60%"
+-                             left: "60%"
++                             top: "53.31787936283146%"
+-                             top: "59.832%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute" style={{left:"80%", ...}} animate={{rotate:[...], ...}} ...>
+                          <div
+                            className="absolute"
+                            style={{
++                             left: "80%"
+-                             left: "80%"
++                             top: "56.454419221511216%"
+-                             top: "57.6221%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute h..." style={{width:"216...", ...}} ...>
+                          <div
+                            className="absolute h-1 bg-gradient-to-r from-transparent via-green-400/40 to-transparent"
+                            style={{
++                             width: "216.62363835015157px"
+-                             width: "109.78px"
++                             left: "45.24228897363456%"
+-                             left: "48.8274%"
++                             top: "35%"
+-                             top: "35%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute h..." style={{width:"235...", ...}} ...>
+                          <div
+                            className="absolute h-1 bg-gradient-to-r from-transparent via-green-400/40 to-transparent"
+                            style={{
++                             width: "235.82471984929293px"
+-                             width: "243.271px"
++                             left: "25.309318820951887%"
+-                             left: "78.3777%"
++                             top: "55%"
+-                             top: "55%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute h..." style={{width:"123...", ...}} ...>
+                          <div
+                            className="absolute h-1 bg-gradient-to-r from-transparent via-green-400/40 to-transparent"
+                            style={{
++                             width: "123.61752717876695px"
+-                             width: "187.183px"
++                             left: "59.37817516811697%"
+-                             left: "57.8247%"
++                             top: "75%"
+-                             top: "75%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        ...
+                    ...
+            ...
+          ...
+
+[00:02:53.507] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:02:53.507] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/signup","route":"/signup"}
+[00:02:53.507] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/signup color: rgb(120, 120, 120) color: inherit {"dp":"/signup","o":"http://localhost:3000/signup","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763183915277}
+[00:02:53.507] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HTTPAccessFallbackBoundary notFound={undefined} forbidden={undefined} unauthorized={undefined}>
+      <RedirectBoundary>
+        <RedirectErrorBoundary router={{...}}>
+          <InnerLayoutRouter url="/signup" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+            <SegmentViewNode type="page" pagePath="/Downloads...">
+              <SegmentTrieNode>
+              <ClientPageRoot Component={function Signup} serverProvidedParams={{...}}>
+                <Signup params={Promise} searchParams={Promise}>
+                  <main className="min-h-scre...">
+                    <Navbar>
+                    <MiddleSectionObjects>
+                      <div className="absolute i...">
+                        <motion.div className="absolute r..." style={{...}} animate={{y:[...], ...}} ...>
+                          <div
+                            className="absolute rounded-full border border-green-400/30 dark:border-green-300/40"
+                            style={{
++                             width: 100.07591256902369
+-                             width: "121.893px"
++                             height: 87.713833072174
+-                             height: "57.2737px"
++                             left: "10%"
+-                             left: "10%"
++                             top: "30.979117881050993%"
+-                             top: "46.0003%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute r..." style={{...}} animate={{y:[...], ...}} ...>
+                          <div
+                            className="absolute rounded-full border border-green-400/30 dark:border-green-300/40"
+                            style={{
++                             width: 128.60208376961765
+-                             width: "113.776px"
++                             height: 67.29980573099456
+-                             height: "66.6838px"
++                             left: "30%"
+-                             left: "30%"
++                             top: "35.42073621880935%"
+-                             top: "38.9355%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute r..." style={{...}} animate={{y:[...], ...}} ...>
+                          <div
+                            className="absolute rounded-full border border-green-400/30 dark:border-green-300/40"
+                            style={{
++                             width: 132.05033377531274
+-                             width: "97.9798px"
++                             height: 132.1090118288979
+-                             height: "118.342px"
++                             left: "50%"
+-                             left: "50%"
++                             top: "36.4194019357079%"
+-                             top: "61.7119%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute r..." style={{...}} animate={{y:[...], ...}} ...>
+                          <div
+                            className="absolute rounded-full border border-green-400/30 dark:border-green-300/40"
+                            style={{
++                             width: 140.09354251988077
+-                             width: "115.782px"
++                             height: 66.63362854803569
+-                             height: "146.679px"
++                             left: "70%"
+-                             left: "70%"
++                             top: "66.65200782273806%"
+-                             top: "39.6202%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute r..." style={{...}} animate={{y:[...], ...}} ...>
+                          <div
+                            className="absolute rounded-full border border-green-400/30 dark:border-green-300/40"
+                            style={{
++                             width: 76.89450405856682
+-                             width: "89.176px"
++                             height: 77.3283829793468
+-                             height: "79.1926px"
++                             left: "90%"
+-                             left: "90%"
++                             top: "41.40352863526993%"
+-                             top: "69.6105%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute" style={{left:"20%", ...}} animate={{rotate:[...], ...}} ...>
+                          <div
+                            className="absolute"
+                            style={{
++                             left: "20%"
+-                             left: "20%"
++                             top: "55.14293623019488%"
+-                             top: "43.2351%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute" style={{left:"40%", ...}} animate={{rotate:[...], ...}} ...>
+                          <div
+                            className="absolute"
+                            style={{
++                             left: "40%"
+-                             left: "40%"
++                             top: "46.528088698420916%"
+-                             top: "59.1355%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute" style={{left:"60%", ...}} animate={{rotate:[...], ...}} ...>
+                          <div
+                            className="absolute"
+                            style={{
++                             left: "60%"
+-                             left: "60%"
++                             top: "47.17936942115337%"
+-                             top: "48.6963%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute" style={{left:"80%", ...}} animate={{rotate:[...], ...}} ...>
+                          <div
+                            className="absolute"
+                            style={{
++                             left: "80%"
+-                             left: "80%"
++                             top: "45.16314099066087%"
+-                             top: "52.1157%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute h..." style={{width:"187...", ...}} ...>
+                          <div
+                            className="absolute h-1 bg-gradient-to-r from-transparent via-green-400/40 to-transparent"
+                            style={{
++                             width: "187.59437593878266px"
+-                             width: "139.687px"
++                             left: "31.309750907905674%"
+-                             left: "78.3361%"
++                             top: "35%"
+-                             top: "35%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute h..." style={{width:"166...", ...}} ...>
+                          <div
+                            className="absolute h-1 bg-gradient-to-r from-transparent via-green-400/40 to-transparent"
+                            style={{
++                             width: "166.2091553740523px"
+-                             width: "259.24px"
++                             left: "65.3727710897327%"
+-                             left: "64.694%"
++                             top: "55%"
+-                             top: "55%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        <motion.div className="absolute h..." style={{width:"126...", ...}} ...>
+                          <div
+                            className="absolute h-1 bg-gradient-to-r from-transparent via-green-400/40 to-transparent"
+                            style={{
++                             width: "126.62145268301256px"
+-                             width: "162.801px"
++                             left: "36.0371446778061%"
+-                             left: "33.0094%"
++                             top: "75%"
+-                             top: "75%"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        ...
+                    ...
+            ...
+          ...
+
+[00:02:53.507] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:02:53.507] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/signup","route":"/signup"}
+[00:02:53.507] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/signup color: rgb(120, 120, 120) color: inherit {"dp":"/signup","o":"http://localhost:3000/signup","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763183915255}
