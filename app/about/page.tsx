@@ -192,30 +192,30 @@ export default function AboutUs() {
   ];
 
   return (
-    <main className="min-h-screen bg-black pt-20">
+    <main className="min-h-screen bg-background pt-20">
       <Navbar />
       
       {/* Hero Section */}
-      <section className="relative py-20 bg-gradient-to-br from-green-900/20 via-black to-emerald-900/10">
+      <section className="relative py-20 bg-gradient-to-br from-green-900/20 via-background to-emerald-900/10 dark:from-green-900/20 dark:via-background dark:to-emerald-900/10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center space-y-8">
             <h1 className="text-6xl md:text-7xl font-bold bg-gradient-to-r from-green-400 to-emerald-400 bg-clip-text text-transparent">
               About Sakhl-Agri
             </h1>
-            <p className="text-xl md:text-2xl text-gray-300 max-w-4xl mx-auto leading-relaxed">
+            <p className="text-xl md:text-2xl text-muted-foreground max-w-4xl mx-auto leading-relaxed">
               Pioneering the future of sustainable agriculture through cutting-edge technology, 
               data-driven insights, and unwavering commitment to environmental stewardship.
             </p>
             <div className="flex justify-center gap-6 pt-8">
-              <div className="flex items-center gap-3 text-sm bg-green-900/50 text-green-300 px-4 py-2 rounded-full border border-green-700/50">
+              <div className="flex items-center gap-3 text-sm bg-green-100 text-green-800 dark:bg-green-900/50 dark:text-green-300 px-4 py-2 rounded-full border border-green-200 dark:border-green-700/50">
                 <Users className="w-4 h-4" />
                 50+ Team Members
               </div>
-              <div className="flex items-center gap-3 text-sm bg-blue-900/50 text-blue-300 px-4 py-2 rounded-full border border-blue-700/50">
+              <div className="flex items-center gap-3 text-sm bg-blue-100 text-blue-800 dark:bg-blue-900/50 dark:text-blue-300 px-4 py-2 rounded-full border border-blue-200 dark:border-blue-700/50">
                 <Globe className="w-4 h-4" />
                 25+ Countries
               </div>
-              <div className="flex items-center gap-3 text-sm bg-purple-900/50 text-purple-300 px-4 py-2 rounded-full border border-purple-700/50">
+              <div className="flex items-center gap-3 text-sm bg-purple-100 text-purple-800 dark:bg-purple-900/50 dark:text-purple-300 px-4 py-2 rounded-full border border-purple-200 dark:border-purple-700/50">
                 <Award className="w-4 h-4" />
                 15 Industry Awards
               </div>
@@ -225,15 +225,15 @@ export default function AboutUs() {
       </section>
 
       {/* Mission & Vision */}
-      <section className="py-20 bg-gray-900/50">
+      <section className="py-20 bg-muted/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-12">
             <div className="space-y-8">
               <div className="flex items-center gap-4">
                 <Target className="w-12 h-12 text-green-400" />
-                <h2 className="text-4xl font-bold text-white">Our Mission</h2>
+                <h2 className="text-4xl font-bold text-foreground">Our Mission</h2>
               </div>
-              <p className="text-lg text-gray-300 leading-relaxed">
+              <p className="text-lg text-muted-foreground leading-relaxed">
                 To revolutionize global agriculture by making precision farming accessible, affordable, 
                 and sustainable for farmers worldwide. We believe that technology should serve humanity 
                 and the planet, creating a future where food production harmonizes with nature rather 
@@ -242,19 +242,19 @@ export default function AboutUs() {
               <div className="space-y-4">
                 <div className="flex items-center gap-3">
                   <CheckCircle className="w-5 h-5 text-green-400" />
-                  <span className="text-gray-300">Democratize advanced farming technology</span>
+                  <span className="text-muted-foreground">Democratize advanced farming technology</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <CheckCircle className="w-5 h-5 text-green-400" />
-                  <span className="text-gray-300">Reduce agricultural environmental impact by 50%</span>
+                  <span className="text-muted-foreground">Reduce agricultural environmental impact by 50%</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <CheckCircle className="w-5 h-5 text-green-400" />
-                  <span className="text-gray-300">Increase global food production efficiency</span>
+                  <span className="text-muted-foreground">Increase global food production efficiency</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <CheckCircle className="w-5 h-5 text-green-400" />
-                  <span className="text-gray-300">Empower farmers with data-driven decisions</span>
+                  <span className="text-muted-foreground">Empower farmers with data-driven decisions</span>
                 </div>
               </div>
             </div>
@@ -262,16 +262,16 @@ export default function AboutUs() {
             <div className="space-y-8">
               <div className="flex items-center gap-4">
                 <Eye className="w-12 h-12 text-emerald-400" />
-                <h2 className="text-4xl font-bold text-white">Our Vision</h2>
+                <h2 className="text-4xl font-bold text-foreground">Our Vision</h2>
               </div>
-              <p className="text-lg text-gray-300 leading-relaxed">
+              <p className="text-lg text-muted-foreground leading-relaxed">
                 We envision a world where every farm, regardless of size or location, operates at peak 
                 efficiency while regenerating the environment. A future where technology and tradition 
                 work hand-in-hand to create abundant, sustainable food systems that nourish both people 
                 and the planet for generations to come.
               </p>
-              <div className="bg-gradient-to-r from-green-900/30 to-emerald-900/30 rounded-2xl p-6 border border-green-700/30">
-                <p className="text-green-300 text-lg font-semibold italic">
+              <div className="bg-gradient-to-r from-green-100 to-emerald-100 dark:from-green-900/30 dark:to-emerald-900/30 rounded-2xl p-6 border border-green-200 dark:border-green-700/30">
+                <p className="text-green-800 dark:text-green-300 text-lg font-semibold italic">
                   "By 2030, we aim to transform 1 million farms worldwide into models of 
                   sustainable, technology-enabled agriculture."
                 </p>
@@ -285,8 +285,8 @@ export default function AboutUs() {
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-white mb-4">Our Journey</h2>
-            <p className="text-xl text-gray-400 max-w-3xl mx-auto">
+            <h2 className="text-4xl font-bold text-foreground mb-4">Our Journey</h2>
+            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               From a university research project to a global leader in agricultural technology
             </p>
           </div>
@@ -302,15 +302,15 @@ export default function AboutUs() {
                 <div key={index} className={`relative flex items-center ${index % 2 === 0 ? 'flex-row' : 'flex-row-reverse'}`}>
                   {/* Content */}
                   <div className={`w-1/2 ${index % 2 === 0 ? 'pr-12 text-right' : 'pl-12'}`}>
-                    <div className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-6 hover:border-green-500/30 transition-all duration-300">
+                    <div className="bg-card backdrop-blur-lg border border-border rounded-2xl p-6 hover:border-green-500/30 transition-all duration-300">
                       <div className="text-green-400 text-2xl font-bold mb-2">{milestone.year}</div>
-                      <h3 className="text-xl font-semibold text-white mb-2">{milestone.event}</h3>
-                      <p className="text-gray-400">{milestone.description}</p>
+                      <h3 className="text-xl font-semibold text-foreground mb-2">{milestone.event}</h3>
+                      <p className="text-muted-foreground">{milestone.description}</p>
                     </div>
                   </div>
                   
                   {/* Dot */}
-                  <div className="absolute left-1/2 transform -translate-x-1/2 w-6 h-6 bg-green-500 rounded-full border-4 border-black"></div>
+                  <div className="absolute left-1/2 transform -translate-x-1/2 w-6 h-6 bg-green-500 rounded-full border-4 border-background"></div>
                 </div>
               ))}
             </div>
@@ -319,23 +319,23 @@ export default function AboutUs() {
       </section>
 
       {/* Core Values */}
-      <section className="py-20 bg-gray-900/50">
+      <section className="py-20 bg-muted/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-white mb-4">Our Core Values</h2>
-            <p className="text-xl text-gray-400 max-w-3xl mx-auto">
+            <h2 className="text-4xl font-bold text-foreground mb-4">Our Core Values</h2>
+            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               The principles that guide every decision we make and every technology we develop
             </p>
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {values.map((value, index) => (
-              <div key={index} className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-8 hover:border-green-500/30 transition-all duration-300 group">
+              <div key={index} className="bg-card backdrop-blur-lg border border-border rounded-2xl p-8 hover:border-green-500/30 transition-all duration-300 group">
                 <div className="text-green-400 mb-4 group-hover:scale-110 transition-transform duration-300">
                   {value.icon}
                 </div>
-                <h3 className="text-xl font-semibold text-white mb-4">{value.title}</h3>
-                <p className="text-gray-400 leading-relaxed">{value.description}</p>
+                <h3 className="text-xl font-semibold text-foreground mb-4">{value.title}</h3>
+                <p className="text-muted-foreground leading-relaxed">{value.description}</p>
               </div>
             ))}
           </div>
@@ -346,21 +346,21 @@ export default function AboutUs() {
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-white mb-4">Our Technology Stack</h2>
-            <p className="text-xl text-gray-400 max-w-3xl mx-auto">
+            <h2 className="text-4xl font-bold text-foreground mb-4">Our Technology Stack</h2>
+            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               Cutting-edge solutions powering the future of sustainable agriculture
             </p>
           </div>
 
           <div className="grid lg:grid-cols-2 gap-12">
             {technologies.map((tech, index) => (
-              <div key={index} className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-8">
-                <h3 className="text-2xl font-semibold text-white mb-6">{tech.category}</h3>
+              <div key={index} className="bg-card backdrop-blur-lg border border-border rounded-2xl p-8">
+                <h3 className="text-2xl font-semibold text-foreground mb-6">{tech.category}</h3>
                 <div className="space-y-4">
                   {tech.items.map((item, itemIndex) => (
                     <div key={itemIndex} className="flex items-center gap-3">
                       <div className="w-2 h-2 bg-green-400 rounded-full"></div>
-                      <span className="text-gray-300">{item}</span>
+                      <span className="text-foreground">{item}</span>
                     </div>
                   ))}
                 </div>
@@ -378,8 +378,8 @@ export default function AboutUs() {
             ].map((stat, index) => (
               <div key={index} className="text-center">
                 <div className="text-green-400 mb-4 mx-auto">{stat.icon}</div>
-                <div className="text-3xl font-bold text-white mb-2">{stat.value}</div>
-                <div className="text-gray-400">{stat.label}</div>
+                <div className="text-3xl font-bold text-foreground mb-2">{stat.value}</div>
+                <div className="text-muted-foreground">{stat.label}</div>
               </div>
             ))}
           </div>
@@ -387,30 +387,30 @@ export default function AboutUs() {
       </section>
 
       {/* Team Section */}
-      <section className="py-20 bg-gray-900/50">
+      <section className="py-20 bg-muted/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-white mb-4">Meet Our Leadership Team</h2>
-            <p className="text-xl text-gray-400 max-w-3xl mx-auto">
+            <h2 className="text-4xl font-bold text-foreground mb-4">Meet Our Leadership Team</h2>
+            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               World-class experts driving innovation in agricultural technology
             </p>
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {teamMembers.map((member, index) => (
-              <div key={index} className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-8 hover:border-green-500/30 transition-all duration-300 group">
+              <div key={index} className="bg-card backdrop-blur-lg border border-border rounded-2xl p-8 hover:border-green-500/30 transition-all duration-300 group">
                 <div className="text-center">
                   {/* Placeholder for team member image */}
                   <div className="w-24 h-24 bg-gradient-to-br from-green-500 to-emerald-500 rounded-full mx-auto mb-6 flex items-center justify-center text-white text-2xl font-bold">
                     {member.name.split(' ').map(n => n[0]).join('')}
                   </div>
-                  <h3 className="text-xl font-semibold text-white mb-2">{member.name}</h3>
+                  <h3 className="text-xl font-semibold text-foreground mb-2">{member.name}</h3>
                   <p className="text-green-400 mb-4">{member.role}</p>
-                  <p className="text-gray-400 text-sm mb-6 leading-relaxed">{member.bio}</p>
+                  <p className="text-muted-foreground text-sm mb-6 leading-relaxed">{member.bio}</p>
                   
                   <div className="space-y-2">
                     {member.expertise.map((skill, skillIndex) => (
-                      <div key={skillIndex} className="text-xs bg-gray-800 text-gray-300 px-3 py-1 rounded-full inline-block mr-2">
+                      <div key={skillIndex} className="text-xs bg-muted text-muted-foreground px-3 py-1 rounded-full inline-block mr-2">
                         {skill}
                       </div>
                     ))}
@@ -428,9 +428,9 @@ export default function AboutUs() {
               { value: '25+', label: 'Countries Represented' },
               { value: '50+', label: 'Research Papers Published' },
             ].map((stat, index) => (
-              <div key={index} className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-6">
+              <div key={index} className="bg-card backdrop-blur-lg border border-border rounded-2xl p-6">
                 <div className="text-3xl font-bold text-green-400 mb-2">{stat.value}</div>
-                <div className="text-gray-400">{stat.label}</div>
+                <div className="text-muted-foreground">{stat.label}</div>
               </div>
             ))}
           </div>
@@ -441,28 +441,28 @@ export default function AboutUs() {
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-white mb-4">Certifications & Awards</h2>
-            <p className="text-xl text-gray-400 max-w-3xl mx-auto">
+            <h2 className="text-4xl font-bold text-foreground mb-4">Certifications & Awards</h2>
+            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               Recognition for our commitment to quality, innovation, and sustainability
             </p>
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {certifications.map((cert, index) => (
-              <div key={index} className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-6 text-center hover:border-green-500/30 transition-all duration-300">
+              <div key={index} className="bg-card backdrop-blur-lg border border-border rounded-2xl p-6 text-center hover:border-green-500/30 transition-all duration-300">
                 <Award className="w-12 h-12 text-green-400 mx-auto mb-4" />
-                <h3 className="text-lg font-semibold text-white mb-2">{cert.name}</h3>
-                <p className="text-gray-400 text-sm">{cert.description}</p>
+                <h3 className="text-lg font-semibold text-foreground mb-2">{cert.name}</h3>
+                <p className="text-muted-foreground text-sm">{cert.description}</p>
               </div>
             ))}
           </div>
 
           {/* Awards Showcase */}
-          <div className="mt-16 bg-gradient-to-r from-green-900/20 to-emerald-900/20 rounded-2xl p-8 border border-green-700/30">
+          <div className="mt-16 bg-gradient-to-r from-green-100 to-emerald-100 dark:from-green-900/20 dark:to-emerald-900/20 rounded-2xl p-8 border border-green-200 dark:border-green-700/30">
             <div className="text-center">
               <Gem className="w-16 h-16 text-yellow-400 mx-auto mb-4" />
-              <h3 className="text-2xl font-bold text-white mb-4">2024 Global Sustainability Award</h3>
-              <p className="text-gray-300 text-lg mb-6">
+              <h3 className="text-2xl font-bold text-foreground mb-4">2024 Global Sustainability Award</h3>
+              <p className="text-foreground text-lg mb-6">
                 Recognized for outstanding contribution to sustainable agriculture and environmental conservation
               </p>
               <div className="flex justify-center gap-4">
@@ -476,11 +476,11 @@ export default function AboutUs() {
       </section>
 
       {/* Global Impact */}
-      <section className="py-20 bg-gray-900/50">
+      <section className="py-20 bg-muted/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-white mb-4">Global Impact</h2>
-            <p className="text-xl text-gray-400 max-w-3xl mx-auto">
+            <h2 className="text-4xl font-bold text-foreground mb-4">Global Impact</h2>
+            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               Transforming agriculture across continents and communities
             </p>
           </div>
@@ -491,17 +491,17 @@ export default function AboutUs() {
               { icon: <Droplets className="w-8 h-8" />, value: '3.5B', label: 'Liters of Water Saved' },
               { icon: <Flower2 className="w-8 h-8" />, value: '45%', label: 'Yield Improvement' },
             ].map((impact, index) => (
-              <div key={index} className="text-center bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-8">
+              <div key={index} className="text-center bg-card backdrop-blur-lg border border-border rounded-2xl p-8">
                 <div className="text-green-400 mb-4 mx-auto">{impact.icon}</div>
-                <div className="text-4xl font-bold text-white mb-2">{impact.value}</div>
-                <div className="text-gray-400 text-lg">{impact.label}</div>
+                <div className="text-4xl font-bold text-foreground mb-2">{impact.value}</div>
+                <div className="text-muted-foreground text-lg">{impact.label}</div>
               </div>
             ))}
           </div>
 
           {/* Environmental Impact */}
-          <div className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-8">
-            <h3 className="text-2xl font-semibold text-white mb-6 text-center">Environmental Impact Metrics</h3>
+          <div className="bg-card backdrop-blur-lg border border-border rounded-2xl p-8">
+            <h3 className="text-2xl font-semibold text-foreground mb-6 text-center">Environmental Impact Metrics</h3>
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
               {[
                 { metric: 'Carbon Emissions Reduced', value: '28,500 tons', icon: <Wind className="w-6 h-6" /> },
@@ -511,8 +511,8 @@ export default function AboutUs() {
               ].map((item, index) => (
                 <div key={index} className="text-center">
                   <div className="text-green-400 mb-2 mx-auto">{item.icon}</div>
-                  <div className="text-lg font-semibold text-white">{item.value}</div>
-                  <div className="text-gray-400 text-sm">{item.metric}</div>
+                  <div className="text-lg font-semibold text-foreground">{item.value}</div>
+                  <div className="text-muted-foreground text-sm">{item.metric}</div>
                 </div>
               ))}
             </div>
@@ -524,18 +524,18 @@ export default function AboutUs() {
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-white mb-4">Strategic Partnerships</h2>
-            <p className="text-xl text-gray-400 max-w-3xl mx-auto">
+            <h2 className="text-4xl font-bold text-foreground mb-4">Strategic Partnerships</h2>
+            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               Collaborating with global leaders to drive agricultural innovation
             </p>
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {partnerships.map((partner, index) => (
-              <div key={index} className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-6 text-center hover:border-green-500/30 transition-all duration-300">
+              <div key={index} className="bg-card backdrop-blur-lg border border-border rounded-2xl p-6 text-center hover:border-green-500/30 transition-all duration-300">
                 <Globe className="w-12 h-12 text-green-400 mx-auto mb-4" />
-                <h3 className="text-lg font-semibold text-white mb-2">{partner.name}</h3>
-                <p className="text-gray-400 text-sm">{partner.type}</p>
+                <h3 className="text-lg font-semibold text-foreground mb-2">{partner.name}</h3>
+                <p className="text-muted-foreground text-sm">{partner.type}</p>
               </div>
             ))}
           </div>
@@ -543,11 +543,11 @@ export default function AboutUs() {
       </section>
 
       {/* Call to Action */}
-      <section className="py-20 bg-gradient-to-br from-green-900/20 via-black to-emerald-900/10">
+      <section className="py-20 bg-gradient-to-br from-green-100 to-emerald-100 dark:from-green-900/20 dark:via-background dark:to-emerald-900/10">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <Rocket className="w-16 h-16 text-green-400 mx-auto mb-6" />
-          <h2 className="text-4xl font-bold text-white mb-6">Join Our Mission</h2>
-          <p className="text-xl text-gray-300 mb-8 leading-relaxed">
+          <h2 className="text-4xl font-bold text-foreground mb-6">Join Our Mission</h2>
+          <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
             Be part of the agricultural revolution. Whether you're a farmer, researcher, 
             or technology enthusiast, there's a place for you in our growing community.
           </p>
@@ -555,7 +555,7 @@ export default function AboutUs() {
             <button className="bg-green-500 hover:bg-green-600 text-white px-8 py-3 rounded-lg font-semibold transition-colors duration-300 flex items-center gap-2">
               Contact Us <ArrowRight className="w-4 h-4" />
             </button>
-            <button className="border border-green-500 text-green-400 hover:bg-green-500/10 px-8 py-3 rounded-lg font-semibold transition-colors duration-300 flex items-center gap-2">
+            <button className="border border-green-500 text-green-500 hover:bg-green-500/10 px-8 py-3 rounded-lg font-semibold transition-colors duration-300 flex items-center gap-2">
               View Careers <Users className="w-4 h-4" />
             </button>
           </div>
@@ -563,12 +563,12 @@ export default function AboutUs() {
       </section>
 
       {/* Contact Information */}
-      <section className="py-20 bg-gray-900/50">
+      <section className="py-20 bg-muted/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-3 gap-12">
             <div className="lg:col-span-2">
-              <h2 className="text-3xl font-bold text-white mb-6">Get In Touch</h2>
-              <p className="text-gray-300 text-lg mb-8">
+              <h2 className="text-3xl font-bold text-foreground mb-6">Get In Touch</h2>
+              <p className="text-muted-foreground text-lg mb-8">
                 Have questions about our technology or want to learn how Sakhl-Agri can transform your farming operations? 
                 Our team is here to help you every step of the way.
               </p>
@@ -583,16 +583,16 @@ export default function AboutUs() {
                   <div key={index} className="flex items-center gap-4">
                     <div className="text-green-400">{contact.icon}</div>
                     <div>
-                      <div className="text-white font-semibold">{contact.detail}</div>
-                      <div className="text-gray-400 text-sm">{contact.label}</div>
+                      <div className="text-foreground font-semibold">{contact.detail}</div>
+                      <div className="text-muted-foreground text-sm">{contact.label}</div>
                     </div>
                   </div>
                 ))}
               </div>
             </div>
             
-            <div className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-8">
-              <h3 className="text-xl font-semibold text-white mb-4">Quick Facts</h3>
+            <div className="bg-card backdrop-blur-lg border border-border rounded-2xl p-8">
+              <h3 className="text-xl font-semibold text-foreground mb-4">Quick Facts</h3>
               <div className="space-y-4">
                 {[
                   { label: 'Founded', value: '2018' },
@@ -601,8 +601,8 @@ export default function AboutUs() {
                   { label: 'Farms Transformed', value: '5,000+' },
                   { label: 'Data Points Analyzed', value: '2.1M daily' },
                 ].map((fact, index) => (
-                  <div key={index} className="flex justify-between items-center border-b border-gray-800 pb-2">
-                    <span className="text-gray-400">{fact.label}</span>
+                  <div key={index} className="flex justify-between items-center border-b border-border pb-2">
+                    <span className="text-muted-foreground">{fact.label}</span>
                     <span className="text-green-400 font-semibold">{fact.value}</span>
                   </div>
                 ))}

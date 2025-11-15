@@ -153,11 +153,12 @@ export default function AIInsights() {
   const [showSolutionModal, setShowSolutionModal] = useState(false);
   const [showFormula, setShowFormula] = useState(false);
   const [cropInputs, setCropInputs] = useState({
-    moisture: 65,
-    temperature: 25,
-    humidity: 68,
+    moisture: '',
+    temperature: '',
+    humidity: '',
     season: 'Rabi'
   });
+  const [calculatedScore, setCalculatedScore] = useState<number | null>(null);
   const cameraRef = useRef<HTMLInputElement>(null);
   const fileRef = useRef<HTMLInputElement>(null);
 
@@ -237,18 +238,56 @@ export default function AIInsights() {
     return Math.round((moisture * 0.40 + temperature * 0.35 + humidity * 0.25) * 100 + seasonBonus);
   };
 
-  const currentScore = calculateCropScore(
-    cropInputs.moisture,
-    cropInputs.temperature,
-    cropInputs.humidity,
-    cropInputs.season
-  );
-
-  const handleInputChange = (field: string, value: number) => {
+  const handleInputChange = (field: string, value: string) => {
     setCropInputs(prev => ({
       ...prev,
       [field]: value
     }));
+  };
+
+  const handleCalculateScore = () => {
+    const moisture = parseFloat(cropInputs.moisture);
+    const temperature = parseFloat(cropInputs.temperature);
+    const humidity = parseFloat(cropInputs.humidity);
+
+    if (isNaN(moisture) || isNaN(temperature) || isNaN(humidity)) {
+      alert('Please enter valid numbers for all fields');
+      return;
+    }
+
+    if (moisture < 0 || moisture > 100) {
+      alert('Moisture must be between 0-100%');
+      return;
+    }
+
+    if (temperature < 0 || temperature > 50) {
+      alert('Temperature must be between 0-50°C');
+      return;
+    }
+
+    if (humidity < 0 || humidity > 100) {
+      alert('Humidity must be between 0-100%');
+      return;
+    }
+
+    const score = calculateCropScore(moisture, temperature, humidity, cropInputs.season);
+    setCalculatedScore(score);
+  };
+
+  const getScoreColor = (score: number) => {
+    if (score >= 90) return 'from-green-400 to-green-600';
+    if (score >= 80) return 'from-blue-400 to-blue-600';
+    if (score >= 70) return 'from-yellow-400 to-yellow-600';
+    if (score >= 60) return 'from-orange-400 to-orange-600';
+    return 'from-red-400 to-red-600';
+  };
+
+  const getScoreText = (score: number) => {
+    if (score >= 90) return 'Excellent';
+    if (score >= 80) return 'Very Good';
+    if (score >= 70) return 'Good';
+    if (score >= 60) return 'Fair';
+    return 'Poor';
   };
 
   const WeatherIcon = ({ condition, size = 24 }: { condition: string; size?: number }) => {
@@ -410,53 +449,47 @@ export default function AIInsights() {
                     <h4 className="text-lg font-semibold">Input Parameters</h4>
                     <div className="grid grid-cols-2 gap-4">
                       <div className="space-y-2">
-                        <label className="text-sm font-medium text-foreground/70">Soil Moisture</label>
-                        <div className="flex items-center gap-2">
-                          <input
-                            type="range"
-                            min="0"
-                            max="100"
-                            value={cropInputs.moisture}
-                            onChange={(e) => handleInputChange('moisture', parseInt(e.target.value))}
-                            className="w-full"
-                          />
-                          <span className="text-sm font-semibold w-12">{cropInputs.moisture}%</span>
-                        </div>
+                        <label className="text-sm font-medium text-foreground/70">Soil Moisture (%)</label>
+                        <input
+                          type="number"
+                          min="0"
+                          max="100"
+                          placeholder="0-100"
+                          value={cropInputs.moisture}
+                          onChange={(e) => handleInputChange('moisture', e.target.value)}
+                          className="w-full p-3 bg-secondary/50 rounded-lg border border-border focus:border-accent focus:outline-none transition-colors"
+                        />
                       </div>
                       <div className="space-y-2">
-                        <label className="text-sm font-medium text-foreground/70">Temperature</label>
-                        <div className="flex items-center gap-2">
-                          <input
-                            type="range"
-                            min="0"
-                            max="50"
-                            value={cropInputs.temperature}
-                            onChange={(e) => handleInputChange('temperature', parseInt(e.target.value))}
-                            className="w-full"
-                          />
-                          <span className="text-sm font-semibold w-12">{cropInputs.temperature}°C</span>
-                        </div>
+                        <label className="text-sm font-medium text-foreground/70">Temperature (°C)</label>
+                        <input
+                          type="number"
+                          min="0"
+                          max="50"
+                          placeholder="0-50"
+                          value={cropInputs.temperature}
+                          onChange={(e) => handleInputChange('temperature', e.target.value)}
+                          className="w-full p-3 bg-secondary/50 rounded-lg border border-border focus:border-accent focus:outline-none transition-colors"
+                        />
                       </div>
                       <div className="space-y-2">
-                        <label className="text-sm font-medium text-foreground/70">Humidity</label>
-                        <div className="flex items-center gap-2">
-                          <input
-                            type="range"
-                            min="0"
-                            max="100"
-                            value={cropInputs.humidity}
-                            onChange={(e) => handleInputChange('humidity', parseInt(e.target.value))}
-                            className="w-full"
-                          />
-                          <span className="text-sm font-semibold w-12">{cropInputs.humidity}%</span>
-                        </div>
+                        <label className="text-sm font-medium text-foreground/70">Humidity (%)</label>
+                        <input
+                          type="number"
+                          min="0"
+                          max="100"
+                          placeholder="0-100"
+                          value={cropInputs.humidity}
+                          onChange={(e) => handleInputChange('humidity', e.target.value)}
+                          className="w-full p-3 bg-secondary/50 rounded-lg border border-border focus:border-accent focus:outline-none transition-colors"
+                        />
                       </div>
                       <div className="space-y-2">
                         <label className="text-sm font-medium text-foreground/70">Season</label>
                         <select
                           value={cropInputs.season}
                           onChange={(e) => handleInputChange('season', e.target.value)}
-                          className="w-full p-2 bg-secondary/50 rounded-lg border border-border"
+                          className="w-full p-3 bg-secondary/50 rounded-lg border border-border focus:border-accent focus:outline-none transition-colors"
                         >
                           <option value="Rabi">Rabi</option>
                           <option value="Kharif">Kharif</option>
@@ -464,19 +497,25 @@ export default function AIInsights() {
                         </select>
                       </div>
                     </div>
+
+                    <button
+                      onClick={handleCalculateScore}
+                      className="w-full bg-accent hover:bg-accent/90 text-white py-3 rounded-lg transition-colors font-semibold mt-4"
+                    >
+                      Calculate Crop Score
+                    </button>
                   </div>
 
                   {/* Output Score */}
-                  <div className="text-center p-6 bg-gradient-to-br from-green-400 to-green-600 rounded-lg mb-4">
-                    <p className="text-sm text-white/90 mb-2">Crop Suitability Score</p>
-                    <p className="text-4xl font-bold text-white">{currentScore}/100</p>
-                    <p className="text-sm text-white/80 mt-2">
-                      {currentScore >= 90 ? 'Excellent' : 
-                       currentScore >= 80 ? 'Very Good' :
-                       currentScore >= 70 ? 'Good' :
-                       currentScore >= 60 ? 'Fair' : 'Poor'}
-                    </p>
-                  </div>
+                  {calculatedScore !== null && (
+                    <div className={`text-center p-6 bg-gradient-to-br ${getScoreColor(calculatedScore)} rounded-lg mb-4`}>
+                      <p className="text-sm text-white/90 mb-2">Crop Suitability Score</p>
+                      <p className="text-4xl font-bold text-white">{calculatedScore}/100</p>
+                      <p className="text-sm text-white/80 mt-2">
+                        {getScoreText(calculatedScore)}
+                      </p>
+                    </div>
+                  )}
 
                   {/* Expandable Formula Section */}
                   <div className="border-t border-border pt-4">

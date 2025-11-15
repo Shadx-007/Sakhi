@@ -293,7 +293,7 @@ export default function Sensors() {
   ];
 
   return (
-    <main className="min-h-screen bg-black pt-20">
+    <main className="min-h-screen bg-background dark:bg-background pt-20">
       <Navbar />
       <DashboardAnimatedObjects />
 
@@ -305,7 +305,7 @@ export default function Sensors() {
             <h1 className="text-6xl font-bold bg-gradient-to-r from-green-400 to-emerald-400 bg-clip-text text-transparent">
               IoT Sensor Network
             </h1>
-            <p className="text-xl text-gray-300 max-w-4xl mx-auto leading-relaxed">
+            <p className="text-xl text-foreground/70 max-w-4xl mx-auto leading-relaxed">
               Comprehensive monitoring and management of your agricultural sensor ecosystem. 
               Real-time data, advanced analytics, and proactive maintenance.
             </p>
@@ -327,12 +327,12 @@ export default function Sensors() {
 
           {/* System Health Overview */}
           <section>
-            <h2 className="text-3xl font-bold text-white mb-8">System Health Overview</h2>
+            <h2 className="text-3xl font-bold text-foreground mb-8">System Health Overview</h2>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {sensorHealthMetrics.map((metric, index) => (
-                <div key={index} className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-6 hover:border-green-500/30 transition-all duration-300">
+                <div key={index} className="glass dark:glass-dark border border-border rounded-2xl p-6 hover:border-accent/30 transition-all duration-300">
                   <div className="flex items-center justify-between mb-4">
-                    <h3 className="text-lg font-semibold text-white">{metric.metric}</h3>
+                    <h3 className="text-lg font-semibold text-foreground">{metric.metric}</h3>
                     <span className={`text-sm font-semibold px-3 py-1 rounded-full ${
                       metric.status === 'Excellent' ? 'bg-green-900/50 text-green-300 border border-green-700/50' :
                       'bg-blue-900/50 text-blue-300 border border-blue-700/50'
@@ -341,7 +341,7 @@ export default function Sensors() {
                     </span>
                   </div>
                   <div className="flex items-baseline gap-3">
-                    <p className="text-3xl font-bold text-white">{metric.value}</p>
+                    <p className="text-3xl font-bold text-foreground">{metric.value}</p>
                     <span className={`text-sm font-semibold ${
                       metric.trend.startsWith('+') ? 'text-green-400' : 'text-red-400'
                     }`}>
@@ -355,12 +355,12 @@ export default function Sensors() {
 
           {/* Field Groups Overview */}
           <section>
-            <h2 className="text-3xl font-bold text-white mb-8">Field Groups & Sensor Distribution</h2>
+            <h2 className="text-3xl font-bold text-foreground mb-8">Field Groups & Sensor Distribution</h2>
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
               {sensorGroups.map((group, index) => (
-                <div key={index} className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-6 hover:border-green-500/30 transition-all duration-300">
+                <div key={index} className="glass dark:glass-dark border border-border rounded-2xl p-6 hover:border-accent/30 transition-all duration-300">
                   <div className="flex items-center justify-between mb-4">
-                    <h3 className="text-lg font-semibold text-white">{group.name}</h3>
+                    <h3 className="text-lg font-semibold text-foreground">{group.name}</h3>
                     <span className={`text-xs font-semibold px-3 py-1 rounded-full ${
                       group.status === 'Optimal' ? 'bg-green-900/50 text-green-300 border border-green-700/50' :
                       group.status === 'Good' ? 'bg-blue-900/50 text-blue-300 border border-blue-700/50' :
@@ -371,16 +371,16 @@ export default function Sensors() {
                   </div>
                   <div className="space-y-3">
                     <div className="flex justify-between text-sm">
-                      <span className="text-gray-400">Sensors:</span>
-                      <span className="text-white font-semibold">{group.count}</span>
+                      <span className="text-foreground/70">Sensors:</span>
+                      <span className="text-foreground font-semibold">{group.count}</span>
                     </div>
                     <div className="flex justify-between text-sm">
-                      <span className="text-gray-400">Area:</span>
-                      <span className="text-white font-semibold">{group.area}</span>
+                      <span className="text-foreground/70">Area:</span>
+                      <span className="text-foreground font-semibold">{group.area}</span>
                     </div>
                     <div className="flex justify-between text-sm">
-                      <span className="text-gray-400">Crop:</span>
-                      <span className="text-white font-semibold">{group.crop}</span>
+                      <span className="text-foreground/70">Crop:</span>
+                      <span className="text-foreground font-semibold">{group.crop}</span>
                     </div>
                   </div>
                 </div>
@@ -391,13 +391,13 @@ export default function Sensors() {
           {/* Main Sensor Grid */}
           <section>
             <div className="flex items-center justify-between mb-8">
-              <h2 className="text-3xl font-bold text-white">All Connected Sensors</h2>
+              <h2 className="text-3xl font-bold text-foreground">All Connected Sensors</h2>
               <div className="flex items-center gap-4">
-                <button className="flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-lg transition-colors duration-300">
+                <button className="flex items-center gap-2 bg-accent hover:bg-accent/90 text-white px-4 py-2 rounded-lg transition-colors duration-300">
                   <RefreshCw className="w-4 h-4" />
                   Refresh
                 </button>
-                <button className="flex items-center gap-2 border border-green-500 text-green-400 hover:bg-green-500/10 px-4 py-2 rounded-lg transition-colors duration-300">
+                <button className="flex items-center gap-2 border border-accent text-accent hover:bg-accent/10 px-4 py-2 rounded-lg transition-colors duration-300">
                   <Download className="w-4 h-4" />
                   Export Data
                 </button>
@@ -406,7 +406,7 @@ export default function Sensors() {
 
             <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-8">
               {sensors.map((sensor, i) => (
-                <div key={i} className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-8 hover:border-green-500/30 transition-all duration-300 group">
+                <div key={i} className="glass dark:glass-dark border border-border rounded-2xl p-8 hover:border-accent/30 transition-all duration-300 group">
                   {/* Sensor Header */}
                   <div className="flex items-start justify-between mb-6">
                     <div className={`w-16 h-16 bg-gradient-to-br ${sensor.color} rounded-2xl flex items-center justify-center text-white group-hover:scale-110 transition-transform duration-300`}>
@@ -416,72 +416,72 @@ export default function Sensors() {
                       <span className="text-xs font-semibold bg-green-900/50 text-green-300 px-3 py-1 rounded-full border border-green-700/50">
                         {sensor.status}
                       </span>
-                      <p className="text-xs text-gray-500">{sensor.id}</p>
+                      <p className="text-xs text-foreground/50">{sensor.id}</p>
                     </div>
                   </div>
 
                   {/* Sensor Info */}
-                  <h3 className="text-xl font-semibold text-white mb-2">{sensor.name}</h3>
-                  <p className="text-gray-400 text-sm mb-4 flex items-center gap-2">
+                  <h3 className="text-xl font-semibold text-foreground mb-2">{sensor.name}</h3>
+                  <p className="text-foreground/70 text-sm mb-4 flex items-center gap-2">
                     <MapPin className="w-4 h-4" />
                     {sensor.field}
                   </p>
 
                   {/* Reading */}
                   <div className="mb-6">
-                    <p className="text-3xl font-bold text-white mb-1">{sensor.reading}</p>
-                    <p className="text-gray-500 text-sm">Optimal: {sensor.optimal}</p>
+                    <p className="text-3xl font-bold text-foreground mb-1">{sensor.reading}</p>
+                    <p className="text-foreground/50 text-sm">Optimal: {sensor.optimal}</p>
                   </div>
 
                   {/* Technical Details */}
-                  <div className="space-y-4 pt-6 border-t border-gray-800">
+                  <div className="space-y-4 pt-6 border-t border-border">
                     <div className="grid grid-cols-2 gap-4 text-sm">
                       <div className="flex items-center gap-2">
-                        <Battery className="w-4 h-4 text-gray-400" />
-                        <span className="text-gray-400">Battery:</span>
-                        <span className="text-white font-semibold ml-auto">{sensor.battery}</span>
+                        <Battery className="w-4 h-4 text-foreground/70" />
+                        <span className="text-foreground/70">Battery:</span>
+                        <span className="text-foreground font-semibold ml-auto">{sensor.battery}</span>
                       </div>
                       <div className="flex items-center gap-2">
-                        <Wifi className="w-4 h-4 text-gray-400" />
-                        <span className="text-gray-400">Signal:</span>
-                        <span className="text-white font-semibold ml-auto">{sensor.signal}</span>
+                        <Wifi className="w-4 h-4 text-foreground/70" />
+                        <span className="text-foreground/70">Signal:</span>
+                        <span className="text-foreground font-semibold ml-auto">{sensor.signal}</span>
                       </div>
                     </div>
                     
                     <div className="grid grid-cols-2 gap-4 text-sm">
                       <div className="flex items-center gap-2">
-                        <Clock className="w-4 h-4 text-gray-400" />
-                        <span className="text-gray-400">Updated:</span>
-                        <span className="text-white font-semibold ml-auto">{sensor.lastUpdate}</span>
+                        <Clock className="w-4 h-4 text-foreground/70" />
+                        <span className="text-foreground/70">Updated:</span>
+                        <span className="text-foreground font-semibold ml-auto">{sensor.lastUpdate}</span>
                       </div>
                       <div className="flex items-center gap-2">
-                        <Cpu className="w-4 h-4 text-gray-400" />
-                        <span className="text-gray-400">Firmware:</span>
-                        <span className="text-white font-semibold ml-auto">{sensor.firmware}</span>
+                        <Cpu className="w-4 h-4 text-foreground/70" />
+                        <span className="text-foreground/70">Firmware:</span>
+                        <span className="text-foreground font-semibold ml-auto">{sensor.firmware}</span>
                       </div>
                     </div>
 
                     <div className="grid grid-cols-2 gap-4 text-sm">
                       <div className="flex items-center gap-2">
-                        <Gauge className="w-4 h-4 text-gray-400" />
-                        <span className="text-gray-400">Accuracy:</span>
-                        <span className="text-white font-semibold ml-auto">{sensor.accuracy}</span>
+                        <Gauge className="w-4 h-4 text-foreground/70" />
+                        <span className="text-foreground/70">Accuracy:</span>
+                        <span className="text-foreground font-semibold ml-auto">{sensor.accuracy}</span>
                       </div>
                       <div className="flex items-center gap-2">
-                        <Database className="w-4 h-4 text-gray-400" />
-                        <span className="text-gray-400">Data Points:</span>
-                        <span className="text-white font-semibold ml-auto">{sensor.dataPoints}</span>
+                        <Database className="w-4 h-4 text-foreground/70" />
+                        <span className="text-foreground/70">Data Points:</span>
+                        <span className="text-foreground font-semibold ml-auto">{sensor.dataPoints}</span>
                       </div>
                     </div>
                   </div>
 
                   {/* Action Buttons */}
-                  <div className="flex gap-2 pt-6 mt-6 border-t border-gray-800">
-                    <button className="flex-1 bg-gray-800 hover:bg-gray-700 text-white py-2 px-3 rounded-lg text-sm transition-colors duration-300 flex items-center justify-center gap-2">
+                  <div className="flex gap-2 pt-6 mt-6 border-t border-border">
+                    <button className="flex-1 bg-secondary hover:bg-secondary/80 text-foreground py-2 px-3 rounded-lg text-sm transition-colors duration-300 flex items-center justify-center gap-2">
                       <Eye className="w-4 h-4" />
                       Details
                     </button>
-                    <button className="flex-1 bg-gray-800 hover:bg-gray-700 text-white py-2 px-3 rounded-lg text-sm transition-colors duration-300 flex items-center justify-center gap-2">
+                    <button className="flex-1 bg-secondary hover:bg-secondary/80 text-foreground py-2 px-3 rounded-lg text-sm transition-colors duration-300 flex items-center justify-center gap-2">
                       <Settings className="w-4 h-4" />
                       Configure
                     </button>
@@ -493,11 +493,11 @@ export default function Sensors() {
 
           {/* Advanced Sensor Analytics */}
           <section>
-            <h2 className="text-3xl font-bold text-white mb-8">Advanced Sensor Analytics</h2>
+            <h2 className="text-3xl font-bold text-foreground mb-8">Advanced Sensor Analytics</h2>
             <div className="grid lg:grid-cols-2 gap-8">
               {/* Performance Metrics */}
-              <div className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-8">
-                <h3 className="text-xl font-semibold text-white mb-6">Performance Metrics</h3>
+              <div className="glass dark:glass-dark border border-border rounded-2xl p-8">
+                <h3 className="text-xl font-semibold text-foreground mb-6">Performance Metrics</h3>
                 <div className="space-y-6">
                   {[
                     { metric: 'Data Transmission Rate', value: '98.7%', trend: '+1.2%' },
@@ -506,9 +506,9 @@ export default function Sensors() {
                     { metric: 'Network Latency', value: '120ms', trend: '-15ms' },
                   ].map((item, index) => (
                     <div key={index} className="flex items-center justify-between">
-                      <span className="text-gray-300">{item.metric}</span>
+                      <span className="text-foreground/70">{item.metric}</span>
                       <div className="flex items-center gap-3">
-                        <span className="text-white font-semibold">{item.value}</span>
+                        <span className="text-foreground font-semibold">{item.value}</span>
                         <span className={`text-xs font-semibold ${
                           item.trend.startsWith('+') || (item.trend.endsWith('s') && !item.trend.startsWith('-')) ? 'text-green-400' : 'text-red-400'
                         }`}>
@@ -521,8 +521,8 @@ export default function Sensors() {
               </div>
 
               {/* Communication Statistics */}
-              <div className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-8">
-                <h3 className="text-xl font-semibold text-white mb-6">Communication Statistics</h3>
+              <div className="glass dark:glass-dark border border-border rounded-2xl p-8">
+                <h3 className="text-xl font-semibold text-foreground mb-6">Communication Statistics</h3>
                 <div className="space-y-6">
                   {[
                     { protocol: 'LoRaWAN', devices: '4', dataRate: '85.2%' },
@@ -532,8 +532,8 @@ export default function Sensors() {
                   ].map((item, index) => (
                     <div key={index} className="flex items-center justify-between">
                       <div>
-                        <span className="text-white font-semibold">{item.protocol}</span>
-                        <span className="text-gray-500 text-sm ml-2">({item.devices} devices)</span>
+                        <span className="text-foreground font-semibold">{item.protocol}</span>
+                        <span className="text-foreground/50 text-sm ml-2">({item.devices} devices)</span>
                       </div>
                       <span className="text-green-400 font-semibold">{item.dataRate}</span>
                     </div>
@@ -545,17 +545,17 @@ export default function Sensors() {
 
           {/* Maintenance & Management */}
           <section>
-            <h2 className="text-3xl font-bold text-white mb-8 flex items-center gap-3">
+            <h2 className="text-3xl font-bold text-foreground mb-8 flex items-center gap-3">
               <Wrench className="w-8 h-8 text-yellow-500" />
               Maintenance & Management
             </h2>
 
             <div className="grid lg:grid-cols-2 gap-8">
               {/* Maintenance Schedule */}
-              <div className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-8">
+              <div className="glass dark:glass-dark border border-border rounded-2xl p-8">
                 <div className="flex items-center justify-between mb-6">
-                  <h3 className="text-xl font-semibold text-white">Maintenance Schedule</h3>
-                  <Calendar className="w-6 h-6 text-gray-400" />
+                  <h3 className="text-xl font-semibold text-foreground">Maintenance Schedule</h3>
+                  <Calendar className="w-6 h-6 text-foreground/70" />
                 </div>
                 <div className="space-y-4">
                   {maintenanceSchedule.map((item, i) => (
@@ -566,8 +566,8 @@ export default function Sensors() {
                     }`}>
                       <div className="flex items-start justify-between mb-2">
                         <div>
-                          <p className="font-semibold text-white">{item.task}</p>
-                          <p className="text-sm text-gray-400">{item.sensors}</p>
+                          <p className="font-semibold text-foreground">{item.task}</p>
+                          <p className="text-sm text-foreground/70">{item.sensors}</p>
                         </div>
                         <span className={`text-xs font-semibold px-2 py-1 rounded ${
                           item.priority === 'High' ? 'bg-red-900/50 text-red-300' :
@@ -578,8 +578,8 @@ export default function Sensors() {
                         </span>
                       </div>
                       <div className="flex items-center justify-between text-sm">
-                        <span className="text-gray-500">Due: {item.dueDate}</span>
-                        <span className="text-gray-500">{item.estimatedDuration}</span>
+                        <span className="text-foreground/50">Due: {item.dueDate}</span>
+                        <span className="text-foreground/50">{item.estimatedDuration}</span>
                       </div>
                     </div>
                   ))}
@@ -587,8 +587,8 @@ export default function Sensors() {
               </div>
 
               {/* Quick Actions */}
-              <div className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-8">
-                <h3 className="text-xl font-semibold text-white mb-6">Quick Actions</h3>
+              <div className="glass dark:glass-dark border border-border rounded-2xl p-8">
+                <h3 className="text-xl font-semibold text-foreground mb-6">Quick Actions</h3>
                 <div className="grid grid-cols-2 gap-4">
                   {[
                     { icon: <RefreshCw className="w-5 h-5" />, label: 'Sync All Sensors', color: 'bg-blue-500 hover:bg-blue-600' },
@@ -610,29 +610,29 @@ export default function Sensors() {
 
           {/* Sensor Specifications */}
           <section>
-            <h2 className="text-3xl font-bold text-white mb-8">Detailed Sensor Specifications</h2>
-            <div className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-8">
+            <h2 className="text-3xl font-bold text-foreground mb-8">Detailed Sensor Specifications</h2>
+            <div className="glass dark:glass-dark border border-border rounded-2xl p-8">
               <div className="overflow-x-auto">
                 <table className="w-full">
                   <thead>
-                    <tr className="border-b border-gray-800">
-                      <th className="text-left py-4 px-4 text-gray-400 font-semibold">Sensor ID</th>
-                      <th className="text-left py-4 px-4 text-gray-400 font-semibold">Type</th>
-                      <th className="text-left py-4 px-4 text-gray-400 font-semibold">Range</th>
-                      <th className="text-left py-4 px-4 text-gray-400 font-semibold">Resolution</th>
-                      <th className="text-left py-4 px-4 text-gray-400 font-semibold">Manufacturer</th>
-                      <th className="text-left py-4 px-4 text-gray-400 font-semibold">Protocol</th>
+                    <tr className="border-b border-border">
+                      <th className="text-left py-4 px-4 text-foreground/70 font-semibold">Sensor ID</th>
+                      <th className="text-left py-4 px-4 text-foreground/70 font-semibold">Type</th>
+                      <th className="text-left py-4 px-4 text-foreground/70 font-semibold">Range</th>
+                      <th className="text-left py-4 px-4 text-foreground/70 font-semibold">Resolution</th>
+                      <th className="text-left py-4 px-4 text-foreground/70 font-semibold">Manufacturer</th>
+                      <th className="text-left py-4 px-4 text-foreground/70 font-semibold">Protocol</th>
                     </tr>
                   </thead>
                   <tbody>
                     {sensors.map((sensor) => (
-                      <tr key={sensor.id} className="border-b border-gray-800/50 hover:bg-gray-800/30 transition-colors duration-300">
-                        <td className="py-4 px-4 text-white font-mono">{sensor.id}</td>
-                        <td className="py-4 px-4 text-gray-300">{sensor.type}</td>
-                        <td className="py-4 px-4 text-gray-300">{sensor.range}</td>
-                        <td className="py-4 px-4 text-gray-300">{sensor.resolution}</td>
-                        <td className="py-4 px-4 text-gray-300">{sensor.manufacturer}</td>
-                        <td className="py-4 px-4 text-gray-300">{sensor.commProtocol}</td>
+                      <tr key={sensor.id} className="border-b border-border/50 hover:bg-secondary/30 transition-colors duration-300">
+                        <td className="py-4 px-4 text-foreground font-mono">{sensor.id}</td>
+                        <td className="py-4 px-4 text-foreground/70">{sensor.type}</td>
+                        <td className="py-4 px-4 text-foreground/70">{sensor.range}</td>
+                        <td className="py-4 px-4 text-foreground/70">{sensor.resolution}</td>
+                        <td className="py-4 px-4 text-foreground/70">{sensor.manufacturer}</td>
+                        <td className="py-4 px-4 text-foreground/70">{sensor.commProtocol}</td>
                       </tr>
                     ))}
                   </tbody>
@@ -643,15 +643,15 @@ export default function Sensors() {
 
           {/* Troubleshooting & Support */}
           <section>
-            <h2 className="text-3xl font-bold text-white mb-8 flex items-center gap-3">
+            <h2 className="text-3xl font-bold text-foreground mb-8 flex items-center gap-3">
               <AlertTriangle className="w-8 h-8 text-yellow-500" />
               Troubleshooting & Support
             </h2>
 
             <div className="grid lg:grid-cols-2 gap-8">
               {/* Common Issues */}
-              <div className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-8">
-                <h3 className="text-xl font-semibold text-white mb-6">Common Issues & Solutions</h3>
+              <div className="glass dark:glass-dark border border-border rounded-2xl p-8">
+                <h3 className="text-xl font-semibold text-foreground mb-6">Common Issues & Solutions</h3>
                 <div className="space-y-6">
                   {[
                     {
@@ -679,9 +679,9 @@ export default function Sensors() {
                       severity: 'Low'
                     }
                   ].map((item, index) => (
-                    <div key={index} className="border border-gray-700 rounded-lg p-4 hover:border-yellow-500/50 transition-colors duration-300">
+                    <div key={index} className="border border-border rounded-lg p-4 hover:border-yellow-500/50 transition-colors duration-300">
                       <div className="flex items-center justify-between mb-3">
-                        <h4 className="font-semibold text-white">{item.issue}</h4>
+                        <h4 className="font-semibold text-foreground">{item.issue}</h4>
                         <span className={`text-xs font-semibold px-2 py-1 rounded ${
                           item.severity === 'High' ? 'bg-red-900/50 text-red-300' :
                           item.severity === 'Medium' ? 'bg-yellow-900/50 text-yellow-300' :
@@ -692,12 +692,12 @@ export default function Sensors() {
                       </div>
                       <div className="space-y-2">
                         <div>
-                          <span className="text-sm text-gray-400">Symptoms: </span>
-                          <span className="text-sm text-gray-300">{item.symptoms.join(', ')}</span>
+                          <span className="text-sm text-foreground/70">Symptoms: </span>
+                          <span className="text-sm text-foreground/70">{item.symptoms.join(', ')}</span>
                         </div>
                         <div>
-                          <span className="text-sm text-gray-400">Solutions: </span>
-                          <span className="text-sm text-gray-300">{item.solutions.join(' • ')}</span>
+                          <span className="text-sm text-foreground/70">Solutions: </span>
+                          <span className="text-sm text-foreground/70">{item.solutions.join(' • ')}</span>
                         </div>
                       </div>
                     </div>
@@ -708,8 +708,8 @@ export default function Sensors() {
               {/* Support Resources */}
               <div className="space-y-8">
                 {/* Documentation */}
-                <div className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-6">
-                  <h3 className="text-xl font-semibold text-white mb-4">Documentation & Resources</h3>
+                <div className="glass dark:glass-dark border border-border rounded-2xl p-6">
+                  <h3 className="text-xl font-semibold text-foreground mb-4">Documentation & Resources</h3>
                   <div className="space-y-3">
                     {[
                       { name: 'Sensor Installation Guide', type: 'PDF', size: '2.4 MB' },
@@ -717,40 +717,40 @@ export default function Sensors() {
                       { name: 'API Documentation', type: 'Web', size: 'Online' },
                       { name: 'Firmware Update Guide', type: 'Video', size: '15 min' },
                     ].map((doc, index) => (
-                      <div key={index} className="flex items-center justify-between p-3 bg-gray-800/50 rounded-lg hover:bg-gray-800/70 transition-colors duration-300">
+                      <div key={index} className="flex items-center justify-between p-3 bg-secondary/50 rounded-lg hover:bg-secondary/70 transition-colors duration-300">
                         <div>
-                          <p className="text-white font-medium">{doc.name}</p>
-                          <p className="text-gray-400 text-sm">{doc.type} • {doc.size}</p>
+                          <p className="text-foreground font-medium">{doc.name}</p>
+                          <p className="text-foreground/50 text-sm">{doc.type} • {doc.size}</p>
                         </div>
-                        <Download className="w-5 h-5 text-gray-400 hover:text-white transition-colors duration-300" />
+                        <Download className="w-5 h-5 text-foreground/50 hover:text-foreground transition-colors duration-300" />
                       </div>
                     ))}
                   </div>
                 </div>
 
                 {/* Support Contact */}
-                <div className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-6">
-                  <h3 className="text-xl font-semibold text-white mb-4">Technical Support</h3>
+                <div className="glass dark:glass-dark border border-border rounded-2xl p-6">
+                  <h3 className="text-xl font-semibold text-foreground mb-4">Technical Support</h3>
                   <div className="space-y-4">
                     <div className="flex items-center gap-3">
                       <Phone className="w-5 h-5 text-green-400" />
                       <div>
-                        <p className="text-white font-medium">+1 (555) 123-SENSOR</p>
-                        <p className="text-gray-400 text-sm">24/7 Technical Support</p>
+                        <p className="text-foreground font-medium">+1 (555) 123-SENSOR</p>
+                        <p className="text-foreground/50 text-sm">24/7 Technical Support</p>
                       </div>
                     </div>
                     <div className="flex items-center gap-3">
                       <Mail className="w-5 h-5 text-blue-400" />
                       <div>
-                        <p className="text-white font-medium">support@sakhl-agri.com</p>
-                        <p className="text-gray-400 text-sm">Email Support</p>
+                        <p className="text-foreground font-medium">support@sakhl-agri.com</p>
+                        <p className="text-foreground/50 text-sm">Email Support</p>
                       </div>
                     </div>
                     <div className="flex items-center gap-3">
                       <Clock className="w-5 h-5 text-yellow-400" />
                       <div>
-                        <p className="text-white font-medium">Response Time: Under 2 hours</p>
-                        <p className="text-gray-400 text-sm">Average Resolution Time</p>
+                        <p className="text-foreground font-medium">Response Time: Under 2 hours</p>
+                        <p className="text-foreground/50 text-sm">Average Resolution Time</p>
                       </div>
                     </div>
                   </div>
@@ -761,15 +761,15 @@ export default function Sensors() {
 
           {/* System Configuration */}
           <section>
-            <h2 className="text-3xl font-bold text-white mb-8 flex items-center gap-3">
+            <h2 className="text-3xl font-bold text-foreground mb-8 flex items-center gap-3">
               <Settings className="w-8 h-8 text-blue-500" />
               System Configuration
             </h2>
 
             <div className="grid lg:grid-cols-3 gap-8">
               {/* Network Settings */}
-              <div className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-6">
-                <h3 className="text-lg font-semibold text-white mb-4">Network Settings</h3>
+              <div className="glass dark:glass-dark border border-border rounded-2xl p-6">
+                <h3 className="text-lg font-semibold text-foreground mb-4">Network Settings</h3>
                 <div className="space-y-4">
                   {[
                     { setting: 'Gateway IP', value: '192.168.1.100' },
@@ -778,16 +778,16 @@ export default function Sensors() {
                     { setting: 'Local Storage', value: '256 GB' },
                   ].map((item, index) => (
                     <div key={index} className="flex justify-between items-center">
-                      <span className="text-gray-400">{item.setting}</span>
-                      <span className="text-white font-mono text-sm">{item.value}</span>
+                      <span className="text-foreground/70">{item.setting}</span>
+                      <span className="text-foreground font-mono text-sm">{item.value}</span>
                     </div>
                   ))}
                 </div>
               </div>
 
               {/* Data Management */}
-              <div className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-6">
-                <h3 className="text-lg font-semibold text-white mb-4">Data Management</h3>
+              <div className="glass dark:glass-dark border border-border rounded-2xl p-6">
+                <h3 className="text-lg font-semibold text-foreground mb-4">Data Management</h3>
                 <div className="space-y-4">
                   {[
                     { setting: 'Retention Period', value: '2 years' },
@@ -796,16 +796,16 @@ export default function Sensors() {
                     { setting: 'Export Format', value: 'CSV, JSON' },
                   ].map((item, index) => (
                     <div key={index} className="flex justify-between items-center">
-                      <span className="text-gray-400">{item.setting}</span>
-                      <span className="text-white font-mono text-sm">{item.value}</span>
+                      <span className="text-foreground/70">{item.setting}</span>
+                      <span className="text-foreground font-mono text-sm">{item.value}</span>
                     </div>
                   ))}
                 </div>
               </div>
 
               {/* Security Settings */}
-              <div className="bg-gray-900/80 backdrop-blur-lg border border-gray-800 rounded-2xl p-6">
-                <h3 className="text-lg font-semibold text-white mb-4">Security Settings</h3>
+              <div className="glass dark:glass-dark border border-border rounded-2xl p-6">
+                <h3 className="text-lg font-semibold text-foreground mb-4">Security Settings</h3>
                 <div className="space-y-4">
                   {[
                     { setting: 'Encryption', value: 'AES-256' },
@@ -814,8 +814,8 @@ export default function Sensors() {
                     { setting: 'API Security', value: 'OAuth 2.0' },
                   ].map((item, index) => (
                     <div key={index} className="flex justify-between items-center">
-                      <span className="text-gray-400">{item.setting}</span>
-                      <span className="text-white font-mono text-sm">{item.value}</span>
+                      <span className="text-foreground/70">{item.setting}</span>
+                      <span className="text-foreground font-mono text-sm">{item.value}</span>
                     </div>
                   ))}
                 </div>
