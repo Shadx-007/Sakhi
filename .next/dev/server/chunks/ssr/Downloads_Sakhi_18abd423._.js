@@ -819,43 +819,29 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_m
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/x.js [app-ssr] (ecmascript) <export default as X>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$loader$2d$circle$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Loader2$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/loader-circle.js [app-ssr] (ecmascript) <export default as Loader2>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$triangle$2d$alert$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__AlertTriangle$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/triangle-alert.js [app-ssr] (ecmascript) <export default as AlertTriangle>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$trending$2d$up$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__TrendingUp$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/trending-up.js [app-ssr] (ecmascript) <export default as TrendingUp>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$brain$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Brain$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/brain.js [app-ssr] (ecmascript) <export default as Brain>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$zap$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Zap$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/zap.js [app-ssr] (ecmascript) <export default as Zap>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$target$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Target$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/target.js [app-ssr] (ecmascript) <export default as Target>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$shield$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Shield$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/shield.js [app-ssr] (ecmascript) <export default as Shield>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$clock$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Clock$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/clock.js [app-ssr] (ecmascript) <export default as Clock>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$users$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Users$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/users.js [app-ssr] (ecmascript) <export default as Users>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$database$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Database$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/database.js [app-ssr] (ecmascript) <export default as Database>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cpu$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Cpu$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/cpu.js [app-ssr] (ecmascript) <export default as Cpu>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$thermometer$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Thermometer$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/thermometer.js [app-ssr] (ecmascript) <export default as Thermometer>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/droplets.js [app-ssr] (ecmascript) <export default as Droplets>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$leaf$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Leaf$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/leaf.js [app-ssr] (ecmascript) <export default as Leaf>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sprout$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Sprout$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/sprout.js [app-ssr] (ecmascript) <export default as Sprout>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$recycle$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Recycle$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/recycle.js [app-ssr] (ecmascript) <export default as Recycle>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2d$check$2d$big$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CheckCircle$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/circle-check-big.js [app-ssr] (ecmascript) <export default as CheckCircle>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$download$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Download$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/download.js [app-ssr] (ecmascript) <export default as Download>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$share$2d$2$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Share2$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/share-2.js [app-ssr] (ecmascript) <export default as Share2>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$book$2d$open$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__BookOpen$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/book-open.js [app-ssr] (ecmascript) <export default as BookOpen>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$video$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Video$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/video.js [app-ssr] (ecmascript) <export default as Video>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$phone$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Phone$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/phone.js [app-ssr] (ecmascript) <export default as Phone>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Cloud$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/cloud.js [app-ssr] (ecmascript) <export default as Cloud>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sun$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Sun$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/sun.js [app-ssr] (ecmascript) <export default as Sun>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2d$rain$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CloudRain$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/cloud-rain.js [app-ssr] (ecmascript) <export default as CloudRain>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2d$snow$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CloudSnow$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/cloud-snow.js [app-ssr] (ecmascript) <export default as CloudSnow>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$wind$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Wind$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/wind.js [app-ssr] (ecmascript) <export default as Wind>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__MapPin$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/map-pin.js [app-ssr] (ecmascript) <export default as MapPin>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$calendar$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Calendar$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/calendar.js [app-ssr] (ecmascript) <export default as Calendar>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$activity$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Activity$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/activity.js [app-ssr] (ecmascript) <export default as Activity>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$external$2d$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ExternalLink$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/external-link.js [app-ssr] (ecmascript) <export default as ExternalLink>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$calculator$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Calculator$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/calculator.js [app-ssr] (ecmascript) <export default as Calculator>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$down$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronDown$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/chevron-down.js [app-ssr] (ecmascript) <export default as ChevronDown>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$up$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronUp$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/chevron-up.js [app-ssr] (ecmascript) <export default as ChevronUp>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$refresh$2d$cw$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__RefreshCw$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/refresh-cw.js [app-ssr] (ecmascript) <export default as RefreshCw>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$chart$2f$BarChart$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/chart/BarChart.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$Bar$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/cartesian/Bar.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$chart$2f$LineChart$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/chart/LineChart.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$Line$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/cartesian/Line.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$chart$2f$AreaChart$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/chart/AreaChart.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$Area$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/cartesian/Area.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$XAxis$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/cartesian/XAxis.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$YAxis$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/cartesian/YAxis.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$CartesianGrid$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/cartesian/CartesianGrid.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$Tooltip$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/component/Tooltip.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$ResponsiveContainer$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/component/ResponsiveContainer.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$chart$2f$PieChart$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/chart/PieChart.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$polar$2f$Pie$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/polar/Pie.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$Cell$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/component/Cell.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$chart$2f$ComposedChart$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/chart/ComposedChart.js [app-ssr] (ecmascript)");
 'use client';
 ;
 ;
@@ -863,268 +849,332 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_m
 ;
 ;
 ;
-;
-// Extensive data sets
-const predictionData = [
-    {
-        week: 'Week 1',
-        predicted: 85,
-        actual: 82,
-        optimal: 90
-    },
-    {
-        week: 'Week 2',
-        predicted: 87,
-        actual: 88,
-        optimal: 90
-    },
-    {
-        week: 'Week 3',
-        predicted: 89,
-        actual: 87,
-        optimal: 90
-    },
-    {
-        week: 'Week 4',
-        predicted: 91,
-        actual: 92,
-        optimal: 90
-    },
-    {
-        week: 'Week 5',
-        predicted: 93,
-        actual: 95,
-        optimal: 90
-    },
-    {
-        week: 'Week 6',
-        predicted: 94,
-        actual: 93,
-        optimal: 90
-    },
-    {
-        week: 'Week 7',
-        predicted: 96,
-        actual: 94,
-        optimal: 90
-    },
-    {
-        week: 'Week 8',
-        predicted: 97,
-        actual: 96,
-        optimal: 90
-    }
-];
-const soilData = [
-    {
-        day: 'Mon',
+// Mock data simulating API responses
+const mockDiagnosticData = {
+    pests: [
+        {
+            name: 'Early Blight',
+            confidence: 94.5,
+            severity: 'Medium',
+            spread: 'Localized',
+            solution: {
+                pesticides: [
+                    'Copper-based fungicide',
+                    'Chlorothalonil',
+                    'Mancozeb'
+                ],
+                organic: [
+                    'Neem oil spray',
+                    'Baking soda solution',
+                    'Garlic extract'
+                ],
+                prevention: [
+                    'Crop rotation',
+                    'Proper spacing',
+                    'Remove infected leaves'
+                ],
+                timing: 'Apply within 48 hours',
+                frequency: 'Every 7-10 days'
+            }
+        },
+        {
+            name: 'Powdery Mildew',
+            confidence: 87.2,
+            severity: 'Low',
+            spread: 'Isolated',
+            solution: {
+                pesticides: [
+                    'Sulfur dust',
+                    'Myclobutanil',
+                    'Propiconazole'
+                ],
+                organic: [
+                    'Milk spray',
+                    'Baking soda solution',
+                    'Apple cider vinegar'
+                ],
+                prevention: [
+                    'Reduce humidity',
+                    'Improve air circulation',
+                    'Morning watering'
+                ],
+                timing: 'Apply immediately',
+                frequency: 'Weekly until controlled'
+            }
+        },
+        {
+            name: 'Root Rot',
+            confidence: 76.8,
+            severity: 'High',
+            spread: 'Spreading',
+            solution: {
+                pesticides: [
+                    'Mefenoxam',
+                    'Fosetyl-Al',
+                    'Azoxystrobin'
+                ],
+                organic: [
+                    'Trichoderma harzianum',
+                    'Cinnamon powder',
+                    'Hydrogen peroxide'
+                ],
+                prevention: [
+                    'Improve drainage',
+                    'Avoid overwatering',
+                    'Sterilize soil'
+                ],
+                timing: 'Apply as soon as detected',
+                frequency: 'Every 5-7 days'
+            }
+        }
+    ],
+    recommendations: [
+        'Apply fungicide within 48 hours',
+        'Reduce irrigation frequency',
+        'Improve air circulation',
+        'Remove infected leaves immediately'
+    ]
+};
+const mockEnvironmentalData = {
+    soil: {
         moisture: 65,
-        ph: 6.8,
-        nitrogen: 75,
-        phosphorus: 45,
-        potassium: 82
+        temperature: 25,
+        humidity: 68,
+        npk: {
+            nitrogen: 75,
+            phosphorus: 45,
+            potassium: 82
+        },
+        healthScore: 88
+    },
+    yield: {
+        predicted: 3150,
+        actual: 2920,
+        risk: 'Low'
+    },
+    weather: {
+        temperature: 28,
+        rainfall: 45,
+        humidity: 65,
+        trend: 'stable'
+    }
+};
+const mockCropRecommendations = [
+    {
+        name: 'Tomatoes',
+        seasonMatch: 'Rabi',
+        envScore: 91,
+        recommendation: 'Optimal'
     },
     {
-        day: 'Tue',
-        moisture: 68,
-        ph: 6.9,
-        nitrogen: 72,
-        phosphorus: 48,
-        potassium: 85
+        name: 'Corn',
+        seasonMatch: 'Rabi',
+        envScore: 86,
+        recommendation: 'Recommended'
     },
     {
-        day: 'Wed',
-        moisture: 72,
-        ph: 7.0,
-        nitrogen: 78,
-        phosphorus: 52,
-        potassium: 88
+        name: 'Wheat',
+        seasonMatch: 'Rabi',
+        envScore: 78,
+        recommendation: 'Good Fit'
     },
     {
-        day: 'Thu',
-        moisture: 70,
-        ph: 6.9,
-        nitrogen: 75,
-        phosphorus: 50,
-        potassium: 86
+        name: 'Soybeans',
+        seasonMatch: 'Rabi',
+        envScore: 87,
+        recommendation: 'Recommended'
     },
     {
-        day: 'Fri',
-        moisture: 75,
-        ph: 7.1,
-        nitrogen: 80,
-        phosphorus: 55,
-        potassium: 90
-    },
-    {
-        day: 'Sat',
-        moisture: 78,
-        ph: 7.0,
-        nitrogen: 82,
-        phosphorus: 58,
-        potassium: 92
-    },
-    {
-        day: 'Sun',
-        moisture: 80,
-        ph: 6.95,
-        nitrogen: 85,
-        phosphorus: 60,
-        potassium: 94
+        name: 'Potatoes',
+        seasonMatch: 'Rabi',
+        envScore: 68,
+        recommendation: 'Moderate'
     }
 ];
-const cropHealthData = [
-    {
-        name: 'Excellent',
-        value: 45,
-        color: '#10b981'
+// New Weather Forecasting Data
+const mockWeatherData = {
+    current: {
+        temperature: 28,
+        feelsLike: 30,
+        humidity: 65,
+        windSpeed: 12,
+        pressure: 1013,
+        uvIndex: 6,
+        condition: 'Partly Cloudy',
+        icon: 'partly-cloudy',
+        precipitation: 10,
+        visibility: 16
     },
-    {
-        name: 'Good',
-        value: 25,
-        color: '#84cc16'
-    },
-    {
-        name: 'Moderate',
-        value: 15,
-        color: '#f59e0b'
-    },
-    {
-        name: 'At Risk',
-        value: 10,
-        color: '#ef4444'
-    },
-    {
-        name: 'Critical',
-        value: 5,
-        color: '#dc2626'
+    hourly: [
+        {
+            time: 'Now',
+            temp: 28,
+            condition: 'partly-cloudy',
+            precipitation: 10
+        },
+        {
+            time: '13:00',
+            temp: 29,
+            condition: 'sunny',
+            precipitation: 5
+        },
+        {
+            time: '14:00',
+            temp: 30,
+            condition: 'sunny',
+            precipitation: 5
+        },
+        {
+            time: '15:00',
+            temp: 31,
+            condition: 'sunny',
+            precipitation: 0
+        },
+        {
+            time: '16:00',
+            temp: 30,
+            condition: 'partly-cloudy',
+            precipitation: 0
+        },
+        {
+            time: '17:00',
+            temp: 29,
+            condition: 'partly-cloudy',
+            precipitation: 0
+        },
+        {
+            time: '18:00',
+            temp: 27,
+            condition: 'cloudy',
+            precipitation: 20
+        },
+        {
+            time: '19:00',
+            temp: 26,
+            condition: 'rain',
+            precipitation: 60
+        }
+    ],
+    daily: [
+        {
+            day: 'Today',
+            high: 31,
+            low: 24,
+            condition: 'partly-cloudy',
+            precipitation: 20,
+            humidity: 65
+        },
+        {
+            day: 'Wed',
+            high: 29,
+            low: 23,
+            condition: 'rain',
+            precipitation: 80,
+            humidity: 85
+        },
+        {
+            day: 'Thu',
+            high: 27,
+            low: 22,
+            condition: 'rain',
+            precipitation: 70,
+            humidity: 80
+        },
+        {
+            day: 'Fri',
+            high: 28,
+            low: 23,
+            condition: 'cloudy',
+            precipitation: 30,
+            humidity: 70
+        },
+        {
+            day: 'Sat',
+            high: 30,
+            low: 24,
+            condition: 'partly-cloudy',
+            precipitation: 10,
+            humidity: 60
+        },
+        {
+            day: 'Sun',
+            high: 31,
+            low: 25,
+            condition: 'sunny',
+            precipitation: 0,
+            humidity: 55
+        },
+        {
+            day: 'Mon',
+            high: 32,
+            low: 25,
+            condition: 'sunny',
+            precipitation: 0,
+            humidity: 50
+        }
+    ],
+    alerts: [
+        {
+            type: 'rain',
+            severity: 'moderate',
+            message: 'Heavy rainfall expected Wednesday-Thursday',
+            impact: 'Potential irrigation savings'
+        },
+        {
+            type: 'wind',
+            severity: 'low',
+            message: 'Moderate winds expected Friday',
+            impact: 'Good for pollination'
+        }
+    ],
+    agriculturalIndices: {
+        droughtIndex: 0.2,
+        growthIndex: 0.8,
+        pestRisk: 0.3,
+        diseaseRisk: 0.4,
+        irrigationNeed: 0.6
     }
-];
-const diseasePatterns = [
-    {
-        disease: 'Early Blight',
-        confidence: 94.5,
-        severity: 'Medium',
-        spread: 'Localized'
-    },
-    {
-        disease: 'Powdery Mildew',
-        confidence: 87.2,
-        severity: 'Low',
-        spread: 'Isolated'
-    },
-    {
-        disease: 'Root Rot',
-        confidence: 76.8,
-        severity: 'High',
-        spread: 'Spreading'
-    },
-    {
-        disease: 'Leaf Spot',
-        confidence: 82.1,
-        severity: 'Medium',
-        spread: 'Contained'
-    }
-];
-const weatherImpactData = [
-    {
-        factor: 'Temperature',
-        impact: 85,
-        trend: 'positive'
-    },
-    {
-        factor: 'Rainfall',
-        impact: 72,
-        trend: 'positive'
-    },
-    {
-        factor: 'Humidity',
-        impact: 68,
-        trend: 'neutral'
-    },
-    {
-        factor: 'Wind Speed',
-        impact: 45,
-        trend: 'negative'
-    },
-    {
-        factor: 'Sunlight',
-        impact: 91,
-        trend: 'positive'
-    },
-    {
-        factor: 'Soil Moisture',
-        impact: 88,
-        trend: 'positive'
-    }
-];
-const aiModels = [
-    {
-        name: 'DeepLeaf CNN',
-        accuracy: 96.8,
-        speed: '0.8s',
-        type: 'Disease Detection'
-    },
-    {
-        name: 'SoilNet V2',
-        accuracy: 94.2,
-        speed: '1.2s',
-        type: 'Soil Analysis'
-    },
-    {
-        name: 'YieldPredict Pro',
-        accuracy: 92.5,
-        speed: '2.1s',
-        type: 'Yield Forecast'
-    },
-    {
-        name: 'PestVision AI',
-        accuracy: 89.7,
-        speed: '1.5s',
-        type: 'Pest Detection'
-    },
-    {
-        name: 'ClimateAdapt ML',
-        accuracy: 91.3,
-        speed: '3.4s',
-        type: 'Climate Impact'
-    }
-];
-const historicalInsights = [
-    {
-        year: '2020',
-        yield: 2200,
-        accuracy: 85.2
-    },
-    {
-        year: '2021',
-        yield: 2450,
-        accuracy: 88.7
-    },
-    {
-        year: '2022',
-        yield: 2680,
-        accuracy: 91.4
-    },
-    {
-        year: '2023',
-        yield: 2920,
-        accuracy: 93.8
-    },
-    {
-        year: '2024',
-        yield: 3150,
-        accuracy: 95.2
-    }
-];
+};
+const weatherIcons = {
+    'sunny': __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sun$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Sun$3e$__["Sun"],
+    'partly-cloudy': __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Cloud$3e$__["Cloud"],
+    'cloudy': __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Cloud$3e$__["Cloud"],
+    'rain': __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2d$rain$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CloudRain$3e$__["CloudRain"],
+    'snow': __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2d$snow$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CloudSnow$3e$__["CloudSnow"]
+};
 function AIInsights() {
     const [capturedImage, setCapturedImage] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(null);
     const [isProcessing, setIsProcessing] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
-    const [aiResult, setAiResult] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(null);
-    const [activeTab, setActiveTab] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])('analysis');
+    const [diagnosticData, setDiagnosticData] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(null);
+    const [environmentalData, setEnvironmentalData] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(mockEnvironmentalData);
+    const [cropRecommendations, setCropRecommendations] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(mockCropRecommendations);
+    const [weatherData, setWeatherData] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(mockWeatherData);
+    const [activeTab, setActiveTab] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])('diagnostics');
     const [selectedDisease, setSelectedDisease] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(null);
+    const [showSolutionModal, setShowSolutionModal] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
+    const [showFormula, setShowFormula] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
+    const [cropInputs, setCropInputs] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])({
+        moisture: 65,
+        temperature: 25,
+        humidity: 68,
+        season: 'Rabi'
+    });
     const cameraRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useRef"])(null);
     const fileRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useRef"])(null);
+    // Simulate real-time data updates
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useEffect"])(()=>{
+        const interval = setInterval(()=>{
+            setEnvironmentalData((prev)=>({
+                    ...prev,
+                    soil: {
+                        ...prev.soil,
+                        moisture: Math.floor(Math.random() * 20) + 60,
+                        temperature: Math.floor(Math.random() * 5) + 23
+                    }
+                }));
+        }, 5000);
+        return ()=>clearInterval(interval);
+    }, []);
     const handleCamera = async ()=>{
         try {
             const stream = await navigator.mediaDevices.getUserMedia({
@@ -1165,51 +1215,51 @@ function AIInsights() {
     };
     const processImage = async (imageData)=>{
         setIsProcessing(true);
-        await new Promise((resolve)=>setTimeout(resolve, 2000));
-        setAiResult({
-            classification: 'Tomato Plant - Early Blight',
-            confidence: 94.5,
-            suggestions: [
-                'Apply fungicide within 48 hours',
-                'Reduce irrigation frequency',
-                'Improve air circulation',
-                'Remove infected leaves immediately',
-                'Monitor soil moisture levels',
-                'Apply organic fungicide treatment'
-            ],
-            cropHealth: 'Moderate Risk',
-            riskLevel: 'Medium',
-            riskScore: 68,
-            recommendations: [
-                'Isolate affected plants from healthy ones',
-                'Use sulfur-based fungicide treatment',
-                'Increase spacing between plants',
-                'Monitor weather conditions',
-                'Apply neem oil as preventive measure',
-                'Schedule soil nutrient testing'
-            ],
-            detailedAnalysis: {
-                diseaseStage: 'Early',
-                affectedArea: '15% of leaves',
-                spreadRate: 'Moderate',
-                treatmentUrgency: 'Within 48 hours',
-                recoveryProbability: '85%',
-                costEstimate: '$120-180'
-            }
-        });
-        setIsProcessing(false);
+        try {
+            await new Promise((resolve)=>setTimeout(resolve, 2000));
+            setDiagnosticData(mockDiagnosticData);
+        } catch (error) {
+            console.error('Analysis error:', error);
+        } finally{
+            setIsProcessing(false);
+        }
+    };
+    const handleDiseaseClick = (disease)=>{
+        setSelectedDisease(disease);
+        setShowSolutionModal(true);
+    };
+    const calculateCropScore = (moisture, temperature, humidity, season)=>{
+        const seasonBonus = season === 'Rabi' ? 10 : season === 'Kharif' ? 8 : 5;
+        return Math.round((moisture * 0.40 + temperature * 0.35 + humidity * 0.25) * 100 + seasonBonus);
+    };
+    const currentScore = calculateCropScore(cropInputs.moisture, cropInputs.temperature, cropInputs.humidity, cropInputs.season);
+    const handleInputChange = (field, value)=>{
+        setCropInputs((prev)=>({
+                ...prev,
+                [field]: value
+            }));
+    };
+    const WeatherIcon = ({ condition, size = 24 })=>{
+        const IconComponent = weatherIcons[condition] || __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Cloud$3e$__["Cloud"];
+        return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(IconComponent, {
+            size: size
+        }, void 0, false, {
+            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+            lineNumber: 256,
+            columnNumber: 12
+        }, this);
     };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
         className: "min-h-screen bg-background dark:bg-background pt-20",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$components$2f$navbar$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Navbar"], {}, void 0, false, {
                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                lineNumber: 158,
+                lineNumber: 261,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$components$2f$ai$2d$insights$2d$animated$2d$objects$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["AIInsightsAnimatedObjects"], {}, void 0, false, {
                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                lineNumber: 160,
+                lineNumber: 262,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1226,21 +1276,21 @@ function AIInsights() {
                                         children: "AI-Powered Agricultural Intelligence"
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 166,
+                                        lineNumber: 268,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-2xl text-foreground/70 max-w-4xl mx-auto leading-relaxed",
-                                        children: "Advanced machine learning, computer vision, and predictive analytics for modern precision agriculture. Transform your farming operations with cutting-edge AI technology."
+                                        children: "Advanced machine learning, computer vision, and predictive analytics for modern precision agriculture."
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 169,
+                                        lineNumber: 271,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 165,
+                                lineNumber: 267,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1253,14 +1303,14 @@ function AIInsights() {
                                                 className: "w-4 h-4"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 176,
+                                                lineNumber: 277,
                                                 columnNumber: 15
                                             }, this),
-                                            "98.5% Prediction Accuracy"
+                                            "YOLOv8 Computer Vision"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 175,
+                                        lineNumber: 276,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1270,470 +1320,812 @@ function AIInsights() {
                                                 className: "w-4 h-4"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 180,
+                                                lineNumber: 281,
                                                 columnNumber: 15
                                             }, this),
-                                            "Real-time Analysis"
+                                            "Real-time IoT Data"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 179,
+                                        lineNumber: 280,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "flex items-center gap-3 text-sm bg-purple-900/50 text-purple-300 px-4 py-2 rounded-full border border-purple-700/50",
                                         children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$shield$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Shield$3e$__["Shield"], {
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$target$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Target$3e$__["Target"], {
                                                 className: "w-4 h-4"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 184,
+                                                lineNumber: 285,
                                                 columnNumber: 15
                                             }, this),
-                                            "Enterprise Security"
+                                            "SmartCropAI Engine"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 183,
+                                        lineNumber: 284,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 174,
+                                lineNumber: 275,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                        lineNumber: 164,
+                        lineNumber: 266,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "mb-20",
+                        className: "mb-12",
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "flex space-x-8 border-b border-border overflow-x-auto",
+                            children: [
+                                {
+                                    id: 'diagnostics',
+                                    label: '🔍 Real-time Diagnostics',
+                                    icon: __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$brain$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Brain$3e$__["Brain"]
+                                },
+                                {
+                                    id: 'weather',
+                                    label: '🌤️ AI Weather Forecast',
+                                    icon: __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Cloud$3e$__["Cloud"]
+                                },
+                                {
+                                    id: 'environmental',
+                                    label: '🌡️ Environmental Assessment',
+                                    icon: __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$thermometer$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Thermometer$3e$__["Thermometer"]
+                                },
+                                {
+                                    id: 'recommendation',
+                                    label: '🌱 Crop Recommendation',
+                                    icon: __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sprout$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Sprout$3e$__["Sprout"]
+                                }
+                            ].map((tab)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                    onClick: ()=>setActiveTab(tab.id),
+                                    className: `py-4 px-2 font-semibold border-b-2 transition-colors duration-300 flex items-center gap-3 whitespace-nowrap ${activeTab === tab.id ? 'border-accent text-accent' : 'border-transparent text-foreground/70 hover:text-foreground'}`,
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(tab.icon, {
+                                            className: "w-5 h-5"
+                                        }, void 0, false, {
+                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                            lineNumber: 309,
+                                            columnNumber: 17
+                                        }, this),
+                                        tab.label
+                                    ]
+                                }, tab.id, true, {
+                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                    lineNumber: 300,
+                                    columnNumber: 15
+                                }, this))
+                        }, void 0, false, {
+                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                            lineNumber: 293,
+                            columnNumber: 11
+                        }, this)
+                    }, void 0, false, {
+                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                        lineNumber: 292,
+                        columnNumber: 9
+                    }, this),
+                    activeTab === 'diagnostics' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
+                        className: "space-y-12",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "flex items-center justify-between mb-12",
+                                className: "text-center space-y-4 mb-12",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         className: "text-4xl font-bold",
-                                        children: "AI Analysis Dashboard"
+                                        children: "🔍 Real-time Crop Diagnostics (YOLOv8)"
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 193,
-                                        columnNumber: 13
+                                        lineNumber: 320,
+                                        columnNumber: 15
                                     }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "flex gap-4",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                className: "flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-lg transition-colors duration-300",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$download$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Download$3e$__["Download"], {
-                                                        className: "w-4 h-4"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 196,
-                                                        columnNumber: 17
-                                                    }, this),
-                                                    "Export Report"
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 195,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                className: "flex items-center gap-2 border border-green-500 text-green-400 hover:bg-green-500/10 px-6 py-3 rounded-lg transition-colors duration-300",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$share$2d$2$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Share2$3e$__["Share2"], {
-                                                        className: "w-4 h-4"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 200,
-                                                        columnNumber: 17
-                                                    }, this),
-                                                    "Share Insights"
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 199,
-                                                columnNumber: 15
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        className: "text-xl text-foreground/70 max-w-3xl mx-auto",
+                                        children: "Utilizes computer vision to provide instant diagnosis of pests and diseases"
+                                    }, void 0, false, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 194,
-                                        columnNumber: 13
+                                        lineNumber: 321,
+                                        columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 192,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "grid lg:grid-cols-3 gap-8 mb-12",
-                                children: [
-                                    {
-                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$brain$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Brain$3e$__["Brain"], {
-                                            className: "w-8 h-8"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 208,
-                                            columnNumber: 23
-                                        }, this),
-                                        label: 'AI Models Active',
-                                        value: '12',
-                                        change: '+2'
-                                    },
-                                    {
-                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$database$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Database$3e$__["Database"], {
-                                            className: "w-8 h-8"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 209,
-                                            columnNumber: 23
-                                        }, this),
-                                        label: 'Data Processed',
-                                        value: '2.4TB',
-                                        change: '+15%'
-                                    },
-                                    {
-                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$target$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Target$3e$__["Target"], {
-                                            className: "w-8 h-8"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 210,
-                                            columnNumber: 23
-                                        }, this),
-                                        label: 'Prediction Accuracy',
-                                        value: '96.8%',
-                                        change: '+1.2%'
-                                    }
-                                ].map((stat, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl text-center space-y-4 hover:shadow-lg hover:shadow-accent/20 transition-all duration-300",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "text-green-400 mx-auto",
-                                                children: stat.icon
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 213,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-foreground/70",
-                                                children: stat.label
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 214,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-3xl font-bold text-accent",
-                                                children: stat.value
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 215,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-green-400 text-sm font-semibold",
-                                                children: stat.change
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 216,
-                                                columnNumber: 17
-                                            }, this)
-                                        ]
-                                    }, index, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 212,
-                                        columnNumber: 15
-                                    }, this))
-                            }, void 0, false, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 206,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                        lineNumber: 191,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "mb-20 space-y-12",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                className: "text-4xl font-bold",
-                                children: "Intelligent Crop Analysis"
-                            }, void 0, false, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 224,
-                                columnNumber: 11
+                                lineNumber: 319,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "grid xl:grid-cols-2 gap-12",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "space-y-8",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "glass dark:glass-dark p-8 rounded-2xl space-y-6",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                        className: "text-2xl font-semibold flex items-center gap-3",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$camera$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Camera$3e$__["Camera"], {
-                                                                className: "w-6 h-6 text-accent"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 231,
-                                                                columnNumber: 19
-                                                            }, this),
-                                                            "Real-time Camera Analysis"
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 230,
-                                                        columnNumber: 17
-                                                    }, this),
-                                                    !capturedImage ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                        onClick: handleCamera,
-                                                        className: "w-full py-16 border-2 border-dashed border-accent rounded-xl hover:bg-accent/5 transition-all flex flex-col items-center justify-center gap-4 group",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$camera$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Camera$3e$__["Camera"], {
-                                                                className: "w-16 h-16 text-accent group-hover:scale-110 transition-transform"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 239,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                className: "font-semibold text-foreground/70 text-lg",
-                                                                children: "Click to Open Camera"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 240,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                className: "text-foreground/50",
-                                                                children: "Point at your crop for instant analysis"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 241,
-                                                                columnNumber: 21
-                                                            }, this)
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 235,
-                                                        columnNumber: 19
-                                                    }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "space-y-6",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "relative",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                        src: capturedImage || "/placeholder.svg",
-                                                                        alt: "Captured",
-                                                                        className: "w-full rounded-lg object-cover h-64"
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "glass dark:glass-dark p-8 rounded-2xl space-y-6",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                    className: "text-2xl font-semibold flex items-center gap-3",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$camera$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Camera$3e$__["Camera"], {
+                                                            className: "w-6 h-6 text-accent"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 332,
+                                                            columnNumber: 21
+                                                        }, this),
+                                                        "Camera Analysis Input"
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 331,
+                                                    columnNumber: 19
+                                                }, this),
+                                                !capturedImage ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "space-y-6",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                            onClick: handleCamera,
+                                                            className: "w-full py-16 border-2 border-dashed border-accent rounded-xl hover:bg-accent/5 transition-all flex flex-col items-center justify-center gap-4 group",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$camera$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Camera$3e$__["Camera"], {
+                                                                    className: "w-16 h-16 text-accent group-hover:scale-110 transition-transform"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                    lineNumber: 341,
+                                                                    columnNumber: 25
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                    className: "font-semibold text-foreground/70 text-lg",
+                                                                    children: "Open Camera"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                    lineNumber: 342,
+                                                                    columnNumber: 25
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                    className: "text-foreground/50",
+                                                                    children: "Point at your crop for instant analysis"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                    lineNumber: 343,
+                                                                    columnNumber: 25
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 337,
+                                                            columnNumber: 23
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "relative",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: "absolute inset-0 flex items-center",
+                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                        className: "w-full border-t border-border"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 246,
-                                                                        columnNumber: 23
-                                                                    }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                                        onClick: ()=>{
-                                                                            setCapturedImage(null);
-                                                                            setAiResult(null);
-                                                                        },
-                                                                        className: "absolute top-4 right-4 p-2 bg-red-500 text-white rounded-full hover:bg-red-600 transition-colors",
-                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__["X"], {
-                                                                            className: "w-4 h-4"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 254,
-                                                                            columnNumber: 25
-                                                                        }, this)
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 247,
-                                                                        columnNumber: 23
+                                                                        lineNumber: 348,
+                                                                        columnNumber: 27
                                                                     }, this)
-                                                                ]
-                                                            }, void 0, true, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 245,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                                onClick: ()=>{
-                                                                    setCapturedImage(null);
-                                                                    setAiResult(null);
-                                                                },
-                                                                className: "w-full py-3 border border-accent text-accent rounded-lg hover:bg-accent/10 transition-all font-semibold",
-                                                                children: "Retake Photo"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 257,
-                                                                columnNumber: 21
-                                                            }, this)
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 244,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 229,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "glass dark:glass-dark p-8 rounded-2xl space-y-6",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                        className: "text-2xl font-semibold flex items-center gap-3",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$upload$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Upload$3e$__["Upload"], {
-                                                                className: "w-6 h-6 text-accent"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 272,
-                                                                columnNumber: 19
-                                                            }, this),
-                                                            "Upload From Gallery"
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 271,
-                                                        columnNumber: 17
-                                                    }, this),
-                                                    !capturedImage ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                                onClick: ()=>fileRef.current?.click(),
-                                                                className: "w-full py-16 border-2 border-dashed border-accent rounded-xl hover:bg-accent/5 transition-all flex flex-col items-center justify-center gap-4 group",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$upload$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Upload$3e$__["Upload"], {
-                                                                        className: "w-16 h-16 text-accent group-hover:scale-110 transition-transform"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                    lineNumber: 347,
+                                                                    columnNumber: 25
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: "relative flex justify-center text-sm",
+                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                        className: "bg-background dark:bg-background px-2 text-foreground/50",
+                                                                        children: "OR"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 281,
-                                                                        columnNumber: 23
-                                                                    }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                        className: "font-semibold text-foreground/70 text-lg",
-                                                                        children: "Browse Your Files"
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 282,
-                                                                        columnNumber: 23
-                                                                    }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                        className: "text-foreground/50",
-                                                                        children: "Select high-quality crop images"
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 283,
-                                                                        columnNumber: 23
+                                                                        lineNumber: 351,
+                                                                        columnNumber: 27
                                                                     }, this)
-                                                                ]
-                                                            }, void 0, true, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 277,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                                                                ref: fileRef,
-                                                                type: "file",
-                                                                accept: "image/*",
-                                                                onChange: handleFileUpload,
-                                                                className: "hidden"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 285,
-                                                                columnNumber: 21
-                                                            }, this)
-                                                        ]
-                                                    }, void 0, true) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "space-y-6",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "relative",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                        src: capturedImage || "/placeholder.svg",
-                                                                        alt: "Uploaded",
-                                                                        className: "w-full rounded-lg object-cover h-64"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                    lineNumber: 350,
+                                                                    columnNumber: 25
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 346,
+                                                            columnNumber: 23
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                            onClick: ()=>fileRef.current?.click(),
+                                                            className: "w-full py-16 border-2 border-dashed border-accent rounded-xl hover:bg-accent/5 transition-all flex flex-col items-center justify-center gap-4 group",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$upload$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Upload$3e$__["Upload"], {
+                                                                    className: "w-16 h-16 text-accent group-hover:scale-110 transition-transform"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                    lineNumber: 359,
+                                                                    columnNumber: 25
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                    className: "font-semibold text-foreground/70 text-lg",
+                                                                    children: "Upload Image"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                    lineNumber: 360,
+                                                                    columnNumber: 25
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                    className: "text-foreground/50",
+                                                                    children: "Select from your gallery"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                    lineNumber: 361,
+                                                                    columnNumber: 25
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 355,
+                                                            columnNumber: 23
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                                                            ref: fileRef,
+                                                            type: "file",
+                                                            accept: "image/*",
+                                                            onChange: handleFileUpload,
+                                                            className: "hidden"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 363,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 336,
+                                                    columnNumber: 21
+                                                }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "space-y-6",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "relative",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                                                    src: capturedImage || "/placeholder.svg",
+                                                                    alt: "Captured",
+                                                                    className: "w-full rounded-lg object-cover h-64"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                    lineNumber: 374,
+                                                                    columnNumber: 25
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                                    onClick: ()=>{
+                                                                        setCapturedImage(null);
+                                                                        setDiagnosticData(null);
+                                                                    },
+                                                                    className: "absolute top-4 right-4 p-2 bg-red-500 text-white rounded-full hover:bg-red-600 transition-colors",
+                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__["X"], {
+                                                                        className: "w-4 h-4"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 296,
-                                                                        columnNumber: 23
-                                                                    }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                                        onClick: ()=>{
-                                                                            setCapturedImage(null);
-                                                                            setAiResult(null);
-                                                                        },
-                                                                        className: "absolute top-4 right-4 p-2 bg-red-500 text-white rounded-full hover:bg-red-600 transition-colors",
-                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__["X"], {
-                                                                            className: "w-4 h-4"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 304,
-                                                                            columnNumber: 25
-                                                                        }, this)
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 297,
-                                                                        columnNumber: 23
+                                                                        lineNumber: 382,
+                                                                        columnNumber: 27
                                                                     }, this)
-                                                                ]
-                                                            }, void 0, true, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 295,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                                onClick: ()=>{
-                                                                    setCapturedImage(null);
-                                                                    setAiResult(null);
-                                                                },
-                                                                className: "w-full py-3 border border-accent text-accent rounded-lg hover:bg-accent/10 transition-all font-semibold",
-                                                                children: "Upload Different Image"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 307,
-                                                                columnNumber: 21
-                                                            }, this)
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 294,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 270,
-                                                columnNumber: 15
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                    lineNumber: 375,
+                                                                    columnNumber: 25
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 373,
+                                                            columnNumber: 23
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                            onClick: ()=>{
+                                                                setCapturedImage(null);
+                                                                setDiagnosticData(null);
+                                                            },
+                                                            className: "w-full py-3 border border-accent text-accent rounded-lg hover:bg-accent/10 transition-all font-semibold",
+                                                            children: "Analyze Different Image"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 385,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 372,
+                                                    columnNumber: 21
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                            lineNumber: 330,
+                                            columnNumber: 17
+                                        }, this)
+                                    }, void 0, false, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 228,
-                                        columnNumber: 13
+                                        lineNumber: 328,
+                                        columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "space-y-8",
                                         children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "glass dark:glass-dark p-8 rounded-2xl",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                        className: "text-2xl font-semibold mb-6 flex items-center gap-3",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$calculator$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Calculator$3e$__["Calculator"], {
+                                                                className: "w-6 h-6 text-accent"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 404,
+                                                                columnNumber: 21
+                                                            }, this),
+                                                            "SmartCropAI Scoring Model"
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 403,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "space-y-4 mb-6",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                className: "text-lg font-semibold",
+                                                                children: "Input Parameters"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 410,
+                                                                columnNumber: 21
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "grid grid-cols-2 gap-4",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                        className: "space-y-2",
+                                                                        children: [
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
+                                                                                className: "text-sm font-medium text-foreground/70",
+                                                                                children: "Soil Moisture"
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 413,
+                                                                                columnNumber: 25
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "flex items-center gap-2",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                                                                                        type: "range",
+                                                                                        min: "0",
+                                                                                        max: "100",
+                                                                                        value: cropInputs.moisture,
+                                                                                        onChange: (e)=>handleInputChange('moisture', parseInt(e.target.value)),
+                                                                                        className: "w-full"
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 415,
+                                                                                        columnNumber: 27
+                                                                                    }, this),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                        className: "text-sm font-semibold w-12",
+                                                                                        children: [
+                                                                                            cropInputs.moisture,
+                                                                                            "%"
+                                                                                        ]
+                                                                                    }, void 0, true, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 423,
+                                                                                        columnNumber: 27
+                                                                                    }, this)
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 414,
+                                                                                columnNumber: 25
+                                                                            }, this)
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 412,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                        className: "space-y-2",
+                                                                        children: [
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
+                                                                                className: "text-sm font-medium text-foreground/70",
+                                                                                children: "Temperature"
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 427,
+                                                                                columnNumber: 25
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "flex items-center gap-2",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                                                                                        type: "range",
+                                                                                        min: "0",
+                                                                                        max: "50",
+                                                                                        value: cropInputs.temperature,
+                                                                                        onChange: (e)=>handleInputChange('temperature', parseInt(e.target.value)),
+                                                                                        className: "w-full"
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 429,
+                                                                                        columnNumber: 27
+                                                                                    }, this),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                        className: "text-sm font-semibold w-12",
+                                                                                        children: [
+                                                                                            cropInputs.temperature,
+                                                                                            "°C"
+                                                                                        ]
+                                                                                    }, void 0, true, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 437,
+                                                                                        columnNumber: 27
+                                                                                    }, this)
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 428,
+                                                                                columnNumber: 25
+                                                                            }, this)
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 426,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                        className: "space-y-2",
+                                                                        children: [
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
+                                                                                className: "text-sm font-medium text-foreground/70",
+                                                                                children: "Humidity"
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 441,
+                                                                                columnNumber: 25
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "flex items-center gap-2",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                                                                                        type: "range",
+                                                                                        min: "0",
+                                                                                        max: "100",
+                                                                                        value: cropInputs.humidity,
+                                                                                        onChange: (e)=>handleInputChange('humidity', parseInt(e.target.value)),
+                                                                                        className: "w-full"
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 443,
+                                                                                        columnNumber: 27
+                                                                                    }, this),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                        className: "text-sm font-semibold w-12",
+                                                                                        children: [
+                                                                                            cropInputs.humidity,
+                                                                                            "%"
+                                                                                        ]
+                                                                                    }, void 0, true, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 451,
+                                                                                        columnNumber: 27
+                                                                                    }, this)
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 442,
+                                                                                columnNumber: 25
+                                                                            }, this)
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 440,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                        className: "space-y-2",
+                                                                        children: [
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
+                                                                                className: "text-sm font-medium text-foreground/70",
+                                                                                children: "Season"
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 455,
+                                                                                columnNumber: 25
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
+                                                                                value: cropInputs.season,
+                                                                                onChange: (e)=>handleInputChange('season', e.target.value),
+                                                                                className: "w-full p-2 bg-secondary/50 rounded-lg border border-border",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
+                                                                                        value: "Rabi",
+                                                                                        children: "Rabi"
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 461,
+                                                                                        columnNumber: 27
+                                                                                    }, this),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
+                                                                                        value: "Kharif",
+                                                                                        children: "Kharif"
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 462,
+                                                                                        columnNumber: 27
+                                                                                    }, this),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
+                                                                                        value: "Zaid",
+                                                                                        children: "Zaid"
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 463,
+                                                                                        columnNumber: 27
+                                                                                    }, this)
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 456,
+                                                                                columnNumber: 25
+                                                                            }, this)
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 454,
+                                                                        columnNumber: 23
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 411,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 409,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "text-center p-6 bg-gradient-to-br from-green-400 to-green-600 rounded-lg mb-4",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                className: "text-sm text-white/90 mb-2",
+                                                                children: "Crop Suitability Score"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 471,
+                                                                columnNumber: 21
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                className: "text-4xl font-bold text-white",
+                                                                children: [
+                                                                    currentScore,
+                                                                    "/100"
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 472,
+                                                                columnNumber: 21
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                className: "text-sm text-white/80 mt-2",
+                                                                children: currentScore >= 90 ? 'Excellent' : currentScore >= 80 ? 'Very Good' : currentScore >= 70 ? 'Good' : currentScore >= 60 ? 'Fair' : 'Poor'
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 473,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 470,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "border-t border-border pt-4",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                                onClick: ()=>setShowFormula(!showFormula),
+                                                                className: "flex items-center justify-between w-full text-left text-sm font-semibold text-foreground/70 hover:text-foreground transition-colors",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                        children: "View Scoring Formula"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 487,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    showFormula ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$up$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronUp$3e$__["ChevronUp"], {
+                                                                        className: "w-4 h-4"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 488,
+                                                                        columnNumber: 38
+                                                                    }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$down$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronDown$3e$__["ChevronDown"], {
+                                                                        className: "w-4 h-4"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 488,
+                                                                        columnNumber: 74
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 483,
+                                                                columnNumber: 21
+                                                            }, this),
+                                                            showFormula && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "mt-4 space-y-4 p-4 bg-secondary/50 rounded-lg",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                        children: [
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
+                                                                                className: "font-semibold mb-2",
+                                                                                children: "Scoring Formula"
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 494,
+                                                                                columnNumber: 27
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "bg-black/20 p-3 rounded font-mono text-sm",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                                        children: "score = (moisture × 0.40 + "
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 496,
+                                                                                        columnNumber: 29
+                                                                                    }, this),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                                        children: "       temperature × 0.35 + "
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 497,
+                                                                                        columnNumber: 29
+                                                                                    }, this),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                                        children: "       humidity × 0.25) × 100 + season_bonus"
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 498,
+                                                                                        columnNumber: 29
+                                                                                    }, this)
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 495,
+                                                                                columnNumber: 27
+                                                                            }, this)
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 493,
+                                                                        columnNumber: 25
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                        children: [
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
+                                                                                className: "font-semibold mb-2",
+                                                                                children: "Parameter Weights"
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 503,
+                                                                                columnNumber: 27
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "space-y-2",
+                                                                                children: [
+                                                                                    {
+                                                                                        parameter: 'Soil Moisture',
+                                                                                        weight: '40%',
+                                                                                        importance: 'High'
+                                                                                    },
+                                                                                    {
+                                                                                        parameter: 'Temperature',
+                                                                                        weight: '35%',
+                                                                                        importance: 'High'
+                                                                                    },
+                                                                                    {
+                                                                                        parameter: 'Humidity',
+                                                                                        weight: '25%',
+                                                                                        importance: 'Medium'
+                                                                                    },
+                                                                                    {
+                                                                                        parameter: 'Season Match',
+                                                                                        weight: 'Bonus +10',
+                                                                                        importance: 'Critical'
+                                                                                    }
+                                                                                ].map((item, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                        className: "flex justify-between items-center text-sm",
+                                                                                        children: [
+                                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                                className: "font-medium",
+                                                                                                children: item.parameter
+                                                                                            }, void 0, false, {
+                                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                                lineNumber: 512,
+                                                                                                columnNumber: 33
+                                                                                            }, this),
+                                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                                className: "flex items-center gap-2",
+                                                                                                children: [
+                                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                                        className: "text-foreground/70",
+                                                                                                        children: item.weight
+                                                                                                    }, void 0, false, {
+                                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                                        lineNumber: 514,
+                                                                                                        columnNumber: 35
+                                                                                                    }, this),
+                                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                                        className: `px-2 py-1 rounded-full text-xs ${item.importance === 'High' ? 'bg-green-100 text-green-800 dark:bg-green-900/50 dark:text-green-300' : item.importance === 'Critical' ? 'bg-red-100 text-red-800 dark:bg-red-900/50 dark:text-red-300' : 'bg-yellow-100 text-yellow-800 dark:bg-yellow-900/50 dark:text-yellow-300'}`,
+                                                                                                        children: item.importance
+                                                                                                    }, void 0, false, {
+                                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                                        lineNumber: 515,
+                                                                                                        columnNumber: 35
+                                                                                                    }, this)
+                                                                                                ]
+                                                                                            }, void 0, true, {
+                                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                                lineNumber: 513,
+                                                                                                columnNumber: 33
+                                                                                            }, this)
+                                                                                        ]
+                                                                                    }, index, true, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 511,
+                                                                                        columnNumber: 31
+                                                                                    }, this))
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 504,
+                                                                                columnNumber: 27
+                                                                            }, this)
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 502,
+                                                                        columnNumber: 25
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 492,
+                                                                columnNumber: 23
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 482,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 402,
+                                                columnNumber: 17
+                                            }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "glass dark:glass-dark p-8 rounded-2xl",
                                                 children: [
@@ -1744,3025 +2136,2331 @@ function AIInsights() {
                                                                 className: "w-6 h-6 text-accent"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 325,
-                                                                columnNumber: 19
+                                                                lineNumber: 535,
+                                                                columnNumber: 21
                                                             }, this),
-                                                            "Active AI Models"
+                                                            "YOLOv8 Diagnostics System"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 324,
-                                                        columnNumber: 17
+                                                        lineNumber: 534,
+                                                        columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                         className: "space-y-4",
-                                                        children: aiModels.map((model, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "flex items-center justify-between p-4 bg-secondary/50 rounded-lg hover:bg-secondary/70 transition-colors duration-300",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                        children: [
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                className: "font-semibold text-foreground",
-                                                                                children: model.name
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 332,
-                                                                                columnNumber: 25
-                                                                            }, this),
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                className: "text-sm text-foreground/70",
-                                                                                children: model.type
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 333,
-                                                                                columnNumber: 25
-                                                                            }, this)
-                                                                        ]
-                                                                    }, void 0, true, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 331,
-                                                                        columnNumber: 23
-                                                                    }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                        className: "text-right",
-                                                                        children: [
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                className: "text-green-400 font-semibold",
-                                                                                children: [
-                                                                                    model.accuracy,
-                                                                                    "%"
-                                                                                ]
-                                                                            }, void 0, true, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 336,
-                                                                                columnNumber: 25
-                                                                            }, this),
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                className: "text-sm text-foreground/70",
-                                                                                children: model.speed
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 337,
-                                                                                columnNumber: 25
-                                                                            }, this)
-                                                                        ]
-                                                                    }, void 0, true, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 335,
-                                                                        columnNumber: 23
-                                                                    }, this)
-                                                                ]
-                                                            }, index, true, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 330,
-                                                                columnNumber: 21
-                                                            }, this))
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 328,
-                                                        columnNumber: 17
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 323,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "glass dark:glass-dark p-8 rounded-2xl",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                        className: "text-2xl font-semibold mb-6 flex items-center gap-3",
                                                         children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$trending$2d$up$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__TrendingUp$3e$__["TrendingUp"], {
-                                                                className: "w-6 h-6 text-accent"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 346,
-                                                                columnNumber: 19
-                                                            }, this),
-                                                            "Analysis Capabilities"
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 345,
-                                                        columnNumber: 17
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "space-y-3",
-                                                        children: [
-                                                            'Real-time disease detection',
-                                                            'Nutrient deficiency analysis',
-                                                            'Growth stage classification',
-                                                            'Yield prediction modeling',
-                                                            'Pest infestation alerts',
-                                                            'Soil health assessment',
-                                                            'Climate impact analysis',
-                                                            'Irrigation optimization'
-                                                        ].map((capability, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "flex items-center gap-3",
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "flex justify-between items-center p-3 bg-secondary/50 rounded-lg",
                                                                 children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2d$check$2d$big$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CheckCircle$3e$__["CheckCircle"], {
-                                                                        className: "w-4 h-4 text-green-400"
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                        className: "font-semibold",
+                                                                        children: "Model Accuracy"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 361,
+                                                                        lineNumber: 540,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                        className: "text-foreground/70",
-                                                                        children: capability
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 362,
-                                                                        columnNumber: 23
-                                                                    }, this)
-                                                                ]
-                                                            }, index, true, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 360,
-                                                                columnNumber: 21
-                                                            }, this))
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 349,
-                                                        columnNumber: 17
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 344,
-                                                columnNumber: 15
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 322,
-                                        columnNumber: 13
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 226,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                        lineNumber: 223,
-                        columnNumber: 9
-                    }, this),
-                    isProcessing && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "mb-20 glass dark:glass-dark p-16 rounded-2xl text-center space-y-8",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$loader$2d$circle$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Loader2$3e$__["Loader2"], {
-                                className: "w-16 h-16 text-accent animate-spin mx-auto"
-                            }, void 0, false, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 374,
-                                columnNumber: 13
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "space-y-4",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                        className: "text-3xl font-bold",
-                                        children: "Advanced AI Analysis in Progress"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 376,
-                                        columnNumber: 15
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "text-foreground/70 text-lg",
-                                        children: "Our neural networks are processing your image with multiple AI models..."
-                                    }, void 0, false, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 377,
-                                        columnNumber: 15
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "flex justify-center gap-4 text-sm text-foreground/50",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                children: "DeepLeaf CNN"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 379,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                children: "•"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 380,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                children: "SoilNet V2"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 381,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                children: "•"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 382,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                children: "YieldPredict Pro"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 383,
-                                                columnNumber: 17
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 378,
-                                        columnNumber: 15
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 375,
-                                columnNumber: 13
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                        lineNumber: 373,
-                        columnNumber: 11
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "mb-20 space-y-12",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "text-center space-y-4",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                        className: "text-4xl font-bold",
-                                        children: "Plant & Soil Quality Scoring System"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 392,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "text-xl text-foreground/70 max-w-3xl mx-auto",
-                                        children: "Real-time sensor-based scoring for optimal planting decisions and soil health assessment"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 393,
-                                        columnNumber: 13
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 391,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "grid md:grid-cols-4 gap-6 mb-8",
-                                children: [
-                                    {
-                                        label: 'Active Sensors',
-                                        value: '24',
-                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$activity$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Activity$3e$__["Activity"], {
-                                            className: "w-6 h-6"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 401,
-                                            columnNumber: 61
-                                        }, this),
-                                        status: 'Online'
-                                    },
-                                    {
-                                        label: 'Data Accuracy',
-                                        value: '98.5%',
-                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$target$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Target$3e$__["Target"], {
-                                            className: "w-6 h-6"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 402,
-                                            columnNumber: 63
-                                        }, this),
-                                        status: 'Excellent'
-                                    },
-                                    {
-                                        label: 'Update Frequency',
-                                        value: '5 min',
-                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$refresh$2d$cw$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__RefreshCw$3e$__["RefreshCw"], {
-                                            className: "w-6 h-6"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 403,
-                                            columnNumber: 66
-                                        }, this),
-                                        status: 'Real-time'
-                                    },
-                                    {
-                                        label: 'Coverage Area',
-                                        value: '125 ha',
-                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__MapPin$3e$__["MapPin"], {
-                                            className: "w-6 h-6"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 404,
-                                            columnNumber: 64
-                                        }, this),
-                                        status: 'Complete'
-                                    }
-                                ].map((stat, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-6 rounded-2xl text-center space-y-3",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "text-accent mx-auto",
-                                                children: stat.icon
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 407,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-sm text-foreground/70",
-                                                children: stat.label
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 408,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-2xl font-bold text-accent",
-                                                children: stat.value
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 409,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-green-400 text-sm font-semibold",
-                                                children: stat.status
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 410,
-                                                columnNumber: 17
-                                            }, this)
-                                        ]
-                                    }, index, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 406,
-                                        columnNumber: 15
-                                    }, this))
-                            }, void 0, false, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 399,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "glass dark:glass-dark p-8 rounded-2xl",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                        className: "text-2xl font-semibold mb-6 flex items-center gap-3",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sprout$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Sprout$3e$__["Sprout"], {
-                                                className: "w-6 h-6 text-accent"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 418,
-                                                columnNumber: 15
-                                            }, this),
-                                            "Plant Suitability Scoring"
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 417,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "overflow-x-auto",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("table", {
-                                            className: "w-full",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("thead", {
-                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("tr", {
-                                                        className: "border-b border-border",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
-                                                                className: "text-left py-4 px-4 text-foreground/60 font-semibold",
-                                                                children: "Plant Type"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 426,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
-                                                                className: "text-left py-4 px-4 text-foreground/60 font-semibold",
-                                                                children: "Soil Score"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 427,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
-                                                                className: "text-left py-4 px-4 text-foreground/60 font-semibold",
-                                                                children: "Climate Match"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 428,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
-                                                                className: "text-left py-4 px-4 text-foreground/60 font-semibold",
-                                                                children: "Yield Potential"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 429,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
-                                                                className: "text-left py-4 px-4 text-foreground/60 font-semibold",
-                                                                children: "Overall Score"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 430,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
-                                                                className: "text-left py-4 px-4 text-foreground/60 font-semibold",
-                                                                children: "Recommendation"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 431,
-                                                                columnNumber: 21
-                                                            }, this)
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 425,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                    lineNumber: 424,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("tbody", {
-                                                    children: [
-                                                        {
-                                                            plant: 'Tomatoes',
-                                                            soilScore: 92,
-                                                            climate: 88,
-                                                            yield: 95,
-                                                            overall: 91,
-                                                            status: 'Highly Recommended',
-                                                            color: 'from-green-400 to-green-600'
-                                                        },
-                                                        {
-                                                            plant: 'Corn',
-                                                            soilScore: 85,
-                                                            climate: 82,
-                                                            yield: 90,
-                                                            overall: 86,
-                                                            status: 'Recommended',
-                                                            color: 'from-blue-400 to-blue-600'
-                                                        },
-                                                        {
-                                                            plant: 'Wheat',
-                                                            soilScore: 78,
-                                                            climate: 75,
-                                                            yield: 82,
-                                                            overall: 78,
-                                                            status: 'Good Fit',
-                                                            color: 'from-yellow-400 to-yellow-600'
-                                                        },
-                                                        {
-                                                            plant: 'Soybeans',
-                                                            soilScore: 88,
-                                                            climate: 85,
-                                                            yield: 87,
-                                                            overall: 87,
-                                                            status: 'Recommended',
-                                                            color: 'from-blue-400 to-blue-600'
-                                                        },
-                                                        {
-                                                            plant: 'Potatoes',
-                                                            soilScore: 65,
-                                                            climate: 72,
-                                                            yield: 68,
-                                                            overall: 68,
-                                                            status: 'Moderate',
-                                                            color: 'from-orange-400 to-orange-600'
-                                                        },
-                                                        {
-                                                            plant: 'Carrots',
-                                                            soilScore: 82,
-                                                            climate: 78,
-                                                            yield: 80,
-                                                            overall: 80,
-                                                            status: 'Good Fit',
-                                                            color: 'from-yellow-400 to-yellow-600'
-                                                        }
-                                                    ].map((crop, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("tr", {
-                                                            className: "border-b border-border/50 hover:bg-secondary/30 transition-colors duration-300",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
-                                                                    className: "py-4 px-4",
-                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                        className: "flex items-center gap-3",
-                                                                        children: [
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                className: `w-10 h-10 bg-gradient-to-br ${crop.color} rounded-lg flex items-center justify-center text-white font-bold`,
-                                                                                children: crop.plant.charAt(0)
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 494,
-                                                                                columnNumber: 27
-                                                                            }, this),
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                className: "font-semibold text-foreground",
-                                                                                children: crop.plant
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 497,
-                                                                                columnNumber: 27
-                                                                            }, this)
-                                                                        ]
-                                                                    }, void 0, true, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 493,
-                                                                        columnNumber: 25
-                                                                    }, this)
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 492,
-                                                                    columnNumber: 23
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
-                                                                    className: "py-4 px-4",
-                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                        className: "flex items-center gap-2",
-                                                                        children: [
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                className: "w-16 bg-secondary rounded-full h-2",
-                                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                    className: "h-2 rounded-full bg-gradient-to-r from-green-400 to-green-600",
-                                                                                    style: {
-                                                                                        width: `${crop.soilScore}%`
-                                                                                    }
-                                                                                }, void 0, false, {
-                                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                    lineNumber: 503,
-                                                                                    columnNumber: 29
-                                                                                }, this)
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 502,
-                                                                                columnNumber: 27
-                                                                            }, this),
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                className: "font-semibold text-foreground",
-                                                                                children: crop.soilScore
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 508,
-                                                                                columnNumber: 27
-                                                                            }, this)
-                                                                        ]
-                                                                    }, void 0, true, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 501,
-                                                                        columnNumber: 25
-                                                                    }, this)
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 500,
-                                                                    columnNumber: 23
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
-                                                                    className: "py-4 px-4",
-                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                        className: "flex items-center gap-2",
-                                                                        children: [
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                className: "w-16 bg-secondary rounded-full h-2",
-                                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                    className: "h-2 rounded-full bg-gradient-to-r from-blue-400 to-blue-600",
-                                                                                    style: {
-                                                                                        width: `${crop.climate}%`
-                                                                                    }
-                                                                                }, void 0, false, {
-                                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                    lineNumber: 514,
-                                                                                    columnNumber: 29
-                                                                                }, this)
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 513,
-                                                                                columnNumber: 27
-                                                                            }, this),
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                className: "font-semibold text-foreground",
-                                                                                children: crop.climate
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 519,
-                                                                                columnNumber: 27
-                                                                            }, this)
-                                                                        ]
-                                                                    }, void 0, true, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 512,
-                                                                        columnNumber: 25
-                                                                    }, this)
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 511,
-                                                                    columnNumber: 23
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
-                                                                    className: "py-4 px-4",
-                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                        className: "flex items-center gap-2",
-                                                                        children: [
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                className: "w-16 bg-secondary rounded-full h-2",
-                                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                    className: "h-2 rounded-full bg-gradient-to-r from-purple-400 to-purple-600",
-                                                                                    style: {
-                                                                                        width: `${crop.yield}%`
-                                                                                    }
-                                                                                }, void 0, false, {
-                                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                    lineNumber: 525,
-                                                                                    columnNumber: 29
-                                                                                }, this)
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 524,
-                                                                                columnNumber: 27
-                                                                            }, this),
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                className: "font-semibold text-foreground",
-                                                                                children: crop.yield
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 530,
-                                                                                columnNumber: 27
-                                                                            }, this)
-                                                                        ]
-                                                                    }, void 0, true, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 523,
-                                                                        columnNumber: 25
-                                                                    }, this)
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 522,
-                                                                    columnNumber: 23
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
-                                                                    className: "py-4 px-4",
-                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                        className: "flex items-center gap-2",
-                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                            className: `w-20 h-8 rounded-lg bg-gradient-to-br ${crop.color} flex items-center justify-center text-white font-bold text-sm`,
-                                                                            children: [
-                                                                                crop.overall,
-                                                                                "/100"
-                                                                            ]
-                                                                        }, void 0, true, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 535,
-                                                                            columnNumber: 27
-                                                                        }, this)
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 534,
-                                                                        columnNumber: 25
-                                                                    }, this)
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 533,
-                                                                    columnNumber: 23
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
-                                                                    className: "py-4 px-4",
-                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                        className: `px-3 py-1 rounded-full text-xs font-semibold ${crop.status === 'Highly Recommended' ? 'bg-green-100 text-green-800 dark:bg-green-900/50 dark:text-green-300' : crop.status === 'Recommended' ? 'bg-blue-100 text-blue-800 dark:bg-blue-900/50 dark:text-blue-300' : crop.status === 'Good Fit' ? 'bg-yellow-100 text-yellow-800 dark:bg-yellow-900/50 dark:text-yellow-300' : 'bg-orange-100 text-orange-800 dark:bg-orange-900/50 dark:text-orange-300'}`,
-                                                                        children: crop.status
+                                                                        className: "text-green-400 font-bold",
+                                                                        children: "96.8%"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
                                                                         lineNumber: 541,
-                                                                        columnNumber: 25
-                                                                    }, this)
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 540,
-                                                                    columnNumber: 23
-                                                                }, this)
-                                                            ]
-                                                        }, index, true, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 491,
-                                                            columnNumber: 21
-                                                        }, this))
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                    lineNumber: 434,
-                                                    columnNumber: 17
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 423,
-                                            columnNumber: 15
-                                        }, this)
-                                    }, void 0, false, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 422,
-                                        columnNumber: 13
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 416,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "grid lg:grid-cols-2 gap-8",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "text-2xl font-semibold mb-6 flex items-center gap-3",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__["Droplets"], {
-                                                        className: "w-6 h-6 text-accent"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 561,
-                                                        columnNumber: 17
-                                                    }, this),
-                                                    "Soil Quality Metrics"
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 560,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "space-y-6",
-                                                children: [
-                                                    {
-                                                        parameter: 'pH Level',
-                                                        value: 6.8,
-                                                        optimal: '6.5-7.0',
-                                                        status: 'Optimal',
-                                                        score: 92
-                                                    },
-                                                    {
-                                                        parameter: 'Nitrogen',
-                                                        value: '75 ppm',
-                                                        optimal: '70-80 ppm',
-                                                        status: 'Good',
-                                                        score: 88
-                                                    },
-                                                    {
-                                                        parameter: 'Phosphorus',
-                                                        value: '45 ppm',
-                                                        optimal: '40-50 ppm',
-                                                        status: 'Optimal',
-                                                        score: 95
-                                                    },
-                                                    {
-                                                        parameter: 'Potassium',
-                                                        value: '82 ppm',
-                                                        optimal: '80-90 ppm',
-                                                        status: 'Good',
-                                                        score: 85
-                                                    },
-                                                    {
-                                                        parameter: 'Organic Matter',
-                                                        value: '3.2%',
-                                                        optimal: '3-4%',
-                                                        status: 'Optimal',
-                                                        score: 90
-                                                    },
-                                                    {
-                                                        parameter: 'Moisture',
-                                                        value: '65%',
-                                                        optimal: '60-70%',
-                                                        status: 'Optimal',
-                                                        score: 94
-                                                    }
-                                                ].map((metric, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "flex items-center justify-between p-4 bg-secondary/50 rounded-lg",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                        className: "font-semibold text-foreground",
-                                                                        children: metric.parameter
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 575,
-                                                                        columnNumber: 23
-                                                                    }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                        className: "text-sm text-foreground/70",
-                                                                        children: [
-                                                                            "Optimal: ",
-                                                                            metric.optimal
-                                                                        ]
-                                                                    }, void 0, true, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 576,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 574,
+                                                                lineNumber: 539,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "text-right",
+                                                                className: "flex justify-between items-center p-3 bg-secondary/50 rounded-lg",
                                                                 children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                        className: "text-lg font-bold text-foreground",
-                                                                        children: metric.value
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                        className: "font-semibold",
+                                                                        children: "Processing Speed"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 579,
+                                                                        lineNumber: 544,
                                                                         columnNumber: 23
                                                                     }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                        className: `text-sm font-semibold ${metric.status === 'Optimal' ? 'text-green-400' : 'text-yellow-400'}`,
-                                                                        children: metric.status
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                        className: "text-blue-400 font-bold",
+                                                                        children: "0.8s"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 580,
+                                                                        lineNumber: 545,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 578,
+                                                                lineNumber: 543,
+                                                                columnNumber: 21
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "flex justify-between items-center p-3 bg-secondary/50 rounded-lg",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                        className: "font-semibold",
+                                                                        children: "Diseases Detected"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 548,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                        className: "text-purple-400 font-bold",
+                                                                        children: "500+"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 549,
+                                                                        columnNumber: 23
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 547,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
-                                                    }, index, true, {
+                                                    }, void 0, true, {
                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 573,
+                                                        lineNumber: 538,
                                                         columnNumber: 19
-                                                    }, this))
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 564,
-                                                columnNumber: 15
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 559,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "text-2xl font-semibold mb-6 flex items-center gap-3",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$trending$2d$up$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__TrendingUp$3e$__["TrendingUp"], {
-                                                        className: "w-6 h-6 text-accent"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 593,
-                                                        columnNumber: 17
-                                                    }, this),
-                                                    "Soil Health Trends"
+                                                    }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 592,
-                                                columnNumber: 15
+                                                lineNumber: 533,
+                                                columnNumber: 17
                                             }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$ResponsiveContainer$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["ResponsiveContainer"], {
-                                                width: "100%",
-                                                height: 300,
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$chart$2f$AreaChart$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["AreaChart"], {
-                                                    data: soilData,
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("defs", {
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("linearGradient", {
-                                                                    id: "colorMoisture",
-                                                                    x1: "0",
-                                                                    y1: "0",
-                                                                    x2: "0",
-                                                                    y2: "1",
-                                                                    children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("stop", {
-                                                                            offset: "5%",
-                                                                            stopColor: "#3b82f6",
-                                                                            stopOpacity: 0.8
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 600,
-                                                                            columnNumber: 23
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("stop", {
-                                                                            offset: "95%",
-                                                                            stopColor: "#3b82f6",
-                                                                            stopOpacity: 0
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 601,
-                                                                            columnNumber: 23
-                                                                        }, this)
-                                                                    ]
-                                                                }, void 0, true, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 599,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("linearGradient", {
-                                                                    id: "colorNitrogen",
-                                                                    x1: "0",
-                                                                    y1: "0",
-                                                                    x2: "0",
-                                                                    y2: "1",
-                                                                    children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("stop", {
-                                                                            offset: "5%",
-                                                                            stopColor: "#10b981",
-                                                                            stopOpacity: 0.8
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 604,
-                                                                            columnNumber: 23
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("stop", {
-                                                                            offset: "95%",
-                                                                            stopColor: "#10b981",
-                                                                            stopOpacity: 0
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 605,
-                                                                            columnNumber: 23
-                                                                        }, this)
-                                                                    ]
-                                                                }, void 0, true, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 603,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 598,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$CartesianGrid$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["CartesianGrid"], {
-                                                            strokeDasharray: "3 3",
-                                                            stroke: "rgba(16, 185, 129, 0.1)"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 608,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$XAxis$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["XAxis"], {
-                                                            dataKey: "day",
-                                                            stroke: "currentColor"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 609,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$YAxis$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["YAxis"], {
-                                                            stroke: "currentColor"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 610,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$Tooltip$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Tooltip"], {}, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 611,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$Area$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Area"], {
-                                                            type: "monotone",
-                                                            dataKey: "moisture",
-                                                            stroke: "#3b82f6",
-                                                            fillOpacity: 1,
-                                                            fill: "url(#colorMoisture)",
-                                                            name: "Moisture %"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 612,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$Area$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Area"], {
-                                                            type: "monotone",
-                                                            dataKey: "nitrogen",
-                                                            stroke: "#10b981",
-                                                            fillOpacity: 1,
-                                                            fill: "url(#colorNitrogen)",
-                                                            name: "Nitrogen ppm"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 613,
-                                                            columnNumber: 19
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                    lineNumber: 597,
-                                                    columnNumber: 17
-                                                }, this)
-                                            }, void 0, false, {
+                                            isProcessing && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "glass dark:glass-dark p-8 rounded-2xl text-center space-y-4",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$loader$2d$circle$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Loader2$3e$__["Loader2"], {
+                                                        className: "w-12 h-12 text-accent animate-spin mx-auto"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 557,
+                                                        columnNumber: 21
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "space-y-2",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                                className: "text-xl font-bold",
+                                                                children: "YOLOv8 Analysis in Progress"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 559,
+                                                                columnNumber: 23
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                className: "text-foreground/70",
+                                                                children: "Processing image through computer vision models..."
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 560,
+                                                                columnNumber: 23
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 558,
+                                                        columnNumber: 21
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 596,
-                                                columnNumber: 15
-                                            }, this)
+                                                lineNumber: 556,
+                                                columnNumber: 19
+                                            }, this),
+                                            diagnosticData && !isProcessing && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "glass dark:glass-dark p-8 rounded-2xl",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                                className: "text-2xl font-semibold mb-6 flex items-center gap-3",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$triangle$2d$alert$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__AlertTriangle$3e$__["AlertTriangle"], {
+                                                                        className: "w-6 h-6 text-yellow-400"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 571,
+                                                                        columnNumber: 25
+                                                                    }, this),
+                                                                    "Active Pest & Disease Alerts"
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 570,
+                                                                columnNumber: 23
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "space-y-4",
+                                                                children: diagnosticData.pests.map((pest, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                        onClick: ()=>handleDiseaseClick(pest),
+                                                                        className: "p-4 border border-border rounded-lg hover:border-yellow-400/50 transition-colors duration-300 cursor-pointer hover:shadow-lg",
+                                                                        children: [
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "flex items-center justify-between mb-2",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                        className: "font-semibold text-foreground",
+                                                                                        children: pest.name
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 582,
+                                                                                        columnNumber: 31
+                                                                                    }, this),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                        className: "text-green-400 font-bold",
+                                                                                        children: [
+                                                                                            pest.confidence,
+                                                                                            "%"
+                                                                                        ]
+                                                                                    }, void 0, true, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 583,
+                                                                                        columnNumber: 31
+                                                                                    }, this)
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 581,
+                                                                                columnNumber: 29
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "flex gap-6 text-sm text-foreground/70",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                        children: [
+                                                                                            "Severity:",
+                                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                                className: `ml-1 font-semibold ${pest.severity === 'High' ? 'text-red-400' : pest.severity === 'Medium' ? 'text-yellow-400' : 'text-green-400'}`,
+                                                                                                children: pest.severity
+                                                                                            }, void 0, false, {
+                                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                                lineNumber: 587,
+                                                                                                columnNumber: 33
+                                                                                            }, this)
+                                                                                        ]
+                                                                                    }, void 0, true, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 586,
+                                                                                        columnNumber: 31
+                                                                                    }, this),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                        children: [
+                                                                                            "Spread:",
+                                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                                className: `ml-1 font-semibold ${pest.spread === 'Spreading' ? 'text-red-400' : pest.spread === 'Localized' ? 'text-yellow-400' : 'text-green-400'}`,
+                                                                                                children: pest.spread
+                                                                                            }, void 0, false, {
+                                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                                lineNumber: 595,
+                                                                                                columnNumber: 33
+                                                                                            }, this)
+                                                                                        ]
+                                                                                    }, void 0, true, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 594,
+                                                                                        columnNumber: 31
+                                                                                    }, this)
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 585,
+                                                                                columnNumber: 29
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "mt-2 text-xs text-blue-400 flex items-center gap-1",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$external$2d$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ExternalLink$3e$__["ExternalLink"], {
+                                                                                        className: "w-3 h-3"
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 604,
+                                                                                        columnNumber: 31
+                                                                                    }, this),
+                                                                                    "Click for treatment solutions"
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 603,
+                                                                                columnNumber: 29
+                                                                            }, this)
+                                                                        ]
+                                                                    }, index, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 576,
+                                                                        columnNumber: 27
+                                                                    }, this))
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 574,
+                                                                columnNumber: 23
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 569,
+                                                        columnNumber: 21
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "glass dark:glass-dark p-8 rounded-2xl",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                                className: "text-2xl font-semibold mb-6 flex items-center gap-3",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2d$check$2d$big$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CheckCircle$3e$__["CheckCircle"], {
+                                                                        className: "w-6 h-6 text-green-400"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 615,
+                                                                        columnNumber: 25
+                                                                    }, this),
+                                                                    "Recommended Action Plan"
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 614,
+                                                                columnNumber: 23
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "space-y-3",
+                                                                children: diagnosticData.recommendations.map((rec, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                        className: "flex items-center gap-3 p-3 bg-secondary/50 rounded-lg",
+                                                                        children: [
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "w-8 h-8 rounded-full bg-gradient-to-br from-green-400 to-green-600 flex items-center justify-center flex-shrink-0 text-white font-bold text-sm",
+                                                                                children: i + 1
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 621,
+                                                                                columnNumber: 29
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                className: "text-foreground/70",
+                                                                                children: rec
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 624,
+                                                                                columnNumber: 29
+                                                                            }, this)
+                                                                        ]
+                                                                    }, i, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 620,
+                                                                        columnNumber: 27
+                                                                    }, this))
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 618,
+                                                                columnNumber: 23
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 613,
+                                                        columnNumber: 21
+                                                    }, this)
+                                                ]
+                                            }, void 0, true)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 591,
-                                        columnNumber: 13
+                                        lineNumber: 400,
+                                        columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 558,
-                                columnNumber: 11
+                                lineNumber: 326,
+                                columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                        lineNumber: 390,
-                        columnNumber: 9
+                        lineNumber: 318,
+                        columnNumber: 11
                     }, this),
-                    aiResult && !isProcessing && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "mb-20 space-y-16",
+                    activeTab === 'weather' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
+                        className: "space-y-12",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "grid md:grid-cols-2 lg:grid-cols-4 gap-8",
+                                className: "text-center space-y-4 mb-12",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                        className: "text-4xl font-bold",
+                                        children: "🌤️ AI Weather Forecasting"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 640,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        className: "text-xl text-foreground/70 max-w-3xl mx-auto",
+                                        children: "Advanced weather predictions with agricultural impact analysis"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 641,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                lineNumber: 639,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "grid lg:grid-cols-3 gap-8 mb-8",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl space-y-4 border-2 border-green-500/20",
+                                        className: "glass dark:glass-dark p-8 rounded-2xl",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "text-sm font-semibold text-foreground/60 uppercase",
-                                                children: "AI Classification"
-                                            }, void 0, false, {
+                                                className: "text-2xl font-semibold mb-6 flex items-center gap-3",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__MapPin$3e$__["MapPin"], {
+                                                        className: "w-6 h-6 text-accent"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 650,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    "Current Conditions"
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 626,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-2xl font-bold",
-                                                children: aiResult.classification
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 627,
+                                                lineNumber: 649,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex items-center gap-2",
+                                                className: "text-center space-y-4",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "w-2 h-2 rounded-full bg-green-500 animate-pulse"
+                                                        className: "flex justify-center",
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(WeatherIcon, {
+                                                            condition: weatherData.current.icon,
+                                                            size: 64
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 655,
+                                                            columnNumber: 21
+                                                        }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 629,
+                                                        lineNumber: 654,
                                                         columnNumber: 19
                                                     }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "text-sm text-green-600 dark:text-green-400",
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                        className: "text-4xl font-bold text-accent",
                                                         children: [
-                                                            aiResult.confidence,
-                                                            "% Confidence"
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 630,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 628,
-                                                columnNumber: 17
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 625,
-                                        columnNumber: 15
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl space-y-4 border-2 border-yellow-500/20",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "text-sm font-semibold text-foreground/60 uppercase",
-                                                children: "Health Status"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 635,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-2xl font-bold",
-                                                children: aiResult.cropHealth
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 636,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex items-center gap-2",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$triangle$2d$alert$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__AlertTriangle$3e$__["AlertTriangle"], {
-                                                        className: "w-4 h-4 text-yellow-600 dark:text-yellow-400"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 638,
-                                                        columnNumber: 19
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "text-sm text-yellow-600 dark:text-yellow-400",
-                                                        children: [
-                                                            "Risk Score: ",
-                                                            aiResult.riskScore,
-                                                            "/100"
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 639,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 637,
-                                                columnNumber: 17
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 634,
-                                        columnNumber: 15
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl space-y-4 border-2 border-blue-500/20",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "text-sm font-semibold text-foreground/60 uppercase",
-                                                children: "Action Plan"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 644,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-2xl font-bold",
-                                                children: [
-                                                    aiResult.suggestions.length,
-                                                    " Steps"
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 645,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex items-center gap-2",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$trending$2d$up$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__TrendingUp$3e$__["TrendingUp"], {
-                                                        className: "w-4 h-4 text-blue-600 dark:text-blue-400"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 647,
-                                                        columnNumber: 19
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "text-sm text-blue-600 dark:text-blue-400",
-                                                        children: [
-                                                            "Recovery: ",
-                                                            aiResult.detailedAnalysis.recoveryProbability,
-                                                            "%"
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 648,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 646,
-                                                columnNumber: 17
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 643,
-                                        columnNumber: 15
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl space-y-4 border-2 border-purple-500/20",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "text-sm font-semibold text-foreground/60 uppercase",
-                                                children: "Cost Estimate"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 653,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-2xl font-bold",
-                                                children: aiResult.detailedAnalysis.costEstimate
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 654,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex items-center gap-2",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$clock$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Clock$3e$__["Clock"], {
-                                                        className: "w-4 h-4 text-purple-600 dark:text-purple-400"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 656,
-                                                        columnNumber: 19
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "text-sm text-purple-600 dark:text-purple-400",
-                                                        children: [
-                                                            "Urgency: ",
-                                                            aiResult.detailedAnalysis.treatmentUrgency
+                                                            weatherData.current.temperature,
+                                                            "°C"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
                                                         lineNumber: 657,
                                                         columnNumber: 19
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 655,
-                                                columnNumber: 17
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 652,
-                                        columnNumber: 15
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 624,
-                                columnNumber: 13
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "glass dark:glass-dark rounded-2xl overflow-hidden",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "border-b border-border",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "flex space-x-8 px-8",
-                                            children: [
-                                                'analysis',
-                                                'treatment',
-                                                'prevention',
-                                                'monitoring'
-                                            ].map((tab)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                    onClick: ()=>setActiveTab(tab),
-                                                    className: `py-4 px-2 font-semibold border-b-2 transition-colors duration-300 ${activeTab === tab ? 'border-accent text-accent' : 'border-transparent text-foreground/70 hover:text-foreground'}`,
-                                                    children: tab.charAt(0).toUpperCase() + tab.slice(1)
-                                                }, tab, false, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                    lineNumber: 667,
-                                                    columnNumber: 21
-                                                }, this))
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 665,
-                                            columnNumber: 17
-                                        }, this)
-                                    }, void 0, false, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 664,
-                                        columnNumber: 15
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "p-8",
-                                        children: [
-                                            activeTab === 'analysis' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "space-y-6",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                        className: "text-2xl font-bold",
-                                                        children: "Detailed Disease Analysis"
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                        className: "text-foreground/70",
+                                                        children: weatherData.current.condition
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 685,
-                                                        columnNumber: 21
+                                                        lineNumber: 658,
+                                                        columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "grid md:grid-cols-2 gap-8",
+                                                        className: "grid grid-cols-2 gap-4 mt-4",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "space-y-4",
-                                                                children: Object.entries(aiResult.detailedAnalysis).map(([key, value])=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                        className: "flex justify-between items-center py-3 border-b border-border",
-                                                                        children: [
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                className: "font-semibold capitalize",
-                                                                                children: [
-                                                                                    key.replace(/([A-Z])/g, ' $1'),
-                                                                                    ":"
-                                                                                ]
-                                                                            }, void 0, true, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 690,
-                                                                                columnNumber: 29
-                                                                            }, this),
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                className: "text-accent font-semibold",
-                                                                                children: value
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 691,
-                                                                                columnNumber: 29
-                                                                            }, this)
-                                                                        ]
-                                                                    }, key, true, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 689,
-                                                                        columnNumber: 27
-                                                                    }, this))
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 687,
-                                                                columnNumber: 23
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "space-y-4",
+                                                                className: "text-center",
                                                                 children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
-                                                                        className: "font-semibold text-lg",
-                                                                        children: "Disease Progression"
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__["Droplets"], {
+                                                                        className: "w-6 h-6 text-blue-400 mx-auto mb-1"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 696,
-                                                                        columnNumber: 25
-                                                                    }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                        className: "space-y-3",
-                                                                        children: [
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                className: "flex justify-between text-sm",
-                                                                                children: [
-                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                        children: "Current Stage"
-                                                                                    }, void 0, false, {
-                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                        lineNumber: 699,
-                                                                                        columnNumber: 29
-                                                                                    }, this),
-                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                        className: "text-yellow-400",
-                                                                                        children: "Early"
-                                                                                    }, void 0, false, {
-                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                        lineNumber: 700,
-                                                                                        columnNumber: 29
-                                                                                    }, this)
-                                                                                ]
-                                                                            }, void 0, true, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 698,
-                                                                                columnNumber: 27
-                                                                            }, this),
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                className: "w-full bg-secondary rounded-full h-2",
-                                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                    className: "bg-yellow-400 h-2 rounded-full",
-                                                                                    style: {
-                                                                                        width: '25%'
-                                                                                    }
-                                                                                }, void 0, false, {
-                                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                    lineNumber: 703,
-                                                                                    columnNumber: 29
-                                                                                }, this)
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 702,
-                                                                                columnNumber: 27
-                                                                            }, this),
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                className: "flex justify-between text-sm",
-                                                                                children: [
-                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                        children: "Spread Potential"
-                                                                                    }, void 0, false, {
-                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                        lineNumber: 706,
-                                                                                        columnNumber: 29
-                                                                                    }, this),
-                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                        className: "text-orange-400",
-                                                                                        children: "Medium"
-                                                                                    }, void 0, false, {
-                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                        lineNumber: 707,
-                                                                                        columnNumber: 29
-                                                                                    }, this)
-                                                                                ]
-                                                                            }, void 0, true, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 705,
-                                                                                columnNumber: 27
-                                                                            }, this),
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                className: "w-full bg-secondary rounded-full h-2",
-                                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                    className: "bg-orange-400 h-2 rounded-full",
-                                                                                    style: {
-                                                                                        width: '50%'
-                                                                                    }
-                                                                                }, void 0, false, {
-                                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                    lineNumber: 710,
-                                                                                    columnNumber: 29
-                                                                                }, this)
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 709,
-                                                                                columnNumber: 27
-                                                                            }, this)
-                                                                        ]
-                                                                    }, void 0, true, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 697,
-                                                                        columnNumber: 25
-                                                                    }, this)
-                                                                ]
-                                                            }, void 0, true, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 695,
-                                                                columnNumber: 23
-                                                            }, this)
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 686,
-                                                        columnNumber: 21
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 684,
-                                                columnNumber: 19
-                                            }, this),
-                                            activeTab === 'treatment' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "space-y-6",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                        className: "text-2xl font-bold",
-                                                        children: "Immediate Treatment Recommendations"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 720,
-                                                        columnNumber: 21
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "grid md:grid-cols-2 gap-6",
-                                                        children: aiResult.suggestions.map((suggestion, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "glass dark:glass-dark p-6 rounded-xl flex gap-4 hover:-translate-y-1 transition-all group",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                        className: "w-10 h-10 rounded-full bg-gradient-to-br from-green-400 to-green-600 flex items-center justify-center flex-shrink-0 text-white font-bold text-lg group-hover:scale-110 transition-transform",
-                                                                        children: i + 1
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 724,
-                                                                        columnNumber: 27
-                                                                    }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                        children: [
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                className: "text-foreground/70 leading-relaxed",
-                                                                                children: suggestion
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 728,
-                                                                                columnNumber: 29
-                                                                            }, this),
-                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                className: "text-sm text-foreground/50 mt-2",
-                                                                                children: [
-                                                                                    "Priority: ",
-                                                                                    i < 2 ? 'High' : 'Medium'
-                                                                                ]
-                                                                            }, void 0, true, {
-                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                lineNumber: 729,
-                                                                                columnNumber: 29
-                                                                            }, this)
-                                                                        ]
-                                                                    }, void 0, true, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 727,
-                                                                        columnNumber: 27
-                                                                    }, this)
-                                                                ]
-                                                            }, i, true, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 723,
-                                                                columnNumber: 25
-                                                            }, this))
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 721,
-                                                        columnNumber: 21
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 719,
-                                                columnNumber: 19
-                                            }, this),
-                                            activeTab === 'prevention' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "space-y-6",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                        className: "text-2xl font-bold",
-                                                        children: "Long-term Prevention Strategy"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 739,
-                                                        columnNumber: 21
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "space-y-4",
-                                                        children: aiResult.recommendations.map((rec, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "glass dark:glass-dark p-6 rounded-xl border-l-4 border-accent space-y-2 hover:border-l-8 transition-all",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                        className: "font-semibold text-foreground",
-                                                                        children: rec
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 743,
-                                                                        columnNumber: 27
+                                                                        lineNumber: 661,
+                                                                        columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                         className: "text-sm text-foreground/70",
-                                                                        children: "Estimated impact: High • Timeframe: 1-2 weeks"
+                                                                        children: "Humidity"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 744,
-                                                                        columnNumber: 27
-                                                                    }, this)
-                                                                ]
-                                                            }, i, true, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 742,
-                                                                columnNumber: 25
-                                                            }, this))
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 740,
-                                                        columnNumber: 21
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 738,
-                                                columnNumber: 19
-                                            }, this),
-                                            activeTab === 'monitoring' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "space-y-6",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                        className: "text-2xl font-bold",
-                                                        children: "Monitoring & Follow-up"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 753,
-                                                        columnNumber: 21
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "grid md:grid-cols-2 gap-8",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "space-y-4",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
-                                                                        className: "font-semibold",
-                                                                        children: "Weekly Checkpoints"
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 756,
-                                                                        columnNumber: 25
-                                                                    }, this),
-                                                                    [
-                                                                        'Day 3: Reassess disease progression',
-                                                                        'Day 7: Evaluate treatment effectiveness',
-                                                                        'Day 14: Full health assessment',
-                                                                        'Day 30: Preventive measures review'
-                                                                    ].map((checkpoint, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                            className: "flex items-center gap-3",
-                                                                            children: [
-                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$calendar$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Calendar$3e$__["Calendar"], {
-                                                                                    className: "w-4 h-4 text-accent"
-                                                                                }, void 0, false, {
-                                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                    lineNumber: 764,
-                                                                                    columnNumber: 29
-                                                                                }, this),
-                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                    className: "text-foreground/70",
-                                                                                    children: checkpoint
-                                                                                }, void 0, false, {
-                                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                    lineNumber: 765,
-                                                                                    columnNumber: 29
-                                                                                }, this)
-                                                                            ]
-                                                                        }, i, true, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 763,
-                                                                            columnNumber: 27
-                                                                        }, this))
-                                                                ]
-                                                            }, void 0, true, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 755,
-                                                                columnNumber: 23
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "space-y-4",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
-                                                                        className: "font-semibold",
-                                                                        children: "Success Metrics"
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 770,
-                                                                        columnNumber: 25
-                                                                    }, this),
-                                                                    [
-                                                                        'Disease spread halted',
-                                                                        'New growth observed',
-                                                                        'Leaf discoloration reduced',
-                                                                        'Overall plant vigor improved'
-                                                                    ].map((metric, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                            className: "flex items-center gap-3",
-                                                                            children: [
-                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$target$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Target$3e$__["Target"], {
-                                                                                    className: "w-4 h-4 text-green-400"
-                                                                                }, void 0, false, {
-                                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                    lineNumber: 778,
-                                                                                    columnNumber: 29
-                                                                                }, this),
-                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                    className: "text-foreground/70",
-                                                                                    children: metric
-                                                                                }, void 0, false, {
-                                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                                    lineNumber: 779,
-                                                                                    columnNumber: 29
-                                                                                }, this)
-                                                                            ]
-                                                                        }, i, true, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 777,
-                                                                            columnNumber: 27
-                                                                        }, this))
-                                                                ]
-                                                            }, void 0, true, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 769,
-                                                                columnNumber: 23
-                                                            }, this)
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 754,
-                                                        columnNumber: 21
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 752,
-                                                columnNumber: 19
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 682,
-                                        columnNumber: 15
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 663,
-                                columnNumber: 13
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                        lineNumber: 622,
-                        columnNumber: 11
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "mb-20 space-y-12",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "flex items-center justify-between",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                        className: "text-4xl font-bold",
-                                        children: "Advanced Analytics Dashboard"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 794,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "flex gap-3",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                className: "px-4 py-2 bg-secondary rounded-lg text-foreground/70 hover:text-foreground transition-colors",
-                                                children: "Weekly"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 796,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                className: "px-4 py-2 bg-accent text-white rounded-lg transition-colors",
-                                                children: "Monthly"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 799,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                className: "px-4 py-2 bg-secondary rounded-lg text-foreground/70 hover:text-foreground transition-colors",
-                                                children: "Yearly"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 802,
-                                                columnNumber: 15
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 795,
-                                        columnNumber: 13
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 793,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "grid lg:grid-cols-2 gap-12",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "text-2xl font-semibold mb-6",
-                                                children: "AI Yield Predictions vs Actual"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 811,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$ResponsiveContainer$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["ResponsiveContainer"], {
-                                                width: "100%",
-                                                height: 400,
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$chart$2f$ComposedChart$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["ComposedChart"], {
-                                                    data: predictionData,
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("defs", {
-                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("linearGradient", {
-                                                                id: "colorPred",
-                                                                x1: "0",
-                                                                y1: "0",
-                                                                x2: "0",
-                                                                y2: "1",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("stop", {
-                                                                        offset: "5%",
-                                                                        stopColor: "#10b981",
-                                                                        stopOpacity: 0.8
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 816,
+                                                                        lineNumber: 662,
                                                                         columnNumber: 23
                                                                     }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("stop", {
-                                                                        offset: "95%",
-                                                                        stopColor: "#10b981",
-                                                                        stopOpacity: 0
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 817,
-                                                                        columnNumber: 23
-                                                                    }, this)
-                                                                ]
-                                                            }, void 0, true, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 815,
-                                                                columnNumber: 21
-                                                            }, this)
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 814,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$CartesianGrid$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["CartesianGrid"], {
-                                                            strokeDasharray: "3 3",
-                                                            stroke: "rgba(16, 185, 129, 0.1)"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 820,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$XAxis$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["XAxis"], {
-                                                            dataKey: "week",
-                                                            stroke: "currentColor"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 821,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$YAxis$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["YAxis"], {
-                                                            stroke: "currentColor"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 822,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$Tooltip$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Tooltip"], {
-                                                            contentStyle: {
-                                                                backgroundColor: 'rgba(255, 255, 255, 0.95)',
-                                                                border: '1px solid #10b981',
-                                                                borderRadius: '8px'
-                                                            }
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 823,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$Line$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Line"], {
-                                                            type: "monotone",
-                                                            dataKey: "predicted",
-                                                            stroke: "#10b981",
-                                                            strokeWidth: 3,
-                                                            dot: {
-                                                                r: 6
-                                                            },
-                                                            name: "AI Predicted"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 824,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$Line$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Line"], {
-                                                            type: "monotone",
-                                                            dataKey: "actual",
-                                                            stroke: "#60a5fa",
-                                                            strokeWidth: 2,
-                                                            strokeDasharray: "5 5",
-                                                            name: "Actual Yield"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 825,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$Line$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Line"], {
-                                                            type: "monotone",
-                                                            dataKey: "optimal",
-                                                            stroke: "#ef4444",
-                                                            strokeWidth: 2,
-                                                            dot: {
-                                                                r: 4
-                                                            },
-                                                            name: "Optimal Target"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 826,
-                                                            columnNumber: 19
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                    lineNumber: 813,
-                                                    columnNumber: 17
-                                                }, this)
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 812,
-                                                columnNumber: 15
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 810,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "text-2xl font-semibold mb-6",
-                                                children: "Farm-wide Crop Health Distribution"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 833,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex flex-col lg:flex-row items-center justify-between gap-8",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$ResponsiveContainer$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["ResponsiveContainer"], {
-                                                        width: "100%",
-                                                        height: 300,
-                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$chart$2f$PieChart$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["PieChart"], {
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$polar$2f$Pie$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Pie"], {
-                                                                    data: cropHealthData,
-                                                                    cx: "50%",
-                                                                    cy: "50%",
-                                                                    labelLine: false,
-                                                                    label: ({ name, value })=>`${name}: ${value}%`,
-                                                                    outerRadius: 80,
-                                                                    fill: "#8884d8",
-                                                                    dataKey: "value",
-                                                                    children: cropHealthData.map((entry, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$Cell$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Cell"], {
-                                                                            fill: entry.color
-                                                                        }, `cell-${index}`, false, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 848,
-                                                                            columnNumber: 25
-                                                                        }, this))
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 837,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$Tooltip$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Tooltip"], {}, void 0, false, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 851,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 836,
-                                                            columnNumber: 19
-                                                        }, this)
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 835,
-                                                        columnNumber: 17
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "space-y-4",
-                                                        children: cropHealthData.map((item, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "flex items-center gap-3",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                        className: "w-4 h-4 rounded",
-                                                                        style: {
-                                                                            backgroundColor: item.color
-                                                                        }
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 857,
-                                                                        columnNumber: 23
-                                                                    }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                         className: "font-semibold",
                                                                         children: [
-                                                                            item.name,
-                                                                            ": ",
-                                                                            item.value,
+                                                                            weatherData.current.humidity,
                                                                             "%"
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 858,
+                                                                        lineNumber: 663,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
-                                                            }, i, true, {
+                                                            }, void 0, true, {
                                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 856,
+                                                                lineNumber: 660,
                                                                 columnNumber: 21
-                                                            }, this))
-                                                    }, void 0, false, {
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "text-center",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$wind$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Wind$3e$__["Wind"], {
+                                                                        className: "w-6 h-6 text-green-400 mx-auto mb-1"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 666,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "text-sm text-foreground/70",
+                                                                        children: "Wind"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 667,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "font-semibold",
+                                                                        children: [
+                                                                            weatherData.current.windSpeed,
+                                                                            " km/h"
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 668,
+                                                                        columnNumber: 23
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 665,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 854,
-                                                        columnNumber: 17
+                                                        lineNumber: 659,
+                                                        columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 834,
-                                                columnNumber: 15
+                                                lineNumber: 653,
+                                                columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 832,
-                                        columnNumber: 13
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 808,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                        lineNumber: 792,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "mb-20 space-y-8",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                className: "text-4xl font-bold",
-                                children: "Weather Impact Analysis"
-                            }, void 0, false, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 869,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "grid md:grid-cols-3 gap-8",
-                                children: [
-                                    {
-                                        label: 'Temperature Optimal',
-                                        value: '28°C',
-                                        status: 'Good',
-                                        icon: '🌡️',
-                                        impact: '+12% Yield'
-                                    },
-                                    {
-                                        label: 'Rainfall This Week',
-                                        value: '45mm',
-                                        status: 'Adequate',
-                                        icon: '🌧️',
-                                        impact: 'Optimal'
-                                    },
-                                    {
-                                        label: 'Humidity Level',
-                                        value: '65%',
-                                        status: 'Ideal',
-                                        icon: '💧',
-                                        impact: '+8% Growth'
-                                    },
-                                    {
-                                        label: 'Wind Speed',
-                                        value: '12 km/h',
-                                        status: 'Moderate',
-                                        icon: '💨',
-                                        impact: 'Neutral'
-                                    },
-                                    {
-                                        label: 'Sunlight Hours',
-                                        value: '8.2h',
-                                        status: 'Excellent',
-                                        icon: '☀️',
-                                        impact: '+15% Photosynthesis'
-                                    },
-                                    {
-                                        label: 'Soil Temperature',
-                                        value: '22°C',
-                                        status: 'Optimal',
-                                        icon: '🌱',
-                                        impact: '+10% Germination'
-                                    }
-                                ].map((item, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl space-y-4 text-center hover:-translate-y-2 transition-all duration-300",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "text-4xl",
-                                                children: item.icon
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 880,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-sm font-semibold text-foreground/60",
-                                                children: item.label
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 881,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-3xl font-bold",
-                                                children: item.value
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 882,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-green-600 dark:text-green-400 font-semibold",
-                                                children: item.status
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 883,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-blue-600 dark:text-blue-400 text-sm",
-                                                children: item.impact
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 884,
-                                                columnNumber: 17
-                                            }, this)
-                                        ]
-                                    }, i, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 879,
+                                        lineNumber: 648,
                                         columnNumber: 15
-                                    }, this))
-                            }, void 0, false, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 870,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                        lineNumber: 868,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "mb-20 space-y-8",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                className: "text-4xl font-bold",
-                                children: "Disease Pattern Recognition"
-                            }, void 0, false, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 892,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "glass dark:glass-dark p-8 rounded-2xl",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "grid md:grid-cols-2 gap-8",
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                    className: "text-2xl font-semibold mb-6",
-                                                    children: "Detected Disease Patterns"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                    lineNumber: 896,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "space-y-4",
-                                                    children: diseasePatterns.map((disease, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                            className: "p-4 border border-border rounded-lg hover:border-accent/50 transition-colors duration-300",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                    className: "flex items-center justify-between mb-2",
-                                                                    children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            className: "font-semibold text-foreground",
-                                                                            children: disease.disease
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 901,
-                                                                            columnNumber: 25
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            className: "text-green-400 font-bold",
-                                                                            children: [
-                                                                                disease.confidence,
-                                                                                "%"
-                                                                            ]
-                                                                        }, void 0, true, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 902,
-                                                                            columnNumber: 25
-                                                                        }, this)
-                                                                    ]
-                                                                }, void 0, true, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 900,
-                                                                    columnNumber: 23
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                    className: "flex gap-4 text-sm text-foreground/70",
-                                                                    children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            children: [
-                                                                                "Severity: ",
-                                                                                disease.severity
-                                                                            ]
-                                                                        }, void 0, true, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 905,
-                                                                            columnNumber: 25
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            children: [
-                                                                                "Spread: ",
-                                                                                disease.spread
-                                                                            ]
-                                                                        }, void 0, true, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 906,
-                                                                            columnNumber: 25
-                                                                        }, this)
-                                                                    ]
-                                                                }, void 0, true, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 904,
-                                                                    columnNumber: 23
-                                                                }, this)
-                                                            ]
-                                                        }, index, true, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 899,
-                                                            columnNumber: 21
-                                                        }, this))
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                    lineNumber: 897,
-                                                    columnNumber: 17
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 895,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                    className: "text-2xl font-semibold mb-6",
-                                                    children: "Prevention Effectiveness"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                    lineNumber: 913,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "space-y-6",
-                                                    children: [
-                                                        {
-                                                            method: 'Crop Rotation',
-                                                            effectiveness: 92,
-                                                            cost: 'Low'
-                                                        },
-                                                        {
-                                                            method: 'Organic Fungicides',
-                                                            effectiveness: 85,
-                                                            cost: 'Medium'
-                                                        },
-                                                        {
-                                                            method: 'Soil Solarization',
-                                                            effectiveness: 78,
-                                                            cost: 'High'
-                                                        },
-                                                        {
-                                                            method: 'Companion Planting',
-                                                            effectiveness: 88,
-                                                            cost: 'Low'
-                                                        }
-                                                    ].map((method, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                            className: "space-y-2",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                    className: "flex justify-between text-sm",
-                                                                    children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            className: "font-semibold",
-                                                                            children: method.method
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 923,
-                                                                            columnNumber: 25
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            className: "text-green-400",
-                                                                            children: [
-                                                                                method.effectiveness,
-                                                                                "%"
-                                                                            ]
-                                                                        }, void 0, true, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 924,
-                                                                            columnNumber: 25
-                                                                        }, this)
-                                                                    ]
-                                                                }, void 0, true, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 922,
-                                                                    columnNumber: 23
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                    className: "w-full bg-secondary rounded-full h-2",
-                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                        className: "h-2 rounded-full bg-gradient-to-r from-green-400 to-green-600",
-                                                                        style: {
-                                                                            width: `${method.effectiveness}%`
-                                                                        }
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 927,
-                                                                        columnNumber: 25
-                                                                    }, this)
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 926,
-                                                                    columnNumber: 23
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                    className: "flex justify-between text-xs text-foreground/50",
-                                                                    children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            children: [
-                                                                                "Cost: ",
-                                                                                method.cost
-                                                                            ]
-                                                                        }, void 0, true, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 933,
-                                                                            columnNumber: 25
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            children: "Recommended"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                            lineNumber: 934,
-                                                                            columnNumber: 25
-                                                                        }, this)
-                                                                    ]
-                                                                }, void 0, true, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 932,
-                                                                    columnNumber: 23
-                                                                }, this)
-                                                            ]
-                                                        }, index, true, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 921,
-                                                            columnNumber: 21
-                                                        }, this))
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                    lineNumber: 914,
-                                                    columnNumber: 17
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 912,
-                                            columnNumber: 15
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                    lineNumber: 894,
-                                    columnNumber: 13
-                                }, this)
-                            }, void 0, false, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 893,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                        lineNumber: 891,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "mb-20 space-y-8",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                className: "text-4xl font-bold",
-                                children: "Historical AI Performance"
-                            }, void 0, false, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 946,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "glass dark:glass-dark p-8 rounded-2xl",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$ResponsiveContainer$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["ResponsiveContainer"], {
-                                    width: "100%",
-                                    height: 400,
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$chart$2f$BarChart$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["BarChart"], {
-                                        data: historicalInsights,
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$CartesianGrid$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["CartesianGrid"], {
-                                                strokeDasharray: "3 3",
-                                                stroke: "rgba(16, 185, 129, 0.1)"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 950,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$XAxis$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["XAxis"], {
-                                                dataKey: "year",
-                                                stroke: "currentColor"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 951,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$YAxis$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["YAxis"], {
-                                                yAxisId: "left",
-                                                stroke: "currentColor"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 952,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$YAxis$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["YAxis"], {
-                                                yAxisId: "right",
-                                                orientation: "right",
-                                                stroke: "currentColor"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 953,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$Tooltip$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Tooltip"], {
-                                                contentStyle: {
-                                                    backgroundColor: 'rgba(255, 255, 255, 0.95)',
-                                                    border: '1px solid #10b981',
-                                                    borderRadius: '8px'
-                                                }
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 954,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$Bar$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Bar"], {
-                                                yAxisId: "left",
-                                                dataKey: "yield",
-                                                fill: "#10b981",
-                                                radius: [
-                                                    4,
-                                                    4,
-                                                    0,
-                                                    0
-                                                ],
-                                                name: "Yield (kg/ha)"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 955,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$Line$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Line"], {
-                                                yAxisId: "right",
-                                                type: "monotone",
-                                                dataKey: "accuracy",
-                                                stroke: "#3b82f6",
-                                                strokeWidth: 2,
-                                                name: "AI Accuracy %"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 956,
-                                                columnNumber: 17
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 949,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                    lineNumber: 948,
-                                    columnNumber: 13
-                                }, this)
-                            }, void 0, false, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 947,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                        lineNumber: 945,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "mb-20 space-y-8",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                className: "text-4xl font-bold",
-                                children: "AI Model Performance Metrics"
-                            }, void 0, false, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 964,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "grid lg:grid-cols-2 gap-8",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "text-2xl font-semibold mb-6",
-                                                children: "Model Accuracy Trends"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 967,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$ResponsiveContainer$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["ResponsiveContainer"], {
-                                                width: "100%",
-                                                height: 300,
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$chart$2f$LineChart$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["LineChart"], {
-                                                    data: historicalInsights,
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$CartesianGrid$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["CartesianGrid"], {
-                                                            strokeDasharray: "3 3",
-                                                            stroke: "rgba(16, 185, 129, 0.1)"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 970,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$XAxis$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["XAxis"], {
-                                                            dataKey: "year",
-                                                            stroke: "currentColor"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 971,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$YAxis$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["YAxis"], {
-                                                            stroke: "currentColor"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 972,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$Tooltip$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Tooltip"], {}, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 973,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$Line$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Line"], {
-                                                            type: "monotone",
-                                                            dataKey: "accuracy",
-                                                            stroke: "#10b981",
-                                                            strokeWidth: 3,
-                                                            dot: {
-                                                                r: 6
-                                                            }
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                            lineNumber: 974,
-                                                            columnNumber: 19
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                    lineNumber: 969,
-                                                    columnNumber: 17
-                                                }, this)
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 968,
-                                                columnNumber: 15
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 966,
-                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "glass dark:glass-dark p-8 rounded-2xl",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                 className: "text-2xl font-semibold mb-6",
-                                                children: "Processing Speed Analysis"
+                                                children: "Agricultural Impact"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 979,
-                                                columnNumber: 15
+                                                lineNumber: 676,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "space-y-6",
-                                                children: aiModels.map((model, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "space-y-4",
+                                                children: Object.entries(weatherData.agriculturalIndices).map(([key, value])=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                         className: "space-y-2",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                 className: "flex justify-between text-sm",
                                                                 children: [
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                        className: "font-semibold",
-                                                                        children: model.name
+                                                                        className: "font-semibold capitalize",
+                                                                        children: key.replace(/([A-Z])/g, ' $1').replace('Index', '')
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 984,
-                                                                        columnNumber: 23
+                                                                        lineNumber: 681,
+                                                                        columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                        className: "text-blue-400",
-                                                                        children: model.speed
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 985,
-                                                                        columnNumber: 23
-                                                                    }, this)
-                                                                ]
-                                                            }, void 0, true, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 983,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "w-full bg-secondary rounded-full h-2",
-                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                    className: "h-2 rounded-full bg-gradient-to-r from-blue-400 to-blue-600",
-                                                                    style: {
-                                                                        width: `${parseFloat(model.speed) * 50}%`
-                                                                    }
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                    lineNumber: 988,
-                                                                    columnNumber: 23
-                                                                }, this)
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 987,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "flex justify-between text-xs text-foreground/50",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                        className: "text-foreground/70",
                                                                         children: [
-                                                                            "Accuracy: ",
-                                                                            model.accuracy,
+                                                                            Math.round(value * 100),
                                                                             "%"
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 994,
-                                                                        columnNumber: 23
-                                                                    }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                        children: model.type
+                                                                        lineNumber: 684,
+                                                                        columnNumber: 25
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 680,
+                                                                columnNumber: 23
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "w-full bg-secondary rounded-full h-2",
+                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: `h-2 rounded-full ${value > 0.7 ? 'bg-red-400' : value > 0.4 ? 'bg-yellow-400' : 'bg-green-400'}`,
+                                                                    style: {
+                                                                        width: `${value * 100}%`
+                                                                    }
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                    lineNumber: 687,
+                                                                    columnNumber: 25
+                                                                }, this)
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 686,
+                                                                columnNumber: 23
+                                                            }, this)
+                                                        ]
+                                                    }, key, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 679,
+                                                        columnNumber: 21
+                                                    }, this))
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 677,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 675,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "glass dark:glass-dark p-8 rounded-2xl",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                className: "text-2xl font-semibold mb-6 flex items-center gap-3",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$triangle$2d$alert$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__AlertTriangle$3e$__["AlertTriangle"], {
+                                                        className: "w-6 h-6 text-yellow-400"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 703,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    "Weather Alerts"
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 702,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "space-y-4",
+                                                children: weatherData.alerts.map((alert, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "p-4 bg-yellow-500/20 rounded-lg border border-yellow-500/30",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "flex items-center gap-2 mb-2",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$triangle$2d$alert$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__AlertTriangle$3e$__["AlertTriangle"], {
+                                                                        className: "w-4 h-4 text-yellow-400"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                        lineNumber: 995,
+                                                                        lineNumber: 710,
+                                                                        columnNumber: 25
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                        className: "font-semibold capitalize",
+                                                                        children: [
+                                                                            alert.type,
+                                                                            " Alert"
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 711,
+                                                                        columnNumber: 25
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 709,
+                                                                columnNumber: 23
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                className: "text-sm text-foreground/70 mb-2",
+                                                                children: alert.message
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 713,
+                                                                columnNumber: 23
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                className: "text-xs text-green-400",
+                                                                children: [
+                                                                    "Impact: ",
+                                                                    alert.impact
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 714,
+                                                                columnNumber: 23
+                                                            }, this)
+                                                        ]
+                                                    }, index, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 708,
+                                                        columnNumber: 21
+                                                    }, this))
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 706,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 701,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                lineNumber: 646,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "glass dark:glass-dark p-8 rounded-2xl mb-8",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                        className: "text-2xl font-semibold mb-6",
+                                        children: "24-Hour Forecast"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 723,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "flex overflow-x-auto space-x-6 pb-4",
+                                        children: weatherData.hourly.map((hour, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "flex flex-col items-center space-y-2 min-w-[80px]",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                        className: "text-sm text-foreground/70",
+                                                        children: hour.time
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 727,
+                                                        columnNumber: 21
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(WeatherIcon, {
+                                                        condition: hour.condition,
+                                                        size: 32
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 728,
+                                                        columnNumber: 21
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                        className: "font-semibold",
+                                                        children: [
+                                                            hour.temp,
+                                                            "°"
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 729,
+                                                        columnNumber: 21
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                        className: "text-xs text-blue-400",
+                                                        children: [
+                                                            hour.precipitation,
+                                                            "%"
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 730,
+                                                        columnNumber: 21
+                                                    }, this)
+                                                ]
+                                            }, index, true, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 726,
+                                                columnNumber: 19
+                                            }, this))
+                                    }, void 0, false, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 724,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                lineNumber: 722,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "glass dark:glass-dark p-8 rounded-2xl",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                        className: "text-2xl font-semibold mb-6",
+                                        children: "7-Day Forecast"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 738,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "space-y-4",
+                                        children: weatherData.daily.map((day, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "flex items-center justify-between p-4 bg-secondary/50 rounded-lg",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "flex items-center gap-4",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                className: "font-semibold min-w-[60px]",
+                                                                children: day.day
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 743,
+                                                                columnNumber: 23
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(WeatherIcon, {
+                                                                condition: day.condition,
+                                                                size: 24
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 744,
+                                                                columnNumber: 23
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 742,
+                                                        columnNumber: 21
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "flex items-center gap-6",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                className: "text-foreground/70",
+                                                                children: [
+                                                                    day.low,
+                                                                    "°"
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 747,
+                                                                columnNumber: 23
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "w-20 bg-gray-200 dark:bg-gray-700 rounded-full h-2",
+                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: "h-2 rounded-full bg-gradient-to-r from-blue-400 to-red-400",
+                                                                    style: {
+                                                                        width: '70%'
+                                                                    }
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                    lineNumber: 749,
+                                                                    columnNumber: 25
+                                                                }, this)
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 748,
+                                                                columnNumber: 23
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                className: "font-semibold",
+                                                                children: [
+                                                                    day.high,
+                                                                    "°"
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 754,
+                                                                columnNumber: 23
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 746,
+                                                        columnNumber: 21
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "flex items-center gap-4",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                className: "text-blue-400 text-sm",
+                                                                children: [
+                                                                    day.precipitation,
+                                                                    "%"
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 757,
+                                                                columnNumber: 23
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                className: "text-foreground/70 text-sm",
+                                                                children: [
+                                                                    day.humidity,
+                                                                    "%"
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 758,
+                                                                columnNumber: 23
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 756,
+                                                        columnNumber: 21
+                                                    }, this)
+                                                ]
+                                            }, index, true, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 741,
+                                                columnNumber: 19
+                                            }, this))
+                                    }, void 0, false, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 739,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                lineNumber: 737,
+                                columnNumber: 13
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                        lineNumber: 638,
+                        columnNumber: 11
+                    }, this),
+                    activeTab === 'environmental' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
+                        className: "space-y-12",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "text-center space-y-4 mb-12",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                        className: "text-4xl font-bold",
+                                        children: "🌡️ Environmental Prediction & Risk Assessment"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 771,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        className: "text-xl text-foreground/70 max-w-3xl mx-auto",
+                                        children: "Combines IoT sensor data with ML models to assess current crop health and future risks"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 772,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                lineNumber: 770,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "grid lg:grid-cols-2 gap-8",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "glass dark:glass-dark p-8 rounded-2xl",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                className: "text-2xl font-semibold mb-6 flex items-center gap-3",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$leaf$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Leaf$3e$__["Leaf"], {
+                                                        className: "w-6 h-6 text-accent"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 781,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    "Soil Health NPK Panel"
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 780,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "space-y-6",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "grid grid-cols-2 gap-4",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "text-center p-4 bg-secondary/50 rounded-lg",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__["Droplets"], {
+                                                                        className: "w-8 h-8 text-blue-400 mx-auto mb-2"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 787,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "text-sm text-foreground/70",
+                                                                        children: "Moisture"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 788,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "text-2xl font-bold text-accent",
+                                                                        children: [
+                                                                            environmentalData.soil.moisture,
+                                                                            "%"
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 789,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                                lineNumber: 993,
+                                                                lineNumber: 786,
+                                                                columnNumber: 21
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "text-center p-4 bg-secondary/50 rounded-lg",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$thermometer$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Thermometer$3e$__["Thermometer"], {
+                                                                        className: "w-8 h-8 text-red-400 mx-auto mb-2"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 792,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "text-sm text-foreground/70",
+                                                                        children: "Temperature"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 793,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "text-2xl font-bold text-accent",
+                                                                        children: [
+                                                                            environmentalData.soil.temperature,
+                                                                            "°C"
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 794,
+                                                                        columnNumber: 23
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 791,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
-                                                    }, index, true, {
+                                                    }, void 0, true, {
                                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                        lineNumber: 982,
+                                                        lineNumber: 785,
                                                         columnNumber: 19
-                                                    }, this))
-                                            }, void 0, false, {
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "space-y-4",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                className: "font-semibold text-lg",
+                                                                children: "Estimated NPK Levels"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 799,
+                                                                columnNumber: 21
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "space-y-3",
+                                                                children: [
+                                                                    {
+                                                                        nutrient: 'Nitrogen',
+                                                                        value: environmentalData.soil.npk.nitrogen,
+                                                                        color: 'from-green-400 to-green-600'
+                                                                    },
+                                                                    {
+                                                                        nutrient: 'Phosphorus',
+                                                                        value: environmentalData.soil.npk.phosphorus,
+                                                                        color: 'from-blue-400 to-blue-600'
+                                                                    },
+                                                                    {
+                                                                        nutrient: 'Potassium',
+                                                                        value: environmentalData.soil.npk.potassium,
+                                                                        color: 'from-purple-400 to-purple-600'
+                                                                    }
+                                                                ].map((item, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                        className: "space-y-2",
+                                                                        children: [
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "flex justify-between text-sm",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                        className: "font-semibold",
+                                                                                        children: item.nutrient
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 808,
+                                                                                        columnNumber: 29
+                                                                                    }, this),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                        className: "text-foreground/70",
+                                                                                        children: [
+                                                                                            item.value,
+                                                                                            " ppm"
+                                                                                        ]
+                                                                                    }, void 0, true, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 809,
+                                                                                        columnNumber: 29
+                                                                                    }, this)
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 807,
+                                                                                columnNumber: 27
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "w-full bg-secondary rounded-full h-2",
+                                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                    className: `h-2 rounded-full bg-gradient-to-r ${item.color}`,
+                                                                                    style: {
+                                                                                        width: `${item.value}%`
+                                                                                    }
+                                                                                }, void 0, false, {
+                                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                    lineNumber: 812,
+                                                                                    columnNumber: 29
+                                                                                }, this)
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 811,
+                                                                                columnNumber: 27
+                                                                            }, this)
+                                                                        ]
+                                                                    }, index, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 806,
+                                                                        columnNumber: 25
+                                                                    }, this))
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 800,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 798,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "text-center p-4 bg-gradient-to-br from-green-400 to-green-600 rounded-lg",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                className: "text-sm text-white/90",
+                                                                children: "Soil Health Score"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 823,
+                                                                columnNumber: 21
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                className: "text-3xl font-bold text-white",
+                                                                children: [
+                                                                    environmentalData.soil.healthScore,
+                                                                    "/100"
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 824,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 822,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 980,
-                                                columnNumber: 15
+                                                lineNumber: 784,
+                                                columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 978,
-                                        columnNumber: 13
+                                        lineNumber: 779,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "space-y-8",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "glass dark:glass-dark p-8 rounded-2xl",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                        className: "text-2xl font-semibold mb-6",
+                                                        children: "Predictive Yield Risk"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 832,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "space-y-6",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "grid grid-cols-2 gap-4",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                        className: "text-center p-4 bg-secondary/50 rounded-lg",
+                                                                        children: [
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                                className: "text-sm text-foreground/70",
+                                                                                children: "Predicted Yield"
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 836,
+                                                                                columnNumber: 25
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                                className: "text-2xl font-bold text-green-400",
+                                                                                children: [
+                                                                                    environmentalData.yield.predicted,
+                                                                                    " kg/ha"
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 837,
+                                                                                columnNumber: 25
+                                                                            }, this)
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 835,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                        className: "text-center p-4 bg-secondary/50 rounded-lg",
+                                                                        children: [
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                                className: "text-sm text-foreground/70",
+                                                                                children: "Actual Yield"
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 840,
+                                                                                columnNumber: 25
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                                className: "text-2xl font-bold text-blue-400",
+                                                                                children: [
+                                                                                    environmentalData.yield.actual,
+                                                                                    " kg/ha"
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 841,
+                                                                                columnNumber: 25
+                                                                            }, this)
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 839,
+                                                                        columnNumber: 23
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 834,
+                                                                columnNumber: 21
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "text-center p-4 bg-secondary/50 rounded-lg",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "text-sm text-foreground/70",
+                                                                        children: "Current Risk Factor"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 846,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: `text-2xl font-bold ${environmentalData.yield.risk === 'Low' ? 'text-green-400' : environmentalData.yield.risk === 'Medium' ? 'text-yellow-400' : 'text-red-400'}`,
+                                                                        children: environmentalData.yield.risk
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 847,
+                                                                        columnNumber: 23
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 845,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 833,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 831,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "glass dark:glass-dark p-8 rounded-2xl",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                        className: "text-2xl font-semibold mb-6",
+                                                        children: "Local Micro Weather Outlook"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 859,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "grid grid-cols-3 gap-4",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "text-center p-4 bg-secondary/50 rounded-lg",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$thermometer$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Thermometer$3e$__["Thermometer"], {
+                                                                        className: "w-6 h-6 text-red-400 mx-auto mb-2"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 862,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "text-sm text-foreground/70",
+                                                                        children: "Temperature"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 863,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "text-lg font-bold text-accent",
+                                                                        children: [
+                                                                            environmentalData.weather.temperature,
+                                                                            "°C"
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 864,
+                                                                        columnNumber: 23
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 861,
+                                                                columnNumber: 21
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "text-center p-4 bg-secondary/50 rounded-lg",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__["Droplets"], {
+                                                                        className: "w-6 h-6 text-blue-400 mx-auto mb-2"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 867,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "text-sm text-foreground/70",
+                                                                        children: "Rainfall"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 868,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "text-lg font-bold text-accent",
+                                                                        children: [
+                                                                            environmentalData.weather.rainfall,
+                                                                            "mm"
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 869,
+                                                                        columnNumber: 23
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 866,
+                                                                columnNumber: 21
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "text-center p-4 bg-secondary/50 rounded-lg",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$leaf$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Leaf$3e$__["Leaf"], {
+                                                                        className: "w-6 h-6 text-green-400 mx-auto mb-2"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 872,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "text-sm text-foreground/70",
+                                                                        children: "Humidity"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 873,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "text-lg font-bold text-accent",
+                                                                        children: [
+                                                                            environmentalData.weather.humidity,
+                                                                            "%"
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 874,
+                                                                        columnNumber: 23
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 871,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 860,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "mt-4 p-3 bg-yellow-500/20 rounded-lg border border-yellow-500/30",
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                            className: "text-sm text-yellow-400 text-center",
+                                                            children: "Fungal Risk: Low | Optimal Growing Conditions"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 878,
+                                                            columnNumber: 21
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 877,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 858,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 830,
+                                        columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 965,
-                                columnNumber: 11
+                                lineNumber: 777,
+                                columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                        lineNumber: 963,
-                        columnNumber: 9
+                        lineNumber: 769,
+                        columnNumber: 11
                     }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "mb-20 space-y-8",
+                    activeTab === 'recommendation' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
+                        className: "space-y-12",
                         children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                className: "text-4xl font-bold",
-                                children: "Agricultural Resources"
-                            }, void 0, false, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 1006,
-                                columnNumber: 11
-                            }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "grid md:grid-cols-2 lg:grid-cols-4 gap-8",
+                                className: "text-center space-y-4 mb-12",
                                 children: [
-                                    {
-                                        title: 'Crop Disease Encyclopedia',
-                                        desc: 'Comprehensive guide to identify and treat 500+ crop diseases',
-                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$book$2d$open$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__BookOpen$3e$__["BookOpen"], {
-                                            className: "w-8 h-8"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 1012,
-                                            columnNumber: 23
-                                        }, this),
-                                        items: '500+ Diseases'
-                                    },
-                                    {
-                                        title: 'Soil Management Guide',
-                                        desc: 'Best practices for soil health improvement and maintenance',
-                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$recycle$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Recycle$3e$__["Recycle"], {
-                                            className: "w-8 h-8"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 1018,
-                                            columnNumber: 23
-                                        }, this),
-                                        items: '25 Techniques'
-                                    },
-                                    {
-                                        title: 'Pest Control Strategies',
-                                        desc: 'Organic and chemical pest management solutions',
-                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$shield$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Shield$3e$__["Shield"], {
-                                            className: "w-8 h-8"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 1024,
-                                            columnNumber: 23
-                                        }, this),
-                                        items: '100+ Solutions'
-                                    },
-                                    {
-                                        title: 'Irrigation Optimization',
-                                        desc: 'Smart water management for maximum yield efficiency',
-                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__["Droplets"], {
-                                            className: "w-8 h-8"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                            lineNumber: 1030,
-                                            columnNumber: 23
-                                        }, this),
-                                        items: '15 Systems'
-                                    }
-                                ].map((resource, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl hover:-translate-y-2 transition-all duration-300 cursor-pointer group",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "text-accent mb-4 group-hover:scale-110 transition-transform",
-                                                children: resource.icon
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1035,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "text-xl font-semibold mb-2 group-hover:text-accent transition-colors",
-                                                children: resource.title
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1036,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-foreground/70 mb-4",
-                                                children: resource.desc
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1037,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-sm text-accent font-semibold",
-                                                children: resource.items
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1038,
-                                                columnNumber: 17
-                                            }, this)
-                                        ]
-                                    }, i, true, {
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                        className: "text-4xl font-bold",
+                                        children: "🌱 Crop Suitability Engine (SmartCropAI)"
+                                    }, void 0, false, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 1034,
+                                        lineNumber: 892,
                                         columnNumber: 15
-                                    }, this))
-                            }, void 0, false, {
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        className: "text-xl text-foreground/70 max-w-3xl mx-auto",
+                                        children: "Calculates the final score for crop viability based on provided environmental and seasonal parameters"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 893,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 1007,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                        lineNumber: 1005,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                        className: "mb-20 space-y-8",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                className: "text-4xl font-bold",
-                                children: "Expert Support & Community"
-                            }, void 0, false, {
-                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 1046,
-                                columnNumber: 11
+                                lineNumber: 891,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "grid lg:grid-cols-3 gap-8",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl text-center space-y-4",
+                                        className: "glass dark:glass-dark p-8 rounded-2xl",
                                         children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$phone$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Phone$3e$__["Phone"], {
-                                                className: "w-12 h-12 text-green-400 mx-auto"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1049,
-                                                columnNumber: 15
-                                            }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "text-xl font-semibold",
-                                                children: "24/7 Expert Support"
+                                                className: "text-2xl font-semibold mb-6",
+                                                children: "Input Conditions"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1050,
+                                                lineNumber: 901,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "space-y-4",
+                                                children: [
+                                                    {
+                                                        label: 'Current Moisture',
+                                                        value: `${environmentalData.soil.moisture}%`,
+                                                        icon: __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__["Droplets"]
+                                                    },
+                                                    {
+                                                        label: 'Current Temperature',
+                                                        value: `${environmentalData.soil.temperature}°C`,
+                                                        icon: __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$thermometer$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Thermometer$3e$__["Thermometer"]
+                                                    },
+                                                    {
+                                                        label: 'Current Humidity',
+                                                        value: `${environmentalData.soil.humidity}%`,
+                                                        icon: __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$leaf$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Leaf$3e$__["Leaf"]
+                                                    },
+                                                    {
+                                                        label: 'Current Season',
+                                                        value: 'November/Rabi',
+                                                        icon: __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sprout$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Sprout$3e$__["Sprout"]
+                                                    }
+                                                ].map((item, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "flex items-center gap-4 p-3 bg-secondary/50 rounded-lg",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(item.icon, {
+                                                                className: "w-5 h-5 text-accent"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 910,
+                                                                columnNumber: 23
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "text-sm text-foreground/70",
+                                                                        children: item.label
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 912,
+                                                                        columnNumber: 25
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                        className: "font-semibold text-foreground",
+                                                                        children: item.value
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 913,
+                                                                        columnNumber: 25
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 911,
+                                                                columnNumber: 23
+                                                            }, this)
+                                                        ]
+                                                    }, index, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                        lineNumber: 909,
+                                                        columnNumber: 21
+                                                    }, this))
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 902,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 900,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "lg:col-span-2 glass dark:glass-dark p-8 rounded-2xl",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                className: "text-2xl font-semibold mb-6",
+                                                children: "Top Crop Recommendations"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 922,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "overflow-x-auto",
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("table", {
+                                                    className: "w-full",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("thead", {
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("tr", {
+                                                                className: "border-b border-border",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
+                                                                        className: "text-left py-4 px-4 text-foreground/60 font-semibold",
+                                                                        children: "Crop Name"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 927,
+                                                                        columnNumber: 25
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
+                                                                        className: "text-left py-4 px-4 text-foreground/60 font-semibold",
+                                                                        children: "Season Match"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 928,
+                                                                        columnNumber: 25
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
+                                                                        className: "text-left py-4 px-4 text-foreground/60 font-semibold",
+                                                                        children: "Environmental Score"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 929,
+                                                                        columnNumber: 25
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
+                                                                        className: "text-left py-4 px-4 text-foreground/60 font-semibold",
+                                                                        children: "Recommendation"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                        lineNumber: 930,
+                                                                        columnNumber: 25
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                lineNumber: 926,
+                                                                columnNumber: 23
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 925,
+                                                            columnNumber: 21
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("tbody", {
+                                                            children: cropRecommendations.map((crop, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("tr", {
+                                                                    className: "border-b border-border/50 hover:bg-secondary/30 transition-colors duration-300",
+                                                                    children: [
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
+                                                                            className: "py-4 px-4",
+                                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "flex items-center gap-3",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                        className: `w-10 h-10 rounded-lg bg-gradient-to-br ${crop.recommendation === 'Optimal' ? 'from-green-400 to-green-600' : crop.recommendation === 'Recommended' ? 'from-blue-400 to-blue-600' : 'from-yellow-400 to-yellow-600'} flex items-center justify-center text-white font-bold`,
+                                                                                        children: crop.name.charAt(0)
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 938,
+                                                                                        columnNumber: 31
+                                                                                    }, this),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                        className: "font-semibold text-foreground",
+                                                                                        children: crop.name
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 945,
+                                                                                        columnNumber: 31
+                                                                                    }, this)
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 937,
+                                                                                columnNumber: 29
+                                                                            }, this)
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                            lineNumber: 936,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
+                                                                            className: "py-4 px-4",
+                                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                className: "text-foreground/70",
+                                                                                children: crop.seasonMatch
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 949,
+                                                                                columnNumber: 29
+                                                                            }, this)
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                            lineNumber: 948,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
+                                                                            className: "py-4 px-4",
+                                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                className: "flex items-center gap-2",
+                                                                                children: [
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                        className: "w-20 bg-secondary rounded-full h-2",
+                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                            className: "h-2 rounded-full bg-gradient-to-r from-green-400 to-green-600",
+                                                                                            style: {
+                                                                                                width: `${crop.envScore}%`
+                                                                                            }
+                                                                                        }, void 0, false, {
+                                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                            lineNumber: 954,
+                                                                                            columnNumber: 33
+                                                                                        }, this)
+                                                                                    }, void 0, false, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 953,
+                                                                                        columnNumber: 31
+                                                                                    }, this),
+                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                        className: "font-semibold text-foreground",
+                                                                                        children: [
+                                                                                            crop.envScore,
+                                                                                            "/100"
+                                                                                        ]
+                                                                                    }, void 0, true, {
+                                                                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                        lineNumber: 959,
+                                                                                        columnNumber: 31
+                                                                                    }, this)
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 952,
+                                                                                columnNumber: 29
+                                                                            }, this)
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                            lineNumber: 951,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
+                                                                            className: "py-4 px-4",
+                                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                className: `px-3 py-1 rounded-full text-xs font-semibold ${crop.recommendation === 'Optimal' ? 'bg-green-100 text-green-800 dark:bg-green-900/50 dark:text-green-300' : crop.recommendation === 'Recommended' ? 'bg-blue-100 text-blue-800 dark:bg-blue-900/50 dark:text-blue-300' : 'bg-yellow-100 text-yellow-800 dark:bg-yellow-900/50 dark:text-yellow-300'}`,
+                                                                                children: crop.recommendation
+                                                                            }, void 0, false, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                                lineNumber: 963,
+                                                                                columnNumber: 29
+                                                                            }, this)
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                            lineNumber: 962,
+                                                                            columnNumber: 27
+                                                                        }, this)
+                                                                    ]
+                                                                }, index, true, {
+                                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                                    lineNumber: 935,
+                                                                    columnNumber: 25
+                                                                }, this))
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 933,
+                                                            columnNumber: 21
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 924,
+                                                    columnNumber: 19
+                                                }, this)
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 923,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 921,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                lineNumber: 898,
+                                columnNumber: 13
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                        lineNumber: 890,
+                        columnNumber: 11
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
+                        className: "mt-20 glass dark:glass-dark p-8 rounded-2xl",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                className: "text-2xl font-semibold mb-6",
+                                children: "System Architecture"
+                            }, void 0, false, {
+                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                lineNumber: 983,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "grid md:grid-cols-4 gap-6 text-center",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "p-4 bg-secondary/50 rounded-lg",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$database$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Database$3e$__["Database"], {
+                                                className: "w-8 h-8 text-blue-400 mx-auto mb-2"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 986,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-foreground/70",
-                                                children: "Get immediate help from agricultural experts"
+                                                className: "font-semibold",
+                                                children: "Node.js Gateway"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1051,
+                                                lineNumber: 987,
                                                 columnNumber: 15
                                             }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                className: "w-full bg-green-500 hover:bg-green-600 text-white py-3 rounded-lg transition-colors",
-                                                children: "Contact Support"
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-sm text-foreground/70",
+                                                children: "API Orchestration"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1052,
+                                                lineNumber: 988,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 1048,
+                                        lineNumber: 985,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl text-center space-y-4",
+                                        className: "p-4 bg-secondary/50 rounded-lg",
                                         children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$users$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Users$3e$__["Users"], {
-                                                className: "w-12 h-12 text-blue-400 mx-auto"
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cpu$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Cpu$3e$__["Cpu"], {
+                                                className: "w-8 h-8 text-green-400 mx-auto mb-2"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1057,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "text-xl font-semibold",
-                                                children: "Farmer Community"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1058,
+                                                lineNumber: 991,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-foreground/70",
-                                                children: "Connect with 10,000+ farmers worldwide"
+                                                className: "font-semibold",
+                                                children: "YOLOv8 Microservice"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1059,
+                                                lineNumber: 992,
                                                 columnNumber: 15
                                             }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                className: "w-full border border-blue-500 text-blue-400 hover:bg-blue-500/10 py-3 rounded-lg transition-colors",
-                                                children: "Join Community"
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-sm text-foreground/70",
+                                                children: "Computer Vision"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1060,
+                                                lineNumber: 993,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 1056,
+                                        lineNumber: 990,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "glass dark:glass-dark p-8 rounded-2xl text-center space-y-4",
+                                        className: "p-4 bg-secondary/50 rounded-lg",
                                         children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$video$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Video$3e$__["Video"], {
-                                                className: "w-12 h-12 text-purple-400 mx-auto"
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$zap$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Zap$3e$__["Zap"], {
+                                                className: "w-8 h-8 text-yellow-400 mx-auto mb-2"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1065,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "text-xl font-semibold",
-                                                children: "Training Videos"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1066,
+                                                lineNumber: 996,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-foreground/70",
-                                                children: "Learn from 100+ expert video tutorials"
+                                                className: "font-semibold",
+                                                children: "ESP8266 IoT"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1067,
+                                                lineNumber: 997,
                                                 columnNumber: 15
                                             }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                className: "w-full border border-purple-500 text-purple-400 hover:bg-purple-500/10 py-3 rounded-lg transition-colors",
-                                                children: "Watch Tutorials"
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-sm text-foreground/70",
+                                                children: "Real-time Sensors"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                                lineNumber: 1068,
+                                                lineNumber: 998,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                        lineNumber: 1064,
+                                        lineNumber: 995,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "p-4 bg-secondary/50 rounded-lg",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$brain$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Brain$3e$__["Brain"], {
+                                                className: "w-8 h-8 text-purple-400 mx-auto mb-2"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 1001,
+                                                columnNumber: 15
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "font-semibold",
+                                                children: "RandomForest ML"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 1002,
+                                                columnNumber: 15
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-sm text-foreground/70",
+                                                children: "Predictive Analytics"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 1003,
+                                                columnNumber: 15
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                        lineNumber: 1000,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                                lineNumber: 1047,
+                                lineNumber: 984,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                        lineNumber: 1045,
+                        lineNumber: 982,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                lineNumber: 162,
+                lineNumber: 264,
                 columnNumber: 7
+            }, this),
+            showSolutionModal && selectedDisease && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "glass dark:glass-dark rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto",
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "p-6 border-b border-border",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "flex items-center justify-between",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                            className: "text-2xl font-bold text-foreground",
+                                            children: [
+                                                "Treatment for ",
+                                                selectedDisease.name
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                            lineNumber: 1015,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                            onClick: ()=>setShowSolutionModal(false),
+                                            className: "p-2 hover:bg-secondary rounded-lg transition-colors",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__["X"], {
+                                                className: "w-5 h-5"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                lineNumber: 1022,
+                                                columnNumber: 19
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                            lineNumber: 1018,
+                                            columnNumber: 17
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                    lineNumber: 1014,
+                                    columnNumber: 15
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "flex items-center gap-4 mt-2",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: "text-green-400 font-bold",
+                                            children: [
+                                                selectedDisease.confidence,
+                                                "% Confidence"
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                            lineNumber: 1026,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: `px-2 py-1 rounded-full text-xs ${selectedDisease.severity === 'High' ? 'bg-red-100 text-red-800' : selectedDisease.severity === 'Medium' ? 'bg-yellow-100 text-yellow-800' : 'bg-green-100 text-green-800'}`,
+                                            children: [
+                                                selectedDisease.severity,
+                                                " Severity"
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                            lineNumber: 1027,
+                                            columnNumber: 17
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                    lineNumber: 1025,
+                                    columnNumber: 15
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                            lineNumber: 1013,
+                            columnNumber: 13
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "p-6 space-y-6",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                            className: "text-lg font-semibold mb-3 flex items-center gap-2",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$triangle$2d$alert$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__AlertTriangle$3e$__["AlertTriangle"], {
+                                                    className: "w-5 h-5 text-red-400"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 1041,
+                                                    columnNumber: 19
+                                                }, this),
+                                                "Recommended Pesticides"
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                            lineNumber: 1040,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "space-y-2",
+                                            children: selectedDisease.solution.pesticides.map((pesticide, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex items-center gap-3 p-3 bg-red-500/10 rounded-lg",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "w-6 h-6 rounded-full bg-red-400 flex items-center justify-center text-white text-xs font-bold",
+                                                            children: index + 1
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 1047,
+                                                            columnNumber: 23
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-foreground/80",
+                                                            children: pesticide
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 1050,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    ]
+                                                }, index, true, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 1046,
+                                                    columnNumber: 21
+                                                }, this))
+                                        }, void 0, false, {
+                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                            lineNumber: 1044,
+                                            columnNumber: 17
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                    lineNumber: 1039,
+                                    columnNumber: 15
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                            className: "text-lg font-semibold mb-3 flex items-center gap-2",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$leaf$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Leaf$3e$__["Leaf"], {
+                                                    className: "w-5 h-5 text-green-400"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 1059,
+                                                    columnNumber: 19
+                                                }, this),
+                                                "Organic Alternatives"
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                            lineNumber: 1058,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "space-y-2",
+                                            children: selectedDisease.solution.organic.map((organic, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex items-center gap-3 p-3 bg-green-500/10 rounded-lg",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "w-6 h-6 rounded-full bg-green-400 flex items-center justify-center text-white text-xs font-bold",
+                                                            children: index + 1
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 1065,
+                                                            columnNumber: 23
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-foreground/80",
+                                                            children: organic
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 1068,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    ]
+                                                }, index, true, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 1064,
+                                                    columnNumber: 21
+                                                }, this))
+                                        }, void 0, false, {
+                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                            lineNumber: 1062,
+                                            columnNumber: 17
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                    lineNumber: 1057,
+                                    columnNumber: 15
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                            className: "text-lg font-semibold mb-3 flex items-center gap-2",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$shield$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Shield$3e$__["Shield"], {
+                                                    className: "w-5 h-5 text-blue-400"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 1077,
+                                                    columnNumber: 19
+                                                }, this),
+                                                "Prevention Measures"
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                            lineNumber: 1076,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "space-y-2",
+                                            children: selectedDisease.solution.prevention.map((prevention, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex items-center gap-3 p-3 bg-blue-500/10 rounded-lg",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "w-6 h-6 rounded-full bg-blue-400 flex items-center justify-center text-white text-xs font-bold",
+                                                            children: index + 1
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 1083,
+                                                            columnNumber: 23
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-foreground/80",
+                                                            children: prevention
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                            lineNumber: 1086,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    ]
+                                                }, index, true, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 1082,
+                                                    columnNumber: 21
+                                                }, this))
+                                        }, void 0, false, {
+                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                            lineNumber: 1080,
+                                            columnNumber: 17
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                    lineNumber: 1075,
+                                    columnNumber: 15
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "grid grid-cols-2 gap-4",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "p-4 bg-secondary/50 rounded-lg",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$clock$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Clock$3e$__["Clock"], {
+                                                    className: "w-5 h-5 text-purple-400 mb-2"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 1095,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                    className: "text-sm text-foreground/70",
+                                                    children: "Application Timing"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 1096,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                    className: "font-semibold",
+                                                    children: selectedDisease.solution.timing
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 1097,
+                                                    columnNumber: 19
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                            lineNumber: 1094,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "p-4 bg-secondary/50 rounded-lg",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$refresh$2d$cw$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__RefreshCw$3e$__["RefreshCw"], {
+                                                    className: "w-5 h-5 text-orange-400 mb-2"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 1100,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                    className: "text-sm text-foreground/70",
+                                                    children: "Frequency"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 1101,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                    className: "font-semibold",
+                                                    children: selectedDisease.solution.frequency
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                                    lineNumber: 1102,
+                                                    columnNumber: 19
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                            lineNumber: 1099,
+                                            columnNumber: 17
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                    lineNumber: 1093,
+                                    columnNumber: 15
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                            lineNumber: 1037,
+                            columnNumber: 13
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "p-6 border-t border-border",
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                onClick: ()=>setShowSolutionModal(false),
+                                className: "w-full bg-accent hover:bg-accent/90 text-white py-3 rounded-lg transition-colors font-semibold",
+                                children: "Close Treatment Guide"
+                            }, void 0, false, {
+                                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                                lineNumber: 1108,
+                                columnNumber: 15
+                            }, this)
+                        }, void 0, false, {
+                            fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                            lineNumber: 1107,
+                            columnNumber: 13
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                    lineNumber: 1012,
+                    columnNumber: 11
+                }, this)
+            }, void 0, false, {
+                fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
+                lineNumber: 1011,
+                columnNumber: 9
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$components$2f$footer$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Footer"], {}, void 0, false, {
                 fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-                lineNumber: 1076,
+                lineNumber: 1119,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/Downloads/Sakhi/app/ai-insights/page.tsx",
-        lineNumber: 157,
+        lineNumber: 260,
         columnNumber: 5
     }, this);
 }

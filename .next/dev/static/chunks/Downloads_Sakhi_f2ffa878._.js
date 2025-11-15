@@ -759,9 +759,9 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$compon
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$components$2f$footer$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/components/footer.tsx [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$book$2d$open$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__BookOpen$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/book-open.js [app-client] (ecmascript) <export default as BookOpen>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$play$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Play$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/play.js [app-client] (ecmascript) <export default as Play>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$award$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Award$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/award.js [app-client] (ecmascript) <export default as Award>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$users$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Users$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/users.js [app-client] (ecmascript) <export default as Users>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$message$2d$square$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__MessageSquare$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/message-square.js [app-client] (ecmascript) <export default as MessageSquare>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$star$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Star$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/star.js [app-client] (ecmascript) <export default as Star>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$download$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Download$3e$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/lucide-react/dist/esm/icons/download.js [app-client] (ecmascript) <export default as Download>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$chart$2f$LineChart$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/chart/LineChart.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$Line$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/cartesian/Line.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$XAxis$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Downloads/Sakhi/node_modules/recharts/es6/cartesian/XAxis.js [app-client] (ecmascript)");
@@ -846,130 +846,291 @@ function FarmersHub() {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "grid md:grid-cols-3 gap-8",
+                            className: "space-y-8",
                             children: [
-                                {
-                                    icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$book$2d$open$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__BookOpen$3e$__["BookOpen"], {
-                                        className: "w-8 h-8"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                        lineNumber: 36,
-                                        columnNumber: 23
-                                    }, this),
-                                    title: 'Learning Guides',
-                                    description: 'Comprehensive guides on soil health, crop rotation, and sustainable farming practices.',
-                                    items: [
-                                        'Soil Management',
-                                        'Crop Selection',
-                                        'Water Conservation',
-                                        'Pest Management'
-                                    ]
-                                },
-                                {
-                                    icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$play$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Play$3e$__["Play"], {
-                                        className: "w-8 h-8"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                        lineNumber: 42,
-                                        columnNumber: 23
-                                    }, this),
-                                    title: 'Video Tutorials',
-                                    description: 'Step-by-step video tutorials from expert farmers and agronomists.',
-                                    items: [
-                                        'Setting Up Sensors',
-                                        'Using Dashboard',
-                                        'Reading Analytics',
-                                        'Getting Loans'
-                                    ]
-                                },
-                                {
-                                    icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$award$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Award$3e$__["Award"], {
-                                        className: "w-8 h-8"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                        lineNumber: 48,
-                                        columnNumber: 23
-                                    }, this),
-                                    title: 'Certifications',
-                                    description: 'Earn recognized certificates to boost your credibility and market value.',
-                                    items: [
-                                        'Basic Farming',
-                                        'Advanced IoT',
-                                        'Business Skills',
-                                        'Sustainability'
-                                    ]
-                                }
-                            ].map((section, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "glass p-8 rounded-2xl space-y-4 hover:shadow-lg hover:shadow-accent/20 transition-all",
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                    className: "text-3xl font-bold",
+                                    children: "Learning Guides"
+                                }, void 0, false, {
+                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                    lineNumber: 34,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "grid md:grid-cols-2 lg:grid-cols-3 gap-6",
                                     children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "w-12 h-12 bg-gradient-to-br from-green-400 to-green-600 rounded-lg flex items-center justify-center text-white",
-                                            children: section.icon
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                            lineNumber: 55,
-                                            columnNumber: 17
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                            className: "text-lg font-semibold",
-                                            children: section.title
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                            lineNumber: 58,
-                                            columnNumber: 17
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "text-sm text-foreground/70",
-                                            children: section.description
-                                        }, void 0, false, {
-                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                            lineNumber: 59,
-                                            columnNumber: 17
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                            className: "space-y-2 pt-4 border-t border-border",
-                                            children: section.items.map((item, j)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                    className: "text-sm text-foreground/70 flex items-center gap-2",
+                                        {
+                                            title: 'Soil Management',
+                                            description: 'Complete guide to soil health and fertility management',
+                                            slides: 45,
+                                            format: 'PPT'
+                                        },
+                                        {
+                                            title: 'Crop Rotation',
+                                            description: 'Optimize your crop cycles for better yield',
+                                            slides: 32,
+                                            format: 'PPT'
+                                        },
+                                        {
+                                            title: 'Water Conservation',
+                                            description: 'Efficient water management techniques',
+                                            slides: 28,
+                                            format: 'PPT'
+                                        },
+                                        {
+                                            title: 'Pest Management',
+                                            description: 'Natural and chemical pest control methods',
+                                            slides: 38,
+                                            format: 'PPT'
+                                        },
+                                        {
+                                            title: 'Organic Farming',
+                                            description: 'Transition to organic farming practices',
+                                            slides: 52,
+                                            format: 'PPT'
+                                        },
+                                        {
+                                            title: 'Market Access',
+                                            description: 'Connecting your produce to better markets',
+                                            slides: 35,
+                                            format: 'PPT'
+                                        }
+                                    ].map((guide, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "glass p-6 rounded-2xl space-y-4 hover:shadow-lg transition-all",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "w-12 h-12 bg-gradient-to-br from-green-400 to-green-600 rounded-lg flex items-center justify-center text-white",
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$book$2d$open$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__BookOpen$3e$__["BookOpen"], {
+                                                        className: "w-6 h-6"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                        lineNumber: 76,
+                                                        columnNumber: 21
+                                                    }, this)
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                    lineNumber: 75,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                    className: "text-lg font-semibold",
+                                                    children: guide.title
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                    lineNumber: 78,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                    className: "text-sm text-foreground/70",
+                                                    children: guide.description
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                    lineNumber: 79,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex justify-between items-center pt-4 border-t border-border",
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                            className: "w-1.5 h-1.5 bg-accent rounded-full"
-                                                        }, void 0, false, {
+                                                            className: "text-sm text-foreground/60",
+                                                            children: [
+                                                                guide.slides,
+                                                                " slides • ",
+                                                                guide.format
+                                                            ]
+                                                        }, void 0, true, {
                                                             fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                            lineNumber: 63,
-                                                            columnNumber: 23
+                                                            lineNumber: 81,
+                                                            columnNumber: 21
                                                         }, this),
-                                                        item
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                            className: "flex items-center gap-2 px-4 py-2 bg-green-500 text-white rounded-full text-sm font-semibold hover:bg-green-600 transition-colors",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$download$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Download$3e$__["Download"], {
+                                                                    size: 16
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                                    lineNumber: 83,
+                                                                    columnNumber: 23
+                                                                }, this),
+                                                                "Download"
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                            lineNumber: 82,
+                                                            columnNumber: 21
+                                                        }, this)
                                                     ]
-                                                }, j, true, {
+                                                }, void 0, true, {
                                                     fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                    lineNumber: 62,
-                                                    columnNumber: 21
-                                                }, this))
-                                        }, void 0, false, {
+                                                    lineNumber: 80,
+                                                    columnNumber: 19
+                                                }, this)
+                                            ]
+                                        }, i, true, {
                                             fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                            lineNumber: 60,
+                                            lineNumber: 74,
                                             columnNumber: 17
-                                        }, this)
-                                    ]
-                                }, i, true, {
+                                        }, this))
+                                }, void 0, false, {
                                     fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                    lineNumber: 54,
-                                    columnNumber: 15
-                                }, this))
-                        }, void 0, false, {
+                                    lineNumber: 35,
+                                    columnNumber: 13
+                                }, this)
+                            ]
+                        }, void 0, true, {
                             fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
                             lineNumber: 33,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "space-y-8 pt-8",
+                            className: "space-y-8",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                     className: "text-3xl font-bold",
-                                    children: "Community Growth & Engagement"
+                                    children: "Video Tutorials"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                    lineNumber: 74,
+                                    lineNumber: 94,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "grid md:grid-cols-2 lg:grid-cols-3 gap-6",
+                                    children: [
+                                        {
+                                            title: 'Soil Testing Basics',
+                                            duration: '15:30',
+                                            instructor: 'Dr. Rajesh Patel',
+                                            level: 'Beginner'
+                                        },
+                                        {
+                                            title: 'Smart Irrigation Setup',
+                                            duration: '22:15',
+                                            instructor: 'Deepa Verma',
+                                            level: 'Intermediate'
+                                        },
+                                        {
+                                            title: 'Organic Pest Control',
+                                            duration: '18:45',
+                                            instructor: 'Ramaben Singh',
+                                            level: 'Beginner'
+                                        },
+                                        {
+                                            title: 'Crop Monitoring',
+                                            duration: '25:20',
+                                            instructor: 'Deepa Verma',
+                                            level: 'Advanced'
+                                        },
+                                        {
+                                            title: 'Market Preparation',
+                                            duration: '20:10',
+                                            instructor: 'Dr. Rajesh Patel',
+                                            level: 'Intermediate'
+                                        },
+                                        {
+                                            title: 'Sustainable Practices',
+                                            duration: '28:35',
+                                            instructor: 'Ramaben Singh',
+                                            level: 'Intermediate'
+                                        }
+                                    ].map((video, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "glass p-6 rounded-2xl space-y-4 hover:shadow-lg transition-all",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "w-12 h-12 bg-gradient-to-br from-blue-400 to-blue-600 rounded-lg flex items-center justify-center text-white",
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$play$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Play$3e$__["Play"], {
+                                                        className: "w-6 h-6"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                        lineNumber: 136,
+                                                        columnNumber: 21
+                                                    }, this)
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                    lineNumber: 135,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                    className: "text-lg font-semibold",
+                                                    children: video.title
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                    lineNumber: 138,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "space-y-2 text-sm text-foreground/70",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                            children: [
+                                                                "Instructor: ",
+                                                                video.instructor
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                            lineNumber: 140,
+                                                            columnNumber: 21
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                            children: [
+                                                                "Duration: ",
+                                                                video.duration
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                            lineNumber: 141,
+                                                            columnNumber: 21
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                            children: [
+                                                                "Level: ",
+                                                                video.level
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                            lineNumber: 142,
+                                                            columnNumber: 21
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                    lineNumber: 139,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                    className: "w-full px-4 py-2 bg-blue-500 text-white rounded-full font-semibold hover:bg-blue-600 transition-colors",
+                                                    children: "Watch Video"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                    lineNumber: 144,
+                                                    columnNumber: 19
+                                                }, this)
+                                            ]
+                                        }, i, true, {
+                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                            lineNumber: 134,
+                                            columnNumber: 17
+                                        }, this))
+                                }, void 0, false, {
+                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                    lineNumber: 95,
+                                    columnNumber: 13
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                            lineNumber: 93,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "space-y-8",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                    className: "text-3xl font-bold",
+                                    children: "Community Growth"
+                                }, void 0, false, {
+                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                    lineNumber: 154,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -985,7 +1146,7 @@ function FarmersHub() {
                                                     stroke: "rgba(16, 185, 129, 0.1)"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                    lineNumber: 78,
+                                                    lineNumber: 158,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$XAxis$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["XAxis"], {
@@ -993,14 +1154,14 @@ function FarmersHub() {
                                                     stroke: "currentColor"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                    lineNumber: 79,
+                                                    lineNumber: 159,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$YAxis$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["YAxis"], {
                                                     stroke: "currentColor"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                    lineNumber: 80,
+                                                    lineNumber: 160,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$component$2f$Tooltip$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Tooltip"], {
@@ -1011,7 +1172,7 @@ function FarmersHub() {
                                                     }
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                    lineNumber: 81,
+                                                    lineNumber: 161,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$Line$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Line"], {
@@ -1024,7 +1185,7 @@ function FarmersHub() {
                                                     }
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                    lineNumber: 82,
+                                                    lineNumber: 162,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$recharts$2f$es6$2f$cartesian$2f$Line$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Line"], {
@@ -1035,278 +1196,29 @@ function FarmersHub() {
                                                     strokeDasharray: "5 5"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                    lineNumber: 83,
+                                                    lineNumber: 163,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                            lineNumber: 77,
+                                            lineNumber: 157,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                        lineNumber: 76,
+                                        lineNumber: 156,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                    lineNumber: 75,
+                                    lineNumber: 155,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                            lineNumber: 73,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "space-y-8",
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                    className: "text-3xl font-bold",
-                                    children: "Meet Our Expert Trainers"
-                                }, void 0, false, {
-                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                    lineNumber: 91,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "grid md:grid-cols-3 gap-8",
-                                    children: [
-                                        {
-                                            name: 'Dr. Rajesh Patel',
-                                            expertise: 'Soil Science & Nutrition',
-                                            experience: '15+ years',
-                                            rating: 4.9
-                                        },
-                                        {
-                                            name: 'Ramaben Singh',
-                                            expertise: 'Organic Farming Methods',
-                                            experience: '20+ years',
-                                            rating: 4.8
-                                        },
-                                        {
-                                            name: 'Deepa Verma',
-                                            expertise: 'IoT & Smart Farming',
-                                            experience: '12+ years',
-                                            rating: 4.95
-                                        }
-                                    ].map((trainer, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "glass p-8 rounded-2xl space-y-4 hover:-translate-y-2 transition-all",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "w-16 h-16 rounded-full bg-gradient-to-br from-green-400 to-green-600 flex items-center justify-center text-white text-2xl font-bold",
-                                                    children: trainer.name[0]
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                    lineNumber: 99,
-                                                    columnNumber: 19
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                            className: "text-lg font-semibold",
-                                                            children: trainer.name
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                            lineNumber: 103,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "text-sm text-accent font-semibold",
-                                                            children: trainer.expertise
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                            lineNumber: 104,
-                                                            columnNumber: 21
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                    lineNumber: 102,
-                                                    columnNumber: 19
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-sm text-foreground/70",
-                                                    children: trainer.experience
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                    lineNumber: 106,
-                                                    columnNumber: 19
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "flex items-center gap-1 pt-2",
-                                                    children: [
-                                                        [
-                                                            ...Array(5)
-                                                        ].map((_, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$star$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Star$3e$__["Star"], {
-                                                                size: 16,
-                                                                className: "fill-yellow-400 text-yellow-400"
-                                                            }, i, false, {
-                                                                fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                                lineNumber: 109,
-                                                                columnNumber: 23
-                                                            }, this)),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                            className: "text-sm font-semibold ml-2",
-                                                            children: trainer.rating
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                            lineNumber: 111,
-                                                            columnNumber: 21
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                    lineNumber: 107,
-                                                    columnNumber: 19
-                                                }, this)
-                                            ]
-                                        }, i, true, {
-                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                            lineNumber: 98,
-                                            columnNumber: 17
-                                        }, this))
-                                }, void 0, false, {
-                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                    lineNumber: 92,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                            lineNumber: 90,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "space-y-8",
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                    className: "text-3xl font-bold",
-                                    children: "Upcoming Workshops & Events"
-                                }, void 0, false, {
-                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                    lineNumber: 120,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "space-y-4",
-                                    children: [
-                                        {
-                                            title: 'Advanced Soil Testing & Analysis',
-                                            date: 'Next Week',
-                                            location: 'Online',
-                                            seats: '45 available',
-                                            instructor: 'Dr. Rajesh Patel'
-                                        },
-                                        {
-                                            title: 'IoT Sensors: Setup & Maintenance',
-                                            date: 'In 2 weeks',
-                                            location: 'Mumbai Region',
-                                            seats: '30 available',
-                                            instructor: 'Deepa Verma'
-                                        },
-                                        {
-                                            title: 'Organic Pest Management',
-                                            date: 'In 3 weeks',
-                                            location: 'Online',
-                                            seats: '60 available',
-                                            instructor: 'Ramaben Singh'
-                                        }
-                                    ].map((workshop, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "glass p-6 rounded-2xl flex flex-col md:flex-row md:items-center md:justify-between gap-4 hover:shadow-lg transition-all",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "space-y-2",
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                            className: "text-lg font-semibold",
-                                                            children: workshop.title
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                            lineNumber: 129,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "text-sm text-foreground/70",
-                                                            children: [
-                                                                "by ",
-                                                                workshop.instructor
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                            lineNumber: 130,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                            className: "flex gap-4 text-sm text-foreground/60",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: [
-                                                                        "📅 ",
-                                                                        workshop.date
-                                                                    ]
-                                                                }, void 0, true, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                                    lineNumber: 132,
-                                                                    columnNumber: 23
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: [
-                                                                        "📍 ",
-                                                                        workshop.location
-                                                                    ]
-                                                                }, void 0, true, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                                    lineNumber: 133,
-                                                                    columnNumber: 23
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: [
-                                                                        "👥 ",
-                                                                        workshop.seats
-                                                                    ]
-                                                                }, void 0, true, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                                    lineNumber: 134,
-                                                                    columnNumber: 23
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                            lineNumber: 131,
-                                                            columnNumber: 21
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                    lineNumber: 128,
-                                                    columnNumber: 19
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                    className: "px-6 py-2 bg-gradient-to-r from-green-500 to-green-600 text-white rounded-full font-semibold hover:shadow-lg transition-all",
-                                                    children: "Register"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                    lineNumber: 137,
-                                                    columnNumber: 19
-                                                }, this)
-                                            ]
-                                        }, i, true, {
-                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                            lineNumber: 127,
-                                            columnNumber: 17
-                                        }, this))
-                                }, void 0, false, {
-                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                    lineNumber: 121,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                            lineNumber: 119,
+                            lineNumber: 153,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1317,162 +1229,219 @@ function FarmersHub() {
                                     children: "Community Discussion"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                    lineNumber: 147,
+                                    lineNumber: 171,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "glass p-8 rounded-2xl",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "space-y-4",
-                                        children: [
-                                            {
-                                                topic: 'Best practices for monsoon farming',
-                                                replies: 45,
-                                                views: 1200,
-                                                helpful: 89
-                                            },
-                                            {
-                                                topic: 'Managing pest attacks naturally',
-                                                replies: 38,
-                                                views: 980,
-                                                helpful: 76
-                                            },
-                                            {
-                                                topic: 'Maximizing yield with limited water',
-                                                replies: 52,
-                                                views: 1450,
-                                                helpful: 94
-                                            }
-                                        ].map((thread, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "p-4 border border-border rounded-lg hover:bg-secondary/30 transition-all cursor-pointer",
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "flex items-start justify-between",
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                            className: "flex-1",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                                    className: "font-semibold text-foreground hover:text-accent transition-colors",
-                                                                    children: thread.topic
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                                    lineNumber: 158,
-                                                                    columnNumber: 25
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                    className: "flex gap-4 text-sm text-foreground/60 mt-2",
-                                                                    children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            children: [
-                                                                                "💬 ",
-                                                                                thread.replies,
-                                                                                " replies"
-                                                                            ]
-                                                                        }, void 0, true, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                                            lineNumber: 160,
-                                                                            columnNumber: 27
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            children: [
-                                                                                "👁️ ",
-                                                                                thread.views,
-                                                                                " views"
-                                                                            ]
-                                                                        }, void 0, true, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                                            lineNumber: 161,
-                                                                            columnNumber: 27
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            children: [
-                                                                                "👍 ",
-                                                                                thread.helpful,
-                                                                                "% helpful"
-                                                                            ]
-                                                                        }, void 0, true, {
-                                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                                            lineNumber: 162,
-                                                                            columnNumber: 27
-                                                                        }, this)
-                                                                    ]
-                                                                }, void 0, true, {
-                                                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                                    lineNumber: 159,
-                                                                    columnNumber: 25
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                            lineNumber: 157,
-                                                            columnNumber: 23
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$message$2d$square$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__MessageSquare$3e$__["MessageSquare"], {
-                                                            className: "w-5 h-5 text-accent flex-shrink-0"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                            lineNumber: 165,
-                                                            columnNumber: 23
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "space-y-4",
+                                            children: [
+                                                {
+                                                    topic: 'Best practices for monsoon farming',
+                                                    replies: 45,
+                                                    views: 1200,
+                                                    helpful: 89,
+                                                    lastActive: '2 hours ago'
+                                                },
+                                                {
+                                                    topic: 'Managing pest attacks naturally',
+                                                    replies: 38,
+                                                    views: 980,
+                                                    helpful: 76,
+                                                    lastActive: '5 hours ago'
+                                                },
+                                                {
+                                                    topic: 'Maximizing yield with limited water',
+                                                    replies: 52,
+                                                    views: 1450,
+                                                    helpful: 94,
+                                                    lastActive: '1 day ago'
+                                                },
+                                                {
+                                                    topic: 'Soil nutrition for vegetable crops',
+                                                    replies: 29,
+                                                    views: 760,
+                                                    helpful: 82,
+                                                    lastActive: '2 days ago'
+                                                },
+                                                {
+                                                    topic: 'Organic certification process',
+                                                    replies: 41,
+                                                    views: 1100,
+                                                    helpful: 88,
+                                                    lastActive: '3 days ago'
+                                                }
+                                            ].map((thread, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "p-4 border border-border rounded-lg hover:bg-secondary/30 transition-all cursor-pointer",
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "flex items-start justify-between",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "flex-1",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                        className: "font-semibold text-foreground hover:text-green-600 transition-colors",
+                                                                        children: thread.topic
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                                        lineNumber: 214,
+                                                                        columnNumber: 25
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                        className: "flex gap-4 text-sm text-foreground/60 mt-2",
+                                                                        children: [
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                children: [
+                                                                                    "💬 ",
+                                                                                    thread.replies,
+                                                                                    " replies"
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                                                lineNumber: 216,
+                                                                                columnNumber: 27
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                children: [
+                                                                                    "👁️ ",
+                                                                                    thread.views,
+                                                                                    " views"
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                                                lineNumber: 217,
+                                                                                columnNumber: 27
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                children: [
+                                                                                    "👍 ",
+                                                                                    thread.helpful,
+                                                                                    "% helpful"
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                                                lineNumber: 218,
+                                                                                columnNumber: 27
+                                                                            }, this),
+                                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                children: [
+                                                                                    "🕒 ",
+                                                                                    thread.lastActive
+                                                                                ]
+                                                                            }, void 0, true, {
+                                                                                fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                                                lineNumber: 219,
+                                                                                columnNumber: 27
+                                                                            }, this)
+                                                                        ]
+                                                                    }, void 0, true, {
+                                                                        fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                                        lineNumber: 215,
+                                                                        columnNumber: 25
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                                lineNumber: 213,
+                                                                columnNumber: 23
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$message$2d$square$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__MessageSquare$3e$__["MessageSquare"], {
+                                                                className: "w-5 h-5 text-green-600 flex-shrink-0"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                                lineNumber: 222,
+                                                                columnNumber: 23
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                                        lineNumber: 212,
+                                                        columnNumber: 21
+                                                    }, this)
+                                                }, i, false, {
                                                     fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                    lineNumber: 156,
-                                                    columnNumber: 21
-                                                }, this)
-                                            }, i, false, {
+                                                    lineNumber: 211,
+                                                    columnNumber: 19
+                                                }, this))
+                                        }, void 0, false, {
+                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                            lineNumber: 173,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "mt-6 pt-6 border-t border-border",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                className: "w-full px-6 py-3 border-2 border-green-500 text-green-600 rounded-full font-semibold hover:bg-green-50 transition-colors",
+                                                children: "View All Discussions"
+                                            }, void 0, false, {
                                                 fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                                lineNumber: 155,
-                                                columnNumber: 19
-                                            }, this))
-                                    }, void 0, false, {
-                                        fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                        lineNumber: 149,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
+                                                lineNumber: 228,
+                                                columnNumber: 17
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                            lineNumber: 227,
+                                            columnNumber: 15
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
                                     fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                    lineNumber: 148,
+                                    lineNumber: 172,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                            lineNumber: 146,
+                            lineNumber: 170,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "grid md:grid-cols-4 gap-6 pt-8",
+                            className: "grid md:grid-cols-3 gap-6 pt-8",
                             children: [
                                 {
-                                    label: 'Active Members',
+                                    label: 'Active Community Members',
                                     value: '3,100+',
-                                    icon: '👩‍🌾'
+                                    icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$users$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Users$3e$__["Users"], {
+                                        className: "w-8 h-8"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                        lineNumber: 238,
+                                        columnNumber: 75
+                                    }, this)
                                 },
                                 {
-                                    label: 'Courses Completed',
-                                    value: '8,500+',
-                                    icon: '📚'
+                                    label: 'Learning Guides',
+                                    value: '50+',
+                                    icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$book$2d$open$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__BookOpen$3e$__["BookOpen"], {
+                                        className: "w-8 h-8"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                        lineNumber: 239,
+                                        columnNumber: 63
+                                    }, this)
                                 },
                                 {
-                                    label: 'Avg Rating',
-                                    value: '4.8/5',
-                                    icon: '⭐'
-                                },
-                                {
-                                    label: 'Jobs Placed',
-                                    value: '1,200+',
-                                    icon: '💼'
+                                    label: 'Video Tutorials',
+                                    value: '35+',
+                                    icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$play$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Play$3e$__["Play"], {
+                                        className: "w-8 h-8"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
+                                        lineNumber: 240,
+                                        columnNumber: 63
+                                    }, this)
                                 }
                             ].map((stat, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "glass p-6 rounded-2xl text-center space-y-3",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "text-3xl",
+                                            className: "w-12 h-12 bg-gradient-to-br from-green-400 to-green-600 rounded-lg flex items-center justify-center text-white mx-auto",
                                             children: stat.icon
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                            lineNumber: 182,
+                                            lineNumber: 243,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1480,59 +1449,26 @@ function FarmersHub() {
                                             children: stat.label
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                            lineNumber: 183,
+                                            lineNumber: 246,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "text-2xl font-bold text-accent",
+                                            className: "text-2xl font-bold text-green-600",
                                             children: stat.value
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                            lineNumber: 184,
+                                            lineNumber: 247,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, i, true, {
                                     fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                    lineNumber: 181,
+                                    lineNumber: 242,
                                     columnNumber: 15
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                            lineNumber: 174,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "glass p-12 rounded-2xl text-center space-y-6 mt-12",
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                    className: "text-3xl font-bold",
-                                    children: "Join Our Growing Community Today"
-                                }, void 0, false, {
-                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                    lineNumber: 191,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "text-lg text-foreground/70",
-                                    children: "Get access to expert training, connect with thousands of farmers, and grow your skills and income."
-                                }, void 0, false, {
-                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                    lineNumber: 192,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                    className: "px-8 py-3 bg-gradient-to-r from-green-500 to-green-600 text-white rounded-full font-semibold hover:shadow-lg hover:shadow-green-500/40 transition-all",
-                                    children: "Become a Member"
-                                }, void 0, false, {
-                                    fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                                    lineNumber: 193,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                            lineNumber: 190,
+                            lineNumber: 236,
                             columnNumber: 11
                         }, this)
                     ]
@@ -1548,7 +1484,7 @@ function FarmersHub() {
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$Sakhi$2f$components$2f$footer$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Footer"], {}, void 0, false, {
                 fileName: "[project]/Downloads/Sakhi/app/farmers-hub/page.tsx",
-                lineNumber: 200,
+                lineNumber: 254,
                 columnNumber: 7
             }, this)
         ]

@@ -3,80 +3,179 @@
 import { Navbar } from '@/components/navbar';
 import { AIInsightsAnimatedObjects } from '@/components/ai-insights-animated-objects';
 import { Footer } from '@/components/footer';
-import { useState, useRef } from 'react';
-import { Camera, Upload, X, Loader2, Leaf, AlertTriangle, TrendingUp, Brain, Zap, Target, BarChart3, Shield, Clock, Users, Database, Cpu, Satellite, Cloud, Sun, Droplets, Thermometer, Wind, Sprout, Trees, Flower2, Recycle, CheckCircle, XCircle, Play, Pause, StopCircle, Download, Share2, BookOpen, Video, MessageCircle, Phone, Mail, MapPin, Calendar, Eye, Settings, Filter, Search, Plus, Minus, ArrowRight, ArrowLeft, Star, Heart, ThumbsUp, ThumbsDown, Award, Trophy, Crown, Gem, Sparkles, Rocket, Activity, RefreshCw } from 'lucide-react';
-import { BarChart, Bar, LineChart, Line, AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, PieChart, Pie, Cell, RadarChart, Radar, PolarGrid, PolarAngleAxis, PolarRadiusAxis, ComposedChart, ScatterChart, Scatter, Legend } from 'recharts';
+import { useState, useRef, useEffect } from 'react';
+import { Camera, Upload, X, Loader2, AlertTriangle, TrendingUp, Brain, Zap, Target, BarChart3, Shield, Clock, Users, Database, Cpu, Thermometer, Droplets, Leaf, Sprout, CheckCircle, ArrowRight, Cloud, Sun, CloudRain, CloudSnow, Wind, Eye, Calendar, MapPin, Search, ExternalLink, Calculator, ChevronDown, ChevronUp, RefreshCw } from 'lucide-react';
+import { BarChart, Bar, LineChart, Line, AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, PieChart, Pie, Cell, ComposedChart } from 'recharts';
 
-// Extensive data sets
-const predictionData = [
-  { week: 'Week 1', predicted: 85, actual: 82, optimal: 90 },
-  { week: 'Week 2', predicted: 87, actual: 88, optimal: 90 },
-  { week: 'Week 3', predicted: 89, actual: 87, optimal: 90 },
-  { week: 'Week 4', predicted: 91, actual: 92, optimal: 90 },
-  { week: 'Week 5', predicted: 93, actual: 95, optimal: 90 },
-  { week: 'Week 6', predicted: 94, actual: 93, optimal: 90 },
-  { week: 'Week 7', predicted: 96, actual: 94, optimal: 90 },
-  { week: 'Week 8', predicted: 97, actual: 96, optimal: 90 },
+// Mock data simulating API responses
+const mockDiagnosticData = {
+  pests: [
+    { 
+      name: 'Early Blight', 
+      confidence: 94.5, 
+      severity: 'Medium', 
+      spread: 'Localized',
+      solution: {
+        pesticides: ['Copper-based fungicide', 'Chlorothalonil', 'Mancozeb'],
+        organic: ['Neem oil spray', 'Baking soda solution', 'Garlic extract'],
+        prevention: ['Crop rotation', 'Proper spacing', 'Remove infected leaves'],
+        timing: 'Apply within 48 hours',
+        frequency: 'Every 7-10 days'
+      }
+    },
+    { 
+      name: 'Powdery Mildew', 
+      confidence: 87.2, 
+      severity: 'Low', 
+      spread: 'Isolated',
+      solution: {
+        pesticides: ['Sulfur dust', 'Myclobutanil', 'Propiconazole'],
+        organic: ['Milk spray', 'Baking soda solution', 'Apple cider vinegar'],
+        prevention: ['Reduce humidity', 'Improve air circulation', 'Morning watering'],
+        timing: 'Apply immediately',
+        frequency: 'Weekly until controlled'
+      }
+    },
+    { 
+      name: 'Root Rot', 
+      confidence: 76.8, 
+      severity: 'High', 
+      spread: 'Spreading',
+      solution: {
+        pesticides: ['Mefenoxam', 'Fosetyl-Al', 'Azoxystrobin'],
+        organic: ['Trichoderma harzianum', 'Cinnamon powder', 'Hydrogen peroxide'],
+        prevention: ['Improve drainage', 'Avoid overwatering', 'Sterilize soil'],
+        timing: 'Apply as soon as detected',
+        frequency: 'Every 5-7 days'
+      }
+    }
+  ],
+  recommendations: [
+    'Apply fungicide within 48 hours',
+    'Reduce irrigation frequency',
+    'Improve air circulation',
+    'Remove infected leaves immediately'
+  ]
+};
+
+const mockEnvironmentalData = {
+  soil: {
+    moisture: 65,
+    temperature: 25,
+    humidity: 68,
+    npk: { nitrogen: 75, phosphorus: 45, potassium: 82 },
+    healthScore: 88
+  },
+  yield: {
+    predicted: 3150,
+    actual: 2920,
+    risk: 'Low'
+  },
+  weather: {
+    temperature: 28,
+    rainfall: 45,
+    humidity: 65,
+    trend: 'stable'
+  }
+};
+
+const mockCropRecommendations = [
+  { name: 'Tomatoes', seasonMatch: 'Rabi', envScore: 91, recommendation: 'Optimal' },
+  { name: 'Corn', seasonMatch: 'Rabi', envScore: 86, recommendation: 'Recommended' },
+  { name: 'Wheat', seasonMatch: 'Rabi', envScore: 78, recommendation: 'Good Fit' },
+  { name: 'Soybeans', seasonMatch: 'Rabi', envScore: 87, recommendation: 'Recommended' },
+  { name: 'Potatoes', seasonMatch: 'Rabi', envScore: 68, recommendation: 'Moderate' }
 ];
 
-const soilData = [
-  { day: 'Mon', moisture: 65, ph: 6.8, nitrogen: 75, phosphorus: 45, potassium: 82 },
-  { day: 'Tue', moisture: 68, ph: 6.9, nitrogen: 72, phosphorus: 48, potassium: 85 },
-  { day: 'Wed', moisture: 72, ph: 7.0, nitrogen: 78, phosphorus: 52, potassium: 88 },
-  { day: 'Thu', moisture: 70, ph: 6.9, nitrogen: 75, phosphorus: 50, potassium: 86 },
-  { day: 'Fri', moisture: 75, ph: 7.1, nitrogen: 80, phosphorus: 55, potassium: 90 },
-  { day: 'Sat', moisture: 78, ph: 7.0, nitrogen: 82, phosphorus: 58, potassium: 92 },
-  { day: 'Sun', moisture: 80, ph: 6.95, nitrogen: 85, phosphorus: 60, potassium: 94 },
-];
+// New Weather Forecasting Data
+const mockWeatherData = {
+  current: {
+    temperature: 28,
+    feelsLike: 30,
+    humidity: 65,
+    windSpeed: 12,
+    pressure: 1013,
+    uvIndex: 6,
+    condition: 'Partly Cloudy',
+    icon: 'partly-cloudy',
+    precipitation: 10,
+    visibility: 16
+  },
+  hourly: [
+    { time: 'Now', temp: 28, condition: 'partly-cloudy', precipitation: 10 },
+    { time: '13:00', temp: 29, condition: 'sunny', precipitation: 5 },
+    { time: '14:00', temp: 30, condition: 'sunny', precipitation: 5 },
+    { time: '15:00', temp: 31, condition: 'sunny', precipitation: 0 },
+    { time: '16:00', temp: 30, condition: 'partly-cloudy', precipitation: 0 },
+    { time: '17:00', temp: 29, condition: 'partly-cloudy', precipitation: 0 },
+    { time: '18:00', temp: 27, condition: 'cloudy', precipitation: 20 },
+    { time: '19:00', temp: 26, condition: 'rain', precipitation: 60 }
+  ],
+  daily: [
+    { day: 'Today', high: 31, low: 24, condition: 'partly-cloudy', precipitation: 20, humidity: 65 },
+    { day: 'Wed', high: 29, low: 23, condition: 'rain', precipitation: 80, humidity: 85 },
+    { day: 'Thu', high: 27, low: 22, condition: 'rain', precipitation: 70, humidity: 80 },
+    { day: 'Fri', high: 28, low: 23, condition: 'cloudy', precipitation: 30, humidity: 70 },
+    { day: 'Sat', high: 30, low: 24, condition: 'partly-cloudy', precipitation: 10, humidity: 60 },
+    { day: 'Sun', high: 31, low: 25, condition: 'sunny', precipitation: 0, humidity: 55 },
+    { day: 'Mon', high: 32, low: 25, condition: 'sunny', precipitation: 0, humidity: 50 }
+  ],
+  alerts: [
+    { type: 'rain', severity: 'moderate', message: 'Heavy rainfall expected Wednesday-Thursday', impact: 'Potential irrigation savings' },
+    { type: 'wind', severity: 'low', message: 'Moderate winds expected Friday', impact: 'Good for pollination' }
+  ],
+  agriculturalIndices: {
+    droughtIndex: 0.2,
+    growthIndex: 0.8,
+    pestRisk: 0.3,
+    diseaseRisk: 0.4,
+    irrigationNeed: 0.6
+  }
+};
 
-const cropHealthData = [
-  { name: 'Excellent', value: 45, color: '#10b981' },
-  { name: 'Good', value: 25, color: '#84cc16' },
-  { name: 'Moderate', value: 15, color: '#f59e0b' },
-  { name: 'At Risk', value: 10, color: '#ef4444' },
-  { name: 'Critical', value: 5, color: '#dc2626' },
-];
-
-const diseasePatterns = [
-  { disease: 'Early Blight', confidence: 94.5, severity: 'Medium', spread: 'Localized' },
-  { disease: 'Powdery Mildew', confidence: 87.2, severity: 'Low', spread: 'Isolated' },
-  { disease: 'Root Rot', confidence: 76.8, severity: 'High', spread: 'Spreading' },
-  { disease: 'Leaf Spot', confidence: 82.1, severity: 'Medium', spread: 'Contained' },
-];
-
-const weatherImpactData = [
-  { factor: 'Temperature', impact: 85, trend: 'positive' },
-  { factor: 'Rainfall', impact: 72, trend: 'positive' },
-  { factor: 'Humidity', impact: 68, trend: 'neutral' },
-  { factor: 'Wind Speed', impact: 45, trend: 'negative' },
-  { factor: 'Sunlight', impact: 91, trend: 'positive' },
-  { factor: 'Soil Moisture', impact: 88, trend: 'positive' },
-];
-
-const aiModels = [
-  { name: 'DeepLeaf CNN', accuracy: 96.8, speed: '0.8s', type: 'Disease Detection' },
-  { name: 'SoilNet V2', accuracy: 94.2, speed: '1.2s', type: 'Soil Analysis' },
-  { name: 'YieldPredict Pro', accuracy: 92.5, speed: '2.1s', type: 'Yield Forecast' },
-  { name: 'PestVision AI', accuracy: 89.7, speed: '1.5s', type: 'Pest Detection' },
-  { name: 'ClimateAdapt ML', accuracy: 91.3, speed: '3.4s', type: 'Climate Impact' },
-];
-
-const historicalInsights = [
-  { year: '2020', yield: 2200, accuracy: 85.2 },
-  { year: '2021', yield: 2450, accuracy: 88.7 },
-  { year: '2022', yield: 2680, accuracy: 91.4 },
-  { year: '2023', yield: 2920, accuracy: 93.8 },
-  { year: '2024', yield: 3150, accuracy: 95.2 },
-];
+const weatherIcons = {
+  'sunny': Sun,
+  'partly-cloudy': Cloud,
+  'cloudy': Cloud,
+  'rain': CloudRain,
+  'snow': CloudSnow
+};
 
 export default function AIInsights() {
   const [capturedImage, setCapturedImage] = useState<string | null>(null);
   const [isProcessing, setIsProcessing] = useState(false);
-  const [aiResult, setAiResult] = useState<any>(null);
-  const [activeTab, setActiveTab] = useState('analysis');
-  const [selectedDisease, setSelectedDisease] = useState<string | null>(null);
+  const [diagnosticData, setDiagnosticData] = useState<any>(null);
+  const [environmentalData, setEnvironmentalData] = useState(mockEnvironmentalData);
+  const [cropRecommendations, setCropRecommendations] = useState(mockCropRecommendations);
+  const [weatherData, setWeatherData] = useState(mockWeatherData);
+  const [activeTab, setActiveTab] = useState('diagnostics');
+  const [selectedDisease, setSelectedDisease] = useState<any>(null);
+  const [showSolutionModal, setShowSolutionModal] = useState(false);
+  const [showFormula, setShowFormula] = useState(false);
+  const [cropInputs, setCropInputs] = useState({
+    moisture: 65,
+    temperature: 25,
+    humidity: 68,
+    season: 'Rabi'
+  });
   const cameraRef = useRef<HTMLInputElement>(null);
   const fileRef = useRef<HTMLInputElement>(null);
+
+  // Simulate real-time data updates
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setEnvironmentalData(prev => ({
+        ...prev,
+        soil: {
+          ...prev.soil,
+          moisture: Math.floor(Math.random() * 20) + 60,
+          temperature: Math.floor(Math.random() * 5) + 23
+        }
+      }));
+    }, 5000);
+
+    return () => clearInterval(interval);
+  }, []);
 
   const handleCamera = async () => {
     try {
@@ -117,46 +216,49 @@ export default function AIInsights() {
 
   const processImage = async (imageData: string) => {
     setIsProcessing(true);
-    await new Promise(resolve => setTimeout(resolve, 2000));
     
-    setAiResult({
-      classification: 'Tomato Plant - Early Blight',
-      confidence: 94.5,
-      suggestions: [
-        'Apply fungicide within 48 hours',
-        'Reduce irrigation frequency',
-        'Improve air circulation',
-        'Remove infected leaves immediately',
-        'Monitor soil moisture levels',
-        'Apply organic fungicide treatment',
-      ],
-      cropHealth: 'Moderate Risk',
-      riskLevel: 'Medium',
-      riskScore: 68,
-      recommendations: [
-        'Isolate affected plants from healthy ones',
-        'Use sulfur-based fungicide treatment',
-        'Increase spacing between plants',
-        'Monitor weather conditions',
-        'Apply neem oil as preventive measure',
-        'Schedule soil nutrient testing',
-      ],
-      detailedAnalysis: {
-        diseaseStage: 'Early',
-        affectedArea: '15% of leaves',
-        spreadRate: 'Moderate',
-        treatmentUrgency: 'Within 48 hours',
-        recoveryProbability: '85%',
-        costEstimate: '$120-180'
-      }
-    });
-    setIsProcessing(false);
+    try {
+      await new Promise(resolve => setTimeout(resolve, 2000));
+      setDiagnosticData(mockDiagnosticData);
+    } catch (error) {
+      console.error('Analysis error:', error);
+    } finally {
+      setIsProcessing(false);
+    }
+  };
+
+  const handleDiseaseClick = (disease: any) => {
+    setSelectedDisease(disease);
+    setShowSolutionModal(true);
+  };
+
+  const calculateCropScore = (moisture: number, temperature: number, humidity: number, season: string) => {
+    const seasonBonus = season === 'Rabi' ? 10 : season === 'Kharif' ? 8 : 5;
+    return Math.round((moisture * 0.40 + temperature * 0.35 + humidity * 0.25) * 100 + seasonBonus);
+  };
+
+  const currentScore = calculateCropScore(
+    cropInputs.moisture,
+    cropInputs.temperature,
+    cropInputs.humidity,
+    cropInputs.season
+  );
+
+  const handleInputChange = (field: string, value: number) => {
+    setCropInputs(prev => ({
+      ...prev,
+      [field]: value
+    }));
+  };
+
+  const WeatherIcon = ({ condition, size = 24 }: { condition: string; size?: number }) => {
+    const IconComponent = weatherIcons[condition as keyof typeof weatherIcons] || Cloud;
+    return <IconComponent size={size} />;
   };
 
   return (
     <main className="min-h-screen bg-background dark:bg-background pt-20">
       <Navbar />
-      
       <AIInsightsAnimatedObjects />
       
       <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -167,911 +269,852 @@ export default function AIInsights() {
               AI-Powered Agricultural Intelligence
             </h1>
             <p className="text-2xl text-foreground/70 max-w-4xl mx-auto leading-relaxed">
-              Advanced machine learning, computer vision, and predictive analytics for modern precision agriculture. 
-              Transform your farming operations with cutting-edge AI technology.
+              Advanced machine learning, computer vision, and predictive analytics for modern precision agriculture.
             </p>
           </div>
           <div className="flex justify-center gap-6 pt-8">
             <div className="flex items-center gap-3 text-sm bg-green-900/50 text-green-300 px-4 py-2 rounded-full border border-green-700/50">
               <Brain className="w-4 h-4" />
-              98.5% Prediction Accuracy
+              YOLOv8 Computer Vision
             </div>
             <div className="flex items-center gap-3 text-sm bg-blue-900/50 text-blue-300 px-4 py-2 rounded-full border border-blue-700/50">
               <Zap className="w-4 h-4" />
-              Real-time Analysis
+              Real-time IoT Data
             </div>
             <div className="flex items-center gap-3 text-sm bg-purple-900/50 text-purple-300 px-4 py-2 rounded-full border border-purple-700/50">
-              <Shield className="w-4 h-4" />
-              Enterprise Security
+              <Target className="w-4 h-4" />
+              SmartCropAI Engine
             </div>
           </div>
         </section>
 
-        {/* SECTION 2: AI Analysis Dashboard */}
-        <section className="mb-20">
-          <div className="flex items-center justify-between mb-12">
-            <h2 className="text-4xl font-bold">AI Analysis Dashboard</h2>
-            <div className="flex gap-4">
-              <button className="flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-lg transition-colors duration-300">
-                <Download className="w-4 h-4" />
-                Export Report
-              </button>
-              <button className="flex items-center gap-2 border border-green-500 text-green-400 hover:bg-green-500/10 px-6 py-3 rounded-lg transition-colors duration-300">
-                <Share2 className="w-4 h-4" />
-                Share Insights
-              </button>
-            </div>
-          </div>
-
-          <div className="grid lg:grid-cols-3 gap-8 mb-12">
+        {/* SECTION 2: Navigation Tabs */}
+        <section className="mb-12">
+          <div className="flex space-x-8 border-b border-border overflow-x-auto">
             {[
-              { icon: <Brain className="w-8 h-8" />, label: 'AI Models Active', value: '12', change: '+2' },
-              { icon: <Database className="w-8 h-8" />, label: 'Data Processed', value: '2.4TB', change: '+15%' },
-              { icon: <Target className="w-8 h-8" />, label: 'Prediction Accuracy', value: '96.8%', change: '+1.2%' },
-            ].map((stat, index) => (
-              <div key={index} className="glass dark:glass-dark p-8 rounded-2xl text-center space-y-4 hover:shadow-lg hover:shadow-accent/20 transition-all duration-300">
-                <div className="text-green-400 mx-auto">{stat.icon}</div>
-                <p className="text-foreground/70">{stat.label}</p>
-                <p className="text-3xl font-bold text-accent">{stat.value}</p>
-                <p className="text-green-400 text-sm font-semibold">{stat.change}</p>
-              </div>
+              { id: 'diagnostics', label: '🔍 Real-time Diagnostics', icon: Brain },
+              { id: 'weather', label: '🌤️ AI Weather Forecast', icon: Cloud },
+              { id: 'environmental', label: '🌡️ Environmental Assessment', icon: Thermometer },
+              { id: 'recommendation', label: '🌱 Crop Recommendation', icon: Sprout }
+            ].map((tab) => (
+              <button
+                key={tab.id}
+                onClick={() => setActiveTab(tab.id)}
+                className={`py-4 px-2 font-semibold border-b-2 transition-colors duration-300 flex items-center gap-3 whitespace-nowrap ${
+                  activeTab === tab.id
+                    ? 'border-accent text-accent'
+                    : 'border-transparent text-foreground/70 hover:text-foreground'
+                }`}
+              >
+                <tab.icon className="w-5 h-5" />
+                {tab.label}
+              </button>
             ))}
           </div>
         </section>
 
-        {/* SECTION 3: Image Analysis Interface */}
-        <section className="mb-20 space-y-12">
-          <h2 className="text-4xl font-bold">Intelligent Crop Analysis</h2>
-          
-          <div className="grid xl:grid-cols-2 gap-12">
-            {/* Camera & Upload Section */}
-            <div className="space-y-8">
-              <div className="glass dark:glass-dark p-8 rounded-2xl space-y-6">
-                <h3 className="text-2xl font-semibold flex items-center gap-3">
-                  <Camera className="w-6 h-6 text-accent" />
-                  Real-time Camera Analysis
-                </h3>
-                {!capturedImage ? (
-                  <button
-                    onClick={handleCamera}
-                    className="w-full py-16 border-2 border-dashed border-accent rounded-xl hover:bg-accent/5 transition-all flex flex-col items-center justify-center gap-4 group"
-                  >
-                    <Camera className="w-16 h-16 text-accent group-hover:scale-110 transition-transform" />
-                    <span className="font-semibold text-foreground/70 text-lg">Click to Open Camera</span>
-                    <span className="text-foreground/50">Point at your crop for instant analysis</span>
-                  </button>
-                ) : (
-                  <div className="space-y-6">
-                    <div className="relative">
-                      <img src={capturedImage || "/placeholder.svg"} alt="Captured" className="w-full rounded-lg object-cover h-64" />
+        {/* SECTION 3: Diagnostics Tab */}
+        {activeTab === 'diagnostics' && (
+          <section className="space-y-12">
+            <div className="text-center space-y-4 mb-12">
+              <h2 className="text-4xl font-bold">🔍 Real-time Crop Diagnostics (YOLOv8)</h2>
+              <p className="text-xl text-foreground/70 max-w-3xl mx-auto">
+                Utilizes computer vision to provide instant diagnosis of pests and diseases
+              </p>
+            </div>
+
+            <div className="grid xl:grid-cols-2 gap-12">
+              {/* Left Column - Image Analysis */}
+              <div className="space-y-8">
+                {/* Image Analysis Interface */}
+                <div className="glass dark:glass-dark p-8 rounded-2xl space-y-6">
+                  <h3 className="text-2xl font-semibold flex items-center gap-3">
+                    <Camera className="w-6 h-6 text-accent" />
+                    Camera Analysis Input
+                  </h3>
+                  {!capturedImage ? (
+                    <div className="space-y-6">
+                      <button
+                        onClick={handleCamera}
+                        className="w-full py-16 border-2 border-dashed border-accent rounded-xl hover:bg-accent/5 transition-all flex flex-col items-center justify-center gap-4 group"
+                      >
+                        <Camera className="w-16 h-16 text-accent group-hover:scale-110 transition-transform" />
+                        <span className="font-semibold text-foreground/70 text-lg">Open Camera</span>
+                        <span className="text-foreground/50">Point at your crop for instant analysis</span>
+                      </button>
+                      
+                      <div className="relative">
+                        <div className="absolute inset-0 flex items-center">
+                          <span className="w-full border-t border-border" />
+                        </div>
+                        <div className="relative flex justify-center text-sm">
+                          <span className="bg-background dark:bg-background px-2 text-foreground/50">OR</span>
+                        </div>
+                      </div>
+
+                      <button
+                        onClick={() => fileRef.current?.click()}
+                        className="w-full py-16 border-2 border-dashed border-accent rounded-xl hover:bg-accent/5 transition-all flex flex-col items-center justify-center gap-4 group"
+                      >
+                        <Upload className="w-16 h-16 text-accent group-hover:scale-110 transition-transform" />
+                        <span className="font-semibold text-foreground/70 text-lg">Upload Image</span>
+                        <span className="text-foreground/50">Select from your gallery</span>
+                      </button>
+                      <input
+                        ref={fileRef}
+                        type="file"
+                        accept="image/*"
+                        onChange={handleFileUpload}
+                        className="hidden"
+                      />
+                    </div>
+                  ) : (
+                    <div className="space-y-6">
+                      <div className="relative">
+                        <img src={capturedImage || "/placeholder.svg"} alt="Captured" className="w-full rounded-lg object-cover h-64" />
+                        <button
+                          onClick={() => {
+                            setCapturedImage(null);
+                            setDiagnosticData(null);
+                          }}
+                          className="absolute top-4 right-4 p-2 bg-red-500 text-white rounded-full hover:bg-red-600 transition-colors"
+                        >
+                          <X className="w-4 h-4" />
+                        </button>
+                      </div>
                       <button
                         onClick={() => {
                           setCapturedImage(null);
-                          setAiResult(null);
+                          setDiagnosticData(null);
                         }}
-                        className="absolute top-4 right-4 p-2 bg-red-500 text-white rounded-full hover:bg-red-600 transition-colors"
+                        className="w-full py-3 border border-accent text-accent rounded-lg hover:bg-accent/10 transition-all font-semibold"
                       >
-                        <X className="w-4 h-4" />
+                        Analyze Different Image
                       </button>
                     </div>
-                    <button
-                      onClick={() => {
-                        setCapturedImage(null);
-                        setAiResult(null);
-                      }}
-                      className="w-full py-3 border border-accent text-accent rounded-lg hover:bg-accent/10 transition-all font-semibold"
-                    >
-                      Retake Photo
-                    </button>
-                  </div>
-                )}
+                  )}
+                </div>
               </div>
 
-              <div className="glass dark:glass-dark p-8 rounded-2xl space-y-6">
-                <h3 className="text-2xl font-semibold flex items-center gap-3">
-                  <Upload className="w-6 h-6 text-accent" />
-                  Upload From Gallery
-                </h3>
-                {!capturedImage ? (
+              {/* Right Column - SmartCropAI Model & System Info */}
+              <div className="space-y-8">
+                {/* SmartCropAI Scoring Model */}
+                <div className="glass dark:glass-dark p-8 rounded-2xl">
+                  <h3 className="text-2xl font-semibold mb-6 flex items-center gap-3">
+                    <Calculator className="w-6 h-6 text-accent" />
+                    SmartCropAI Scoring Model
+                  </h3>
+                  
+                  {/* Input Parameters */}
+                  <div className="space-y-4 mb-6">
+                    <h4 className="text-lg font-semibold">Input Parameters</h4>
+                    <div className="grid grid-cols-2 gap-4">
+                      <div className="space-y-2">
+                        <label className="text-sm font-medium text-foreground/70">Soil Moisture</label>
+                        <div className="flex items-center gap-2">
+                          <input
+                            type="range"
+                            min="0"
+                            max="100"
+                            value={cropInputs.moisture}
+                            onChange={(e) => handleInputChange('moisture', parseInt(e.target.value))}
+                            className="w-full"
+                          />
+                          <span className="text-sm font-semibold w-12">{cropInputs.moisture}%</span>
+                        </div>
+                      </div>
+                      <div className="space-y-2">
+                        <label className="text-sm font-medium text-foreground/70">Temperature</label>
+                        <div className="flex items-center gap-2">
+                          <input
+                            type="range"
+                            min="0"
+                            max="50"
+                            value={cropInputs.temperature}
+                            onChange={(e) => handleInputChange('temperature', parseInt(e.target.value))}
+                            className="w-full"
+                          />
+                          <span className="text-sm font-semibold w-12">{cropInputs.temperature}°C</span>
+                        </div>
+                      </div>
+                      <div className="space-y-2">
+                        <label className="text-sm font-medium text-foreground/70">Humidity</label>
+                        <div className="flex items-center gap-2">
+                          <input
+                            type="range"
+                            min="0"
+                            max="100"
+                            value={cropInputs.humidity}
+                            onChange={(e) => handleInputChange('humidity', parseInt(e.target.value))}
+                            className="w-full"
+                          />
+                          <span className="text-sm font-semibold w-12">{cropInputs.humidity}%</span>
+                        </div>
+                      </div>
+                      <div className="space-y-2">
+                        <label className="text-sm font-medium text-foreground/70">Season</label>
+                        <select
+                          value={cropInputs.season}
+                          onChange={(e) => handleInputChange('season', e.target.value)}
+                          className="w-full p-2 bg-secondary/50 rounded-lg border border-border"
+                        >
+                          <option value="Rabi">Rabi</option>
+                          <option value="Kharif">Kharif</option>
+                          <option value="Zaid">Zaid</option>
+                        </select>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Output Score */}
+                  <div className="text-center p-6 bg-gradient-to-br from-green-400 to-green-600 rounded-lg mb-4">
+                    <p className="text-sm text-white/90 mb-2">Crop Suitability Score</p>
+                    <p className="text-4xl font-bold text-white">{currentScore}/100</p>
+                    <p className="text-sm text-white/80 mt-2">
+                      {currentScore >= 90 ? 'Excellent' : 
+                       currentScore >= 80 ? 'Very Good' :
+                       currentScore >= 70 ? 'Good' :
+                       currentScore >= 60 ? 'Fair' : 'Poor'}
+                    </p>
+                  </div>
+
+                  {/* Expandable Formula Section */}
+                  <div className="border-t border-border pt-4">
+                    <button
+                      onClick={() => setShowFormula(!showFormula)}
+                      className="flex items-center justify-between w-full text-left text-sm font-semibold text-foreground/70 hover:text-foreground transition-colors"
+                    >
+                      <span>View Scoring Formula</span>
+                      {showFormula ? <ChevronUp className="w-4 h-4" /> : <ChevronDown className="w-4 h-4" />}
+                    </button>
+                    
+                    {showFormula && (
+                      <div className="mt-4 space-y-4 p-4 bg-secondary/50 rounded-lg">
+                        <div>
+                          <h5 className="font-semibold mb-2">Scoring Formula</h5>
+                          <div className="bg-black/20 p-3 rounded font-mono text-sm">
+                            <p>score = (moisture × 0.40 + </p>
+                            <p>       temperature × 0.35 + </p>
+                            <p>       humidity × 0.25) × 100 + season_bonus</p>
+                          </div>
+                        </div>
+                        
+                        <div>
+                          <h5 className="font-semibold mb-2">Parameter Weights</h5>
+                          <div className="space-y-2">
+                            {[
+                              { parameter: 'Soil Moisture', weight: '40%', importance: 'High' },
+                              { parameter: 'Temperature', weight: '35%', importance: 'High' },
+                              { parameter: 'Humidity', weight: '25%', importance: 'Medium' },
+                              { parameter: 'Season Match', weight: 'Bonus +10', importance: 'Critical' }
+                            ].map((item, index) => (
+                              <div key={index} className="flex justify-between items-center text-sm">
+                                <span className="font-medium">{item.parameter}</span>
+                                <div className="flex items-center gap-2">
+                                  <span className="text-foreground/70">{item.weight}</span>
+                                  <span className={`px-2 py-1 rounded-full text-xs ${
+                                    item.importance === 'High' ? 'bg-green-100 text-green-800 dark:bg-green-900/50 dark:text-green-300' :
+                                    item.importance === 'Critical' ? 'bg-red-100 text-red-800 dark:bg-red-900/50 dark:text-red-300' :
+                                    'bg-yellow-100 text-yellow-800 dark:bg-yellow-900/50 dark:text-yellow-300'
+                                  }`}>
+                                    {item.importance}
+                                  </span>
+                                </div>
+                              </div>
+                            ))}
+                          </div>
+                        </div>
+                      </div>
+                    )}
+                  </div>
+                </div>
+
+                {/* YOLOv8 System Information */}
+                <div className="glass dark:glass-dark p-8 rounded-2xl">
+                  <h3 className="text-2xl font-semibold mb-6 flex items-center gap-3">
+                    <Cpu className="w-6 h-6 text-accent" />
+                    YOLOv8 Diagnostics System
+                  </h3>
+                  <div className="space-y-4">
+                    <div className="flex justify-between items-center p-3 bg-secondary/50 rounded-lg">
+                      <span className="font-semibold">Model Accuracy</span>
+                      <span className="text-green-400 font-bold">96.8%</span>
+                    </div>
+                    <div className="flex justify-between items-center p-3 bg-secondary/50 rounded-lg">
+                      <span className="font-semibold">Processing Speed</span>
+                      <span className="text-blue-400 font-bold">0.8s</span>
+                    </div>
+                    <div className="flex justify-between items-center p-3 bg-secondary/50 rounded-lg">
+                      <span className="font-semibold">Diseases Detected</span>
+                      <span className="text-purple-400 font-bold">500+</span>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Processing State */}
+                {isProcessing && (
+                  <div className="glass dark:glass-dark p-8 rounded-2xl text-center space-y-4">
+                    <Loader2 className="w-12 h-12 text-accent animate-spin mx-auto" />
+                    <div className="space-y-2">
+                      <h3 className="text-xl font-bold">YOLOv8 Analysis in Progress</h3>
+                      <p className="text-foreground/70">Processing image through computer vision models...</p>
+                    </div>
+                  </div>
+                )}
+
+                {/* Results Panel */}
+                {diagnosticData && !isProcessing && (
                   <>
-                    <button
-                      onClick={() => fileRef.current?.click()}
-                      className="w-full py-16 border-2 border-dashed border-accent rounded-xl hover:bg-accent/5 transition-all flex flex-col items-center justify-center gap-4 group"
-                    >
-                      <Upload className="w-16 h-16 text-accent group-hover:scale-110 transition-transform" />
-                      <span className="font-semibold text-foreground/70 text-lg">Browse Your Files</span>
-                      <span className="text-foreground/50">Select high-quality crop images</span>
-                    </button>
-                    <input
-                      ref={fileRef}
-                      type="file"
-                      accept="image/*"
-                      onChange={handleFileUpload}
-                      className="hidden"
-                    />
+                    {/* Active Pest & Disease Alerts */}
+                    <div className="glass dark:glass-dark p-8 rounded-2xl">
+                      <h3 className="text-2xl font-semibold mb-6 flex items-center gap-3">
+                        <AlertTriangle className="w-6 h-6 text-yellow-400" />
+                        Active Pest & Disease Alerts
+                      </h3>
+                      <div className="space-y-4">
+                        {diagnosticData.pests.map((pest: any, index: number) => (
+                          <div 
+                            key={index} 
+                            onClick={() => handleDiseaseClick(pest)}
+                            className="p-4 border border-border rounded-lg hover:border-yellow-400/50 transition-colors duration-300 cursor-pointer hover:shadow-lg"
+                          >
+                            <div className="flex items-center justify-between mb-2">
+                              <span className="font-semibold text-foreground">{pest.name}</span>
+                              <span className="text-green-400 font-bold">{pest.confidence}%</span>
+                            </div>
+                            <div className="flex gap-6 text-sm text-foreground/70">
+                              <span>Severity: 
+                                <span className={`ml-1 font-semibold ${
+                                  pest.severity === 'High' ? 'text-red-400' :
+                                  pest.severity === 'Medium' ? 'text-yellow-400' : 'text-green-400'
+                                }`}>
+                                  {pest.severity}
+                                </span>
+                              </span>
+                              <span>Spread: 
+                                <span className={`ml-1 font-semibold ${
+                                  pest.spread === 'Spreading' ? 'text-red-400' :
+                                  pest.spread === 'Localized' ? 'text-yellow-400' : 'text-green-400'
+                                }`}>
+                                  {pest.spread}
+                                </span>
+                              </span>
+                            </div>
+                            <div className="mt-2 text-xs text-blue-400 flex items-center gap-1">
+                              <ExternalLink className="w-3 h-3" />
+                              Click for treatment solutions
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+
+                    {/* Recommended Action Plan */}
+                    <div className="glass dark:glass-dark p-8 rounded-2xl">
+                      <h3 className="text-2xl font-semibold mb-6 flex items-center gap-3">
+                        <CheckCircle className="w-6 h-6 text-green-400" />
+                        Recommended Action Plan
+                      </h3>
+                      <div className="space-y-3">
+                        {diagnosticData.recommendations.map((rec: string, i: number) => (
+                          <div key={i} className="flex items-center gap-3 p-3 bg-secondary/50 rounded-lg">
+                            <div className="w-8 h-8 rounded-full bg-gradient-to-br from-green-400 to-green-600 flex items-center justify-center flex-shrink-0 text-white font-bold text-sm">
+                              {i + 1}
+                            </div>
+                            <span className="text-foreground/70">{rec}</span>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
                   </>
-                ) : (
-                  <div className="space-y-6">
-                    <div className="relative">
-                      <img src={capturedImage || "/placeholder.svg"} alt="Uploaded" className="w-full rounded-lg object-cover h-64" />
-                      <button
-                        onClick={() => {
-                          setCapturedImage(null);
-                          setAiResult(null);
-                        }}
-                        className="absolute top-4 right-4 p-2 bg-red-500 text-white rounded-full hover:bg-red-600 transition-colors"
-                      >
-                        <X className="w-4 h-4" />
-                      </button>
-                    </div>
-                    <button
-                      onClick={() => {
-                        setCapturedImage(null);
-                        setAiResult(null);
-                      }}
-                      className="w-full py-3 border border-accent text-accent rounded-lg hover:bg-accent/10 transition-all font-semibold"
-                    >
-                      Upload Different Image
-                    </button>
-                  </div>
-                )}
-              </div>
-            </div>
-
-            {/* AI Model Information */}
-            <div className="space-y-8">
-              <div className="glass dark:glass-dark p-8 rounded-2xl">
-                <h3 className="text-2xl font-semibold mb-6 flex items-center gap-3">
-                  <Cpu className="w-6 h-6 text-accent" />
-                  Active AI Models
-                </h3>
-                <div className="space-y-4">
-                  {aiModels.map((model, index) => (
-                    <div key={index} className="flex items-center justify-between p-4 bg-secondary/50 rounded-lg hover:bg-secondary/70 transition-colors duration-300">
-                      <div>
-                        <p className="font-semibold text-foreground">{model.name}</p>
-                        <p className="text-sm text-foreground/70">{model.type}</p>
-                      </div>
-                      <div className="text-right">
-                        <p className="text-green-400 font-semibold">{model.accuracy}%</p>
-                        <p className="text-sm text-foreground/70">{model.speed}</p>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              <div className="glass dark:glass-dark p-8 rounded-2xl">
-                <h3 className="text-2xl font-semibold mb-6 flex items-center gap-3">
-                  <TrendingUp className="w-6 h-6 text-accent" />
-                  Analysis Capabilities
-                </h3>
-                <div className="space-y-3">
-                  {[
-                    'Real-time disease detection',
-                    'Nutrient deficiency analysis',
-                    'Growth stage classification',
-                    'Yield prediction modeling',
-                    'Pest infestation alerts',
-                    'Soil health assessment',
-                    'Climate impact analysis',
-                    'Irrigation optimization'
-                  ].map((capability, index) => (
-                    <div key={index} className="flex items-center gap-3">
-                      <CheckCircle className="w-4 h-4 text-green-400" />
-                      <span className="text-foreground/70">{capability}</span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* SECTION 4: Processing State */}
-        {isProcessing && (
-          <section className="mb-20 glass dark:glass-dark p-16 rounded-2xl text-center space-y-8">
-            <Loader2 className="w-16 h-16 text-accent animate-spin mx-auto" />
-            <div className="space-y-4">
-              <h3 className="text-3xl font-bold">Advanced AI Analysis in Progress</h3>
-              <p className="text-foreground/70 text-lg">Our neural networks are processing your image with multiple AI models...</p>
-              <div className="flex justify-center gap-4 text-sm text-foreground/50">
-                <span>DeepLeaf CNN</span>
-                <span>•</span>
-                <span>SoilNet V2</span>
-                <span>•</span>
-                <span>YieldPredict Pro</span>
-              </div>
-            </div>
-          </section>
-        )}
-
-        {/* SECTION 5: Plant & Soil Quality Scoring System */}
-        <section className="mb-20 space-y-12">
-          <div className="text-center space-y-4">
-            <h2 className="text-4xl font-bold">Plant & Soil Quality Scoring System</h2>
-            <p className="text-xl text-foreground/70 max-w-3xl mx-auto">
-              Real-time sensor-based scoring for optimal planting decisions and soil health assessment
-            </p>
-          </div>
-
-          {/* Sensor Status Overview */}
-          <div className="grid md:grid-cols-4 gap-6 mb-8">
-            {[
-              { label: 'Active Sensors', value: '24', icon: <Activity className="w-6 h-6" />, status: 'Online' },
-              { label: 'Data Accuracy', value: '98.5%', icon: <Target className="w-6 h-6" />, status: 'Excellent' },
-              { label: 'Update Frequency', value: '5 min', icon: <RefreshCw className="w-6 h-6" />, status: 'Real-time' },
-              { label: 'Coverage Area', value: '125 ha', icon: <MapPin className="w-6 h-6" />, status: 'Complete' },
-            ].map((stat, index) => (
-              <div key={index} className="glass dark:glass-dark p-6 rounded-2xl text-center space-y-3">
-                <div className="text-accent mx-auto">{stat.icon}</div>
-                <p className="text-sm text-foreground/70">{stat.label}</p>
-                <p className="text-2xl font-bold text-accent">{stat.value}</p>
-                <p className="text-green-400 text-sm font-semibold">{stat.status}</p>
-              </div>
-            ))}
-          </div>
-
-          {/* Plant Scoring Dashboard */}
-          <div className="glass dark:glass-dark p-8 rounded-2xl">
-            <h3 className="text-2xl font-semibold mb-6 flex items-center gap-3">
-              <Sprout className="w-6 h-6 text-accent" />
-              Plant Suitability Scoring
-            </h3>
-            
-            <div className="overflow-x-auto">
-              <table className="w-full">
-                <thead>
-                  <tr className="border-b border-border">
-                    <th className="text-left py-4 px-4 text-foreground/60 font-semibold">Plant Type</th>
-                    <th className="text-left py-4 px-4 text-foreground/60 font-semibold">Soil Score</th>
-                    <th className="text-left py-4 px-4 text-foreground/60 font-semibold">Climate Match</th>
-                    <th className="text-left py-4 px-4 text-foreground/60 font-semibold">Yield Potential</th>
-                    <th className="text-left py-4 px-4 text-foreground/60 font-semibold">Overall Score</th>
-                    <th className="text-left py-4 px-4 text-foreground/60 font-semibold">Recommendation</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {[
-                    {
-                      plant: 'Tomatoes',
-                      soilScore: 92,
-                      climate: 88,
-                      yield: 95,
-                      overall: 91,
-                      status: 'Highly Recommended',
-                      color: 'from-green-400 to-green-600'
-                    },
-                    {
-                      plant: 'Corn',
-                      soilScore: 85,
-                      climate: 82,
-                      yield: 90,
-                      overall: 86,
-                      status: 'Recommended',
-                      color: 'from-blue-400 to-blue-600'
-                    },
-                    {
-                      plant: 'Wheat',
-                      soilScore: 78,
-                      climate: 75,
-                      yield: 82,
-                      overall: 78,
-                      status: 'Good Fit',
-                      color: 'from-yellow-400 to-yellow-600'
-                    },
-                    {
-                      plant: 'Soybeans',
-                      soilScore: 88,
-                      climate: 85,
-                      yield: 87,
-                      overall: 87,
-                      status: 'Recommended',
-                      color: 'from-blue-400 to-blue-600'
-                    },
-                    {
-                      plant: 'Potatoes',
-                      soilScore: 65,
-                      climate: 72,
-                      yield: 68,
-                      overall: 68,
-                      status: 'Moderate',
-                      color: 'from-orange-400 to-orange-600'
-                    },
-                    {
-                      plant: 'Carrots',
-                      soilScore: 82,
-                      climate: 78,
-                      yield: 80,
-                      overall: 80,
-                      status: 'Good Fit',
-                      color: 'from-yellow-400 to-yellow-600'
-                    },
-                  ].map((crop, index) => (
-                    <tr key={index} className="border-b border-border/50 hover:bg-secondary/30 transition-colors duration-300">
-                      <td className="py-4 px-4">
-                        <div className="flex items-center gap-3">
-                          <div className={`w-10 h-10 bg-gradient-to-br ${crop.color} rounded-lg flex items-center justify-center text-white font-bold`}>
-                            {crop.plant.charAt(0)}
-                          </div>
-                          <span className="font-semibold text-foreground">{crop.plant}</span>
-                        </div>
-                      </td>
-                      <td className="py-4 px-4">
-                        <div className="flex items-center gap-2">
-                          <div className="w-16 bg-secondary rounded-full h-2">
-                            <div 
-                              className="h-2 rounded-full bg-gradient-to-r from-green-400 to-green-600" 
-                              style={{ width: `${crop.soilScore}%` }}
-                            />
-                          </div>
-                          <span className="font-semibold text-foreground">{crop.soilScore}</span>
-                        </div>
-                      </td>
-                      <td className="py-4 px-4">
-                        <div className="flex items-center gap-2">
-                          <div className="w-16 bg-secondary rounded-full h-2">
-                            <div 
-                              className="h-2 rounded-full bg-gradient-to-r from-blue-400 to-blue-600" 
-                              style={{ width: `${crop.climate}%` }}
-                            />
-                          </div>
-                          <span className="font-semibold text-foreground">{crop.climate}</span>
-                        </div>
-                      </td>
-                      <td className="py-4 px-4">
-                        <div className="flex items-center gap-2">
-                          <div className="w-16 bg-secondary rounded-full h-2">
-                            <div 
-                              className="h-2 rounded-full bg-gradient-to-r from-purple-400 to-purple-600" 
-                              style={{ width: `${crop.yield}%` }}
-                            />
-                          </div>
-                          <span className="font-semibold text-foreground">{crop.yield}</span>
-                        </div>
-                      </td>
-                      <td className="py-4 px-4">
-                        <div className="flex items-center gap-2">
-                          <div className={`w-20 h-8 rounded-lg bg-gradient-to-br ${crop.color} flex items-center justify-center text-white font-bold text-sm`}>
-                            {crop.overall}/100
-                          </div>
-                        </div>
-                      </td>
-                      <td className="py-4 px-4">
-                        <span className={`px-3 py-1 rounded-full text-xs font-semibold ${
-                          crop.status === 'Highly Recommended' ? 'bg-green-100 text-green-800 dark:bg-green-900/50 dark:text-green-300' :
-                          crop.status === 'Recommended' ? 'bg-blue-100 text-blue-800 dark:bg-blue-900/50 dark:text-blue-300' :
-                          crop.status === 'Good Fit' ? 'bg-yellow-100 text-yellow-800 dark:bg-yellow-900/50 dark:text-yellow-300' :
-                          'bg-orange-100 text-orange-800 dark:bg-orange-900/50 dark:text-orange-300'
-                        }`}>
-                          {crop.status}
-                        </span>
-                      </td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
-          </div>
-
-          {/* Soil Quality Analysis */}
-          <div className="grid lg:grid-cols-2 gap-8">
-            <div className="glass dark:glass-dark p-8 rounded-2xl">
-              <h3 className="text-2xl font-semibold mb-6 flex items-center gap-3">
-                <Droplets className="w-6 h-6 text-accent" />
-                Soil Quality Metrics
-              </h3>
-              <div className="space-y-6">
-                {[
-                  { parameter: 'pH Level', value: 6.8, optimal: '6.5-7.0', status: 'Optimal', score: 92 },
-                  { parameter: 'Nitrogen', value: '75 ppm', optimal: '70-80 ppm', status: 'Good', score: 88 },
-                  { parameter: 'Phosphorus', value: '45 ppm', optimal: '40-50 ppm', status: 'Optimal', score: 95 },
-                  { parameter: 'Potassium', value: '82 ppm', optimal: '80-90 ppm', status: 'Good', score: 85 },
-                  { parameter: 'Organic Matter', value: '3.2%', optimal: '3-4%', status: 'Optimal', score: 90 },
-                  { parameter: 'Moisture', value: '65%', optimal: '60-70%', status: 'Optimal', score: 94 },
-                ].map((metric, index) => (
-                  <div key={index} className="flex items-center justify-between p-4 bg-secondary/50 rounded-lg">
-                    <div>
-                      <p className="font-semibold text-foreground">{metric.parameter}</p>
-                      <p className="text-sm text-foreground/70">Optimal: {metric.optimal}</p>
-                    </div>
-                    <div className="text-right">
-                      <p className="text-lg font-bold text-foreground">{metric.value}</p>
-                      <p className={`text-sm font-semibold ${
-                        metric.status === 'Optimal' ? 'text-green-400' : 'text-yellow-400'
-                      }`}>
-                        {metric.status}
-                      </p>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
-
-            <div className="glass dark:glass-dark p-8 rounded-2xl">
-              <h3 className="text-2xl font-semibold mb-6 flex items-center gap-3">
-                <TrendingUp className="w-6 h-6 text-accent" />
-                Soil Health Trends
-              </h3>
-              <ResponsiveContainer width="100%" height={300}>
-                <AreaChart data={soilData}>
-                  <defs>
-                    <linearGradient id="colorMoisture" x1="0" y1="0" x2="0" y2="1">
-                      <stop offset="5%" stopColor="#3b82f6" stopOpacity={0.8}/>
-                      <stop offset="95%" stopColor="#3b82f6" stopOpacity={0}/>
-                    </linearGradient>
-                    <linearGradient id="colorNitrogen" x1="0" y1="0" x2="0" y2="1">
-                      <stop offset="5%" stopColor="#10b981" stopOpacity={0.8}/>
-                      <stop offset="95%" stopColor="#10b981" stopOpacity={0}/>
-                    </linearGradient>
-                  </defs>
-                  <CartesianGrid strokeDasharray="3 3" stroke="rgba(16, 185, 129, 0.1)" />
-                  <XAxis dataKey="day" stroke="currentColor" />
-                  <YAxis stroke="currentColor" />
-                  <Tooltip />
-                  <Area type="monotone" dataKey="moisture" stroke="#3b82f6" fillOpacity={1} fill="url(#colorMoisture)" name="Moisture %" />
-                  <Area type="monotone" dataKey="nitrogen" stroke="#10b981" fillOpacity={1} fill="url(#colorNitrogen)" name="Nitrogen ppm" />
-                </AreaChart>
-              </ResponsiveContainer>
-            </div>
-          </div>
-        </section>
-
-        {/* SECTION 6: Comprehensive AI Results */}
-        {aiResult && !isProcessing && (
-          <section className="mb-20 space-y-16">
-            {/* Result Overview Cards */}
-            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-              <div className="glass dark:glass-dark p-8 rounded-2xl space-y-4 border-2 border-green-500/20">
-                <h3 className="text-sm font-semibold text-foreground/60 uppercase">AI Classification</h3>
-                <p className="text-2xl font-bold">{aiResult.classification}</p>
-                <div className="flex items-center gap-2">
-                  <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-                  <span className="text-sm text-green-600 dark:text-green-400">{aiResult.confidence}% Confidence</span>
-                </div>
-              </div>
-
-              <div className="glass dark:glass-dark p-8 rounded-2xl space-y-4 border-2 border-yellow-500/20">
-                <h3 className="text-sm font-semibold text-foreground/60 uppercase">Health Status</h3>
-                <p className="text-2xl font-bold">{aiResult.cropHealth}</p>
-                <div className="flex items-center gap-2">
-                  <AlertTriangle className="w-4 h-4 text-yellow-600 dark:text-yellow-400" />
-                  <span className="text-sm text-yellow-600 dark:text-yellow-400">Risk Score: {aiResult.riskScore}/100</span>
-                </div>
-              </div>
-
-              <div className="glass dark:glass-dark p-8 rounded-2xl space-y-4 border-2 border-blue-500/20">
-                <h3 className="text-sm font-semibold text-foreground/60 uppercase">Action Plan</h3>
-                <p className="text-2xl font-bold">{aiResult.suggestions.length} Steps</p>
-                <div className="flex items-center gap-2">
-                  <TrendingUp className="w-4 h-4 text-blue-600 dark:text-blue-400" />
-                  <span className="text-sm text-blue-600 dark:text-blue-400">Recovery: {aiResult.detailedAnalysis.recoveryProbability}%</span>
-                </div>
-              </div>
-
-              <div className="glass dark:glass-dark p-8 rounded-2xl space-y-4 border-2 border-purple-500/20">
-                <h3 className="text-sm font-semibold text-foreground/60 uppercase">Cost Estimate</h3>
-                <p className="text-2xl font-bold">{aiResult.detailedAnalysis.costEstimate}</p>
-                <div className="flex items-center gap-2">
-                  <Clock className="w-4 h-4 text-purple-600 dark:text-purple-400" />
-                  <span className="text-sm text-purple-600 dark:text-purple-400">Urgency: {aiResult.detailedAnalysis.treatmentUrgency}</span>
-                </div>
-              </div>
-            </div>
-
-            {/* Detailed Analysis Tabs */}
-            <div className="glass dark:glass-dark rounded-2xl overflow-hidden">
-              <div className="border-b border-border">
-                <div className="flex space-x-8 px-8">
-                  {['analysis', 'treatment', 'prevention', 'monitoring'].map((tab) => (
-                    <button
-                      key={tab}
-                      onClick={() => setActiveTab(tab)}
-                      className={`py-4 px-2 font-semibold border-b-2 transition-colors duration-300 ${
-                        activeTab === tab
-                          ? 'border-accent text-accent'
-                          : 'border-transparent text-foreground/70 hover:text-foreground'
-                      }`}
-                    >
-                      {tab.charAt(0).toUpperCase() + tab.slice(1)}
-                    </button>
-                  ))}
-                </div>
-              </div>
-
-              <div className="p-8">
-                {activeTab === 'analysis' && (
-                  <div className="space-y-6">
-                    <h4 className="text-2xl font-bold">Detailed Disease Analysis</h4>
-                    <div className="grid md:grid-cols-2 gap-8">
-                      <div className="space-y-4">
-                        {Object.entries(aiResult.detailedAnalysis).map(([key, value]) => (
-                          <div key={key} className="flex justify-between items-center py-3 border-b border-border">
-                            <span className="font-semibold capitalize">{key.replace(/([A-Z])/g, ' $1')}:</span>
-                            <span className="text-accent font-semibold">{value as string}</span>
-                          </div>
-                        ))}
-                      </div>
-                      <div className="space-y-4">
-                        <h5 className="font-semibold text-lg">Disease Progression</h5>
-                        <div className="space-y-3">
-                          <div className="flex justify-between text-sm">
-                            <span>Current Stage</span>
-                            <span className="text-yellow-400">Early</span>
-                          </div>
-                          <div className="w-full bg-secondary rounded-full h-2">
-                            <div className="bg-yellow-400 h-2 rounded-full" style={{ width: '25%' }} />
-                          </div>
-                          <div className="flex justify-between text-sm">
-                            <span>Spread Potential</span>
-                            <span className="text-orange-400">Medium</span>
-                          </div>
-                          <div className="w-full bg-secondary rounded-full h-2">
-                            <div className="bg-orange-400 h-2 rounded-full" style={{ width: '50%' }} />
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                )}
-
-                {activeTab === 'treatment' && (
-                  <div className="space-y-6">
-                    <h4 className="text-2xl font-bold">Immediate Treatment Recommendations</h4>
-                    <div className="grid md:grid-cols-2 gap-6">
-                      {aiResult.suggestions.map((suggestion: string, i: number) => (
-                        <div key={i} className="glass dark:glass-dark p-6 rounded-xl flex gap-4 hover:-translate-y-1 transition-all group">
-                          <div className="w-10 h-10 rounded-full bg-gradient-to-br from-green-400 to-green-600 flex items-center justify-center flex-shrink-0 text-white font-bold text-lg group-hover:scale-110 transition-transform">
-                            {i + 1}
-                          </div>
-                          <div>
-                            <p className="text-foreground/70 leading-relaxed">{suggestion}</p>
-                            <p className="text-sm text-foreground/50 mt-2">Priority: {i < 2 ? 'High' : 'Medium'}</p>
-                          </div>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                )}
-
-                {activeTab === 'prevention' && (
-                  <div className="space-y-6">
-                    <h4 className="text-2xl font-bold">Long-term Prevention Strategy</h4>
-                    <div className="space-y-4">
-                      {aiResult.recommendations.map((rec: string, i: number) => (
-                        <div key={i} className="glass dark:glass-dark p-6 rounded-xl border-l-4 border-accent space-y-2 hover:border-l-8 transition-all">
-                          <p className="font-semibold text-foreground">{rec}</p>
-                          <p className="text-sm text-foreground/70">Estimated impact: High • Timeframe: 1-2 weeks</p>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                )}
-
-                {activeTab === 'monitoring' && (
-                  <div className="space-y-6">
-                    <h4 className="text-2xl font-bold">Monitoring & Follow-up</h4>
-                    <div className="grid md:grid-cols-2 gap-8">
-                      <div className="space-y-4">
-                        <h5 className="font-semibold">Weekly Checkpoints</h5>
-                        {[
-                          'Day 3: Reassess disease progression',
-                          'Day 7: Evaluate treatment effectiveness',
-                          'Day 14: Full health assessment',
-                          'Day 30: Preventive measures review'
-                        ].map((checkpoint, i) => (
-                          <div key={i} className="flex items-center gap-3">
-                            <Calendar className="w-4 h-4 text-accent" />
-                            <span className="text-foreground/70">{checkpoint}</span>
-                          </div>
-                        ))}
-                      </div>
-                      <div className="space-y-4">
-                        <h5 className="font-semibold">Success Metrics</h5>
-                        {[
-                          'Disease spread halted',
-                          'New growth observed',
-                          'Leaf discoloration reduced',
-                          'Overall plant vigor improved'
-                        ].map((metric, i) => (
-                          <div key={i} className="flex items-center gap-3">
-                            <Target className="w-4 h-4 text-green-400" />
-                            <span className="text-foreground/70">{metric}</span>
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-                  </div>
                 )}
               </div>
             </div>
           </section>
         )}
 
-        {/* SECTION 7: Advanced Analytics Dashboard */}
-        <section className="mb-20 space-y-12">
-          <div className="flex items-center justify-between">
-            <h2 className="text-4xl font-bold">Advanced Analytics Dashboard</h2>
-            <div className="flex gap-3">
-              <button className="px-4 py-2 bg-secondary rounded-lg text-foreground/70 hover:text-foreground transition-colors">
-                Weekly
-              </button>
-              <button className="px-4 py-2 bg-accent text-white rounded-lg transition-colors">
-                Monthly
-              </button>
-              <button className="px-4 py-2 bg-secondary rounded-lg text-foreground/70 hover:text-foreground transition-colors">
-                Yearly
-              </button>
-            </div>
-          </div>
-
-          <div className="grid lg:grid-cols-2 gap-12">
-            {/* Yield Prediction Chart */}
-            <div className="glass dark:glass-dark p-8 rounded-2xl">
-              <h3 className="text-2xl font-semibold mb-6">AI Yield Predictions vs Actual</h3>
-              <ResponsiveContainer width="100%" height={400}>
-                <ComposedChart data={predictionData}>
-                  <defs>
-                    <linearGradient id="colorPred" x1="0" y1="0" x2="0" y2="1">
-                      <stop offset="5%" stopColor="#10b981" stopOpacity={0.8}/>
-                      <stop offset="95%" stopColor="#10b981" stopOpacity={0}/>
-                    </linearGradient>
-                  </defs>
-                  <CartesianGrid strokeDasharray="3 3" stroke="rgba(16, 185, 129, 0.1)" />
-                  <XAxis dataKey="week" stroke="currentColor" />
-                  <YAxis stroke="currentColor" />
-                  <Tooltip contentStyle={{ backgroundColor: 'rgba(255, 255, 255, 0.95)', border: '1px solid #10b981', borderRadius: '8px' }} />
-                  <Line type="monotone" dataKey="predicted" stroke="#10b981" strokeWidth={3} dot={{ r: 6 }} name="AI Predicted" />
-                  <Line type="monotone" dataKey="actual" stroke="#60a5fa" strokeWidth={2} strokeDasharray="5 5" name="Actual Yield" />
-                  <Line type="monotone" dataKey="optimal" stroke="#ef4444" strokeWidth={2} dot={{ r: 4 }} name="Optimal Target" />
-                </ComposedChart>
-              </ResponsiveContainer>
+        {/* SECTION 4: Weather Forecasting Tab */}
+        {activeTab === 'weather' && (
+          <section className="space-y-12">
+            <div className="text-center space-y-4 mb-12">
+              <h2 className="text-4xl font-bold">🌤️ AI Weather Forecasting</h2>
+              <p className="text-xl text-foreground/70 max-w-3xl mx-auto">
+                Advanced weather predictions with agricultural impact analysis
+              </p>
             </div>
 
-            {/* Crop Health Distribution */}
-            <div className="glass dark:glass-dark p-8 rounded-2xl">
-              <h3 className="text-2xl font-semibold mb-6">Farm-wide Crop Health Distribution</h3>
-              <div className="flex flex-col lg:flex-row items-center justify-between gap-8">
-                <ResponsiveContainer width="100%" height={300}>
-                  <PieChart>
-                    <Pie
-                      data={cropHealthData}
-                      cx="50%"
-                      cy="50%"
-                      labelLine={false}
-                      label={({ name, value }) => `${name}: ${value}%`}
-                      outerRadius={80}
-                      fill="#8884d8"
-                      dataKey="value"
-                    >
-                      {cropHealthData.map((entry, index) => (
-                        <Cell key={`cell-${index}`} fill={entry.color} />
-                      ))}
-                    </Pie>
-                    <Tooltip />
-                  </PieChart>
-                </ResponsiveContainer>
-                <div className="space-y-4">
-                  {cropHealthData.map((item, i) => (
-                    <div key={i} className="flex items-center gap-3">
-                      <div className="w-4 h-4 rounded" style={{ backgroundColor: item.color }} />
-                      <span className="font-semibold">{item.name}: {item.value}%</span>
+            <div className="grid lg:grid-cols-3 gap-8 mb-8">
+              {/* Current Weather */}
+              <div className="glass dark:glass-dark p-8 rounded-2xl">
+                <h3 className="text-2xl font-semibold mb-6 flex items-center gap-3">
+                  <MapPin className="w-6 h-6 text-accent" />
+                  Current Conditions
+                </h3>
+                <div className="text-center space-y-4">
+                  <div className="flex justify-center">
+                    <WeatherIcon condition={weatherData.current.icon} size={64} />
+                  </div>
+                  <p className="text-4xl font-bold text-accent">{weatherData.current.temperature}°C</p>
+                  <p className="text-foreground/70">{weatherData.current.condition}</p>
+                  <div className="grid grid-cols-2 gap-4 mt-4">
+                    <div className="text-center">
+                      <Droplets className="w-6 h-6 text-blue-400 mx-auto mb-1" />
+                      <p className="text-sm text-foreground/70">Humidity</p>
+                      <p className="font-semibold">{weatherData.current.humidity}%</p>
                     </div>
-                  ))}
+                    <div className="text-center">
+                      <Wind className="w-6 h-6 text-green-400 mx-auto mb-1" />
+                      <p className="text-sm text-foreground/70">Wind</p>
+                      <p className="font-semibold">{weatherData.current.windSpeed} km/h</p>
+                    </div>
+                  </div>
                 </div>
               </div>
-            </div>
-          </div>
-        </section>
 
-        {/* SECTION 8: Weather Impact Analysis */}
-        <section className="mb-20 space-y-8">
-          <h2 className="text-4xl font-bold">Weather Impact Analysis</h2>
-          <div className="grid md:grid-cols-3 gap-8">
-            {[
-              { label: 'Temperature Optimal', value: '28°C', status: 'Good', icon: '🌡️', impact: '+12% Yield' },
-              { label: 'Rainfall This Week', value: '45mm', status: 'Adequate', icon: '🌧️', impact: 'Optimal' },
-              { label: 'Humidity Level', value: '65%', status: 'Ideal', icon: '💧', impact: '+8% Growth' },
-              { label: 'Wind Speed', value: '12 km/h', status: 'Moderate', icon: '💨', impact: 'Neutral' },
-              { label: 'Sunlight Hours', value: '8.2h', status: 'Excellent', icon: '☀️', impact: '+15% Photosynthesis' },
-              { label: 'Soil Temperature', value: '22°C', status: 'Optimal', icon: '🌱', impact: '+10% Germination' },
-            ].map((item, i) => (
-              <div key={i} className="glass dark:glass-dark p-8 rounded-2xl space-y-4 text-center hover:-translate-y-2 transition-all duration-300">
-                <div className="text-4xl">{item.icon}</div>
-                <p className="text-sm font-semibold text-foreground/60">{item.label}</p>
-                <p className="text-3xl font-bold">{item.value}</p>
-                <p className="text-green-600 dark:text-green-400 font-semibold">{item.status}</p>
-                <p className="text-blue-600 dark:text-blue-400 text-sm">{item.impact}</p>
-              </div>
-            ))}
-          </div>
-        </section>
-
-        {/* SECTION 9: Disease Pattern Recognition */}
-        <section className="mb-20 space-y-8">
-          <h2 className="text-4xl font-bold">Disease Pattern Recognition</h2>
-          <div className="glass dark:glass-dark p-8 rounded-2xl">
-            <div className="grid md:grid-cols-2 gap-8">
-              <div>
-                <h3 className="text-2xl font-semibold mb-6">Detected Disease Patterns</h3>
+              {/* Agricultural Impact */}
+              <div className="glass dark:glass-dark p-8 rounded-2xl">
+                <h3 className="text-2xl font-semibold mb-6">Agricultural Impact</h3>
                 <div className="space-y-4">
-                  {diseasePatterns.map((disease, index) => (
-                    <div key={index} className="p-4 border border-border rounded-lg hover:border-accent/50 transition-colors duration-300">
-                      <div className="flex items-center justify-between mb-2">
-                        <span className="font-semibold text-foreground">{disease.disease}</span>
-                        <span className="text-green-400 font-bold">{disease.confidence}%</span>
-                      </div>
-                      <div className="flex gap-4 text-sm text-foreground/70">
-                        <span>Severity: {disease.severity}</span>
-                        <span>Spread: {disease.spread}</span>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-              <div>
-                <h3 className="text-2xl font-semibold mb-6">Prevention Effectiveness</h3>
-                <div className="space-y-6">
-                  {[
-                    { method: 'Crop Rotation', effectiveness: 92, cost: 'Low' },
-                    { method: 'Organic Fungicides', effectiveness: 85, cost: 'Medium' },
-                    { method: 'Soil Solarization', effectiveness: 78, cost: 'High' },
-                    { method: 'Companion Planting', effectiveness: 88, cost: 'Low' },
-                  ].map((method, index) => (
-                    <div key={index} className="space-y-2">
+                  {Object.entries(weatherData.agriculturalIndices).map(([key, value]) => (
+                    <div key={key} className="space-y-2">
                       <div className="flex justify-between text-sm">
-                        <span className="font-semibold">{method.method}</span>
-                        <span className="text-green-400">{method.effectiveness}%</span>
+                        <span className="font-semibold capitalize">
+                          {key.replace(/([A-Z])/g, ' $1').replace('Index', '')}
+                        </span>
+                        <span className="text-foreground/70">{Math.round(value * 100)}%</span>
                       </div>
                       <div className="w-full bg-secondary rounded-full h-2">
                         <div 
-                          className="h-2 rounded-full bg-gradient-to-r from-green-400 to-green-600" 
-                          style={{ width: `${method.effectiveness}%` }}
+                          className={`h-2 rounded-full ${
+                            value > 0.7 ? 'bg-red-400' :
+                            value > 0.4 ? 'bg-yellow-400' : 'bg-green-400'
+                          }`}
+                          style={{ width: `${value * 100}%` }}
                         />
-                      </div>
-                      <div className="flex justify-between text-xs text-foreground/50">
-                        <span>Cost: {method.cost}</span>
-                        <span>Recommended</span>
                       </div>
                     </div>
                   ))}
                 </div>
               </div>
-            </div>
-          </div>
-        </section>
 
-        {/* SECTION 10: Historical Performance */}
-        <section className="mb-20 space-y-8">
-          <h2 className="text-4xl font-bold">Historical AI Performance</h2>
-          <div className="glass dark:glass-dark p-8 rounded-2xl">
-            <ResponsiveContainer width="100%" height={400}>
-              <BarChart data={historicalInsights}>
-                <CartesianGrid strokeDasharray="3 3" stroke="rgba(16, 185, 129, 0.1)" />
-                <XAxis dataKey="year" stroke="currentColor" />
-                <YAxis yAxisId="left" stroke="currentColor" />
-                <YAxis yAxisId="right" orientation="right" stroke="currentColor" />
-                <Tooltip contentStyle={{ backgroundColor: 'rgba(255, 255, 255, 0.95)', border: '1px solid #10b981', borderRadius: '8px' }} />
-                <Bar yAxisId="left" dataKey="yield" fill="#10b981" radius={[4, 4, 0, 0]} name="Yield (kg/ha)" />
-                <Line yAxisId="right" type="monotone" dataKey="accuracy" stroke="#3b82f6" strokeWidth={2} name="AI Accuracy %" />
-              </BarChart>
-            </ResponsiveContainer>
-          </div>
-        </section>
-
-        {/* SECTION 11: AI Model Performance */}
-        <section className="mb-20 space-y-8">
-          <h2 className="text-4xl font-bold">AI Model Performance Metrics</h2>
-          <div className="grid lg:grid-cols-2 gap-8">
-            <div className="glass dark:glass-dark p-8 rounded-2xl">
-              <h3 className="text-2xl font-semibold mb-6">Model Accuracy Trends</h3>
-              <ResponsiveContainer width="100%" height={300}>
-                <LineChart data={historicalInsights}>
-                  <CartesianGrid strokeDasharray="3 3" stroke="rgba(16, 185, 129, 0.1)" />
-                  <XAxis dataKey="year" stroke="currentColor" />
-                  <YAxis stroke="currentColor" />
-                  <Tooltip />
-                  <Line type="monotone" dataKey="accuracy" stroke="#10b981" strokeWidth={3} dot={{ r: 6 }} />
-                </LineChart>
-              </ResponsiveContainer>
+              {/* Weather Alerts */}
+              <div className="glass dark:glass-dark p-8 rounded-2xl">
+                <h3 className="text-2xl font-semibold mb-6 flex items-center gap-3">
+                  <AlertTriangle className="w-6 h-6 text-yellow-400" />
+                  Weather Alerts
+                </h3>
+                <div className="space-y-4">
+                  {weatherData.alerts.map((alert, index) => (
+                    <div key={index} className="p-4 bg-yellow-500/20 rounded-lg border border-yellow-500/30">
+                      <div className="flex items-center gap-2 mb-2">
+                        <AlertTriangle className="w-4 h-4 text-yellow-400" />
+                        <span className="font-semibold capitalize">{alert.type} Alert</span>
+                      </div>
+                      <p className="text-sm text-foreground/70 mb-2">{alert.message}</p>
+                      <p className="text-xs text-green-400">Impact: {alert.impact}</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
             </div>
+
+            {/* Hourly Forecast */}
+            <div className="glass dark:glass-dark p-8 rounded-2xl mb-8">
+              <h3 className="text-2xl font-semibold mb-6">24-Hour Forecast</h3>
+              <div className="flex overflow-x-auto space-x-6 pb-4">
+                {weatherData.hourly.map((hour, index) => (
+                  <div key={index} className="flex flex-col items-center space-y-2 min-w-[80px]">
+                    <span className="text-sm text-foreground/70">{hour.time}</span>
+                    <WeatherIcon condition={hour.condition} size={32} />
+                    <span className="font-semibold">{hour.temp}°</span>
+                    <span className="text-xs text-blue-400">{hour.precipitation}%</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* 7-Day Forecast */}
             <div className="glass dark:glass-dark p-8 rounded-2xl">
-              <h3 className="text-2xl font-semibold mb-6">Processing Speed Analysis</h3>
-              <div className="space-y-6">
-                {aiModels.map((model, index) => (
-                  <div key={index} className="space-y-2">
-                    <div className="flex justify-between text-sm">
-                      <span className="font-semibold">{model.name}</span>
-                      <span className="text-blue-400">{model.speed}</span>
+              <h3 className="text-2xl font-semibold mb-6">7-Day Forecast</h3>
+              <div className="space-y-4">
+                {weatherData.daily.map((day, index) => (
+                  <div key={index} className="flex items-center justify-between p-4 bg-secondary/50 rounded-lg">
+                    <div className="flex items-center gap-4">
+                      <span className="font-semibold min-w-[60px]">{day.day}</span>
+                      <WeatherIcon condition={day.condition} size={24} />
                     </div>
-                    <div className="w-full bg-secondary rounded-full h-2">
-                      <div 
-                        className="h-2 rounded-full bg-gradient-to-r from-blue-400 to-blue-600" 
-                        style={{ width: `${parseFloat(model.speed) * 50}%` }}
-                      />
+                    <div className="flex items-center gap-6">
+                      <span className="text-foreground/70">{day.low}°</span>
+                      <div className="w-20 bg-gray-200 dark:bg-gray-700 rounded-full h-2">
+                        <div 
+                          className="h-2 rounded-full bg-gradient-to-r from-blue-400 to-red-400"
+                          style={{ width: '70%' }}
+                        />
+                      </div>
+                      <span className="font-semibold">{day.high}°</span>
                     </div>
-                    <div className="flex justify-between text-xs text-foreground/50">
-                      <span>Accuracy: {model.accuracy}%</span>
-                      <span>{model.type}</span>
+                    <div className="flex items-center gap-4">
+                      <span className="text-blue-400 text-sm">{day.precipitation}%</span>
+                      <span className="text-foreground/70 text-sm">{day.humidity}%</span>
                     </div>
                   </div>
                 ))}
               </div>
             </div>
-          </div>
-        </section>
+          </section>
+        )}
 
-        {/* SECTION 12: Resources & Learning */}
-        <section className="mb-20 space-y-8">
-          <h2 className="text-4xl font-bold">Agricultural Resources</h2>
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {[
-              { 
-                title: 'Crop Disease Encyclopedia', 
-                desc: 'Comprehensive guide to identify and treat 500+ crop diseases',
-                icon: <BookOpen className="w-8 h-8" />,
-                items: '500+ Diseases'
-              },
-              { 
-                title: 'Soil Management Guide', 
-                desc: 'Best practices for soil health improvement and maintenance',
-                icon: <Recycle className="w-8 h-8" />,
-                items: '25 Techniques'
-              },
-              { 
-                title: 'Pest Control Strategies', 
-                desc: 'Organic and chemical pest management solutions',
-                icon: <Shield className="w-8 h-8" />,
-                items: '100+ Solutions'
-              },
-              { 
-                title: 'Irrigation Optimization', 
-                desc: 'Smart water management for maximum yield efficiency',
-                icon: <Droplets className="w-8 h-8" />,
-                items: '15 Systems'
-              },
-            ].map((resource, i) => (
-              <div key={i} className="glass dark:glass-dark p-8 rounded-2xl hover:-translate-y-2 transition-all duration-300 cursor-pointer group">
-                <div className="text-accent mb-4 group-hover:scale-110 transition-transform">{resource.icon}</div>
-                <h3 className="text-xl font-semibold mb-2 group-hover:text-accent transition-colors">{resource.title}</h3>
-                <p className="text-foreground/70 mb-4">{resource.desc}</p>
-                <p className="text-sm text-accent font-semibold">{resource.items}</p>
+        {/* SECTION 5: Environmental Assessment Tab */}
+        {activeTab === 'environmental' && (
+          <section className="space-y-12">
+            <div className="text-center space-y-4 mb-12">
+              <h2 className="text-4xl font-bold">🌡️ Environmental Prediction & Risk Assessment</h2>
+              <p className="text-xl text-foreground/70 max-w-3xl mx-auto">
+                Combines IoT sensor data with ML models to assess current crop health and future risks
+              </p>
+            </div>
+
+            <div className="grid lg:grid-cols-2 gap-8">
+              {/* Soil Health NPK Panel */}
+              <div className="glass dark:glass-dark p-8 rounded-2xl">
+                <h3 className="text-2xl font-semibold mb-6 flex items-center gap-3">
+                  <Leaf className="w-6 h-6 text-accent" />
+                  Soil Health NPK Panel
+                </h3>
+                <div className="space-y-6">
+                  <div className="grid grid-cols-2 gap-4">
+                    <div className="text-center p-4 bg-secondary/50 rounded-lg">
+                      <Droplets className="w-8 h-8 text-blue-400 mx-auto mb-2" />
+                      <p className="text-sm text-foreground/70">Moisture</p>
+                      <p className="text-2xl font-bold text-accent">{environmentalData.soil.moisture}%</p>
+                    </div>
+                    <div className="text-center p-4 bg-secondary/50 rounded-lg">
+                      <Thermometer className="w-8 h-8 text-red-400 mx-auto mb-2" />
+                      <p className="text-sm text-foreground/70">Temperature</p>
+                      <p className="text-2xl font-bold text-accent">{environmentalData.soil.temperature}°C</p>
+                    </div>
+                  </div>
+                  
+                  <div className="space-y-4">
+                    <h4 className="font-semibold text-lg">Estimated NPK Levels</h4>
+                    <div className="space-y-3">
+                      {[
+                        { nutrient: 'Nitrogen', value: environmentalData.soil.npk.nitrogen, color: 'from-green-400 to-green-600' },
+                        { nutrient: 'Phosphorus', value: environmentalData.soil.npk.phosphorus, color: 'from-blue-400 to-blue-600' },
+                        { nutrient: 'Potassium', value: environmentalData.soil.npk.potassium, color: 'from-purple-400 to-purple-600' }
+                      ].map((item, index) => (
+                        <div key={index} className="space-y-2">
+                          <div className="flex justify-between text-sm">
+                            <span className="font-semibold">{item.nutrient}</span>
+                            <span className="text-foreground/70">{item.value} ppm</span>
+                          </div>
+                          <div className="w-full bg-secondary rounded-full h-2">
+                            <div 
+                              className={`h-2 rounded-full bg-gradient-to-r ${item.color}`}
+                              style={{ width: `${item.value}%` }}
+                            />
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+
+                  <div className="text-center p-4 bg-gradient-to-br from-green-400 to-green-600 rounded-lg">
+                    <p className="text-sm text-white/90">Soil Health Score</p>
+                    <p className="text-3xl font-bold text-white">{environmentalData.soil.healthScore}/100</p>
+                  </div>
+                </div>
               </div>
-            ))}
-          </div>
-        </section>
 
-        {/* SECTION 13: Support & Community */}
-        <section className="mb-20 space-y-8">
-          <h2 className="text-4xl font-bold">Expert Support & Community</h2>
-          <div className="grid lg:grid-cols-3 gap-8">
-            <div className="glass dark:glass-dark p-8 rounded-2xl text-center space-y-4">
-              <Phone className="w-12 h-12 text-green-400 mx-auto" />
-              <h3 className="text-xl font-semibold">24/7 Expert Support</h3>
-              <p className="text-foreground/70">Get immediate help from agricultural experts</p>
-              <button className="w-full bg-green-500 hover:bg-green-600 text-white py-3 rounded-lg transition-colors">
-                Contact Support
-              </button>
+              {/* Predictive Yield & Risk */}
+              <div className="space-y-8">
+                <div className="glass dark:glass-dark p-8 rounded-2xl">
+                  <h3 className="text-2xl font-semibold mb-6">Predictive Yield Risk</h3>
+                  <div className="space-y-6">
+                    <div className="grid grid-cols-2 gap-4">
+                      <div className="text-center p-4 bg-secondary/50 rounded-lg">
+                        <p className="text-sm text-foreground/70">Predicted Yield</p>
+                        <p className="text-2xl font-bold text-green-400">{environmentalData.yield.predicted} kg/ha</p>
+                      </div>
+                      <div className="text-center p-4 bg-secondary/50 rounded-lg">
+                        <p className="text-sm text-foreground/70">Actual Yield</p>
+                        <p className="text-2xl font-bold text-blue-400">{environmentalData.yield.actual} kg/ha</p>
+                      </div>
+                    </div>
+                    
+                    <div className="text-center p-4 bg-secondary/50 rounded-lg">
+                      <p className="text-sm text-foreground/70">Current Risk Factor</p>
+                      <p className={`text-2xl font-bold ${
+                        environmentalData.yield.risk === 'Low' ? 'text-green-400' :
+                        environmentalData.yield.risk === 'Medium' ? 'text-yellow-400' : 'text-red-400'
+                      }`}>
+                        {environmentalData.yield.risk}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Local Micro Weather Outlook */}
+                <div className="glass dark:glass-dark p-8 rounded-2xl">
+                  <h3 className="text-2xl font-semibold mb-6">Local Micro Weather Outlook</h3>
+                  <div className="grid grid-cols-3 gap-4">
+                    <div className="text-center p-4 bg-secondary/50 rounded-lg">
+                      <Thermometer className="w-6 h-6 text-red-400 mx-auto mb-2" />
+                      <p className="text-sm text-foreground/70">Temperature</p>
+                      <p className="text-lg font-bold text-accent">{environmentalData.weather.temperature}°C</p>
+                    </div>
+                    <div className="text-center p-4 bg-secondary/50 rounded-lg">
+                      <Droplets className="w-6 h-6 text-blue-400 mx-auto mb-2" />
+                      <p className="text-sm text-foreground/70">Rainfall</p>
+                      <p className="text-lg font-bold text-accent">{environmentalData.weather.rainfall}mm</p>
+                    </div>
+                    <div className="text-center p-4 bg-secondary/50 rounded-lg">
+                      <Leaf className="w-6 h-6 text-green-400 mx-auto mb-2" />
+                      <p className="text-sm text-foreground/70">Humidity</p>
+                      <p className="text-lg font-bold text-accent">{environmentalData.weather.humidity}%</p>
+                    </div>
+                  </div>
+                  <div className="mt-4 p-3 bg-yellow-500/20 rounded-lg border border-yellow-500/30">
+                    <p className="text-sm text-yellow-400 text-center">
+                      Fungal Risk: Low | Optimal Growing Conditions
+                    </p>
+                  </div>
+                </div>
+              </div>
             </div>
-            <div className="glass dark:glass-dark p-8 rounded-2xl text-center space-y-4">
-              <Users className="w-12 h-12 text-blue-400 mx-auto" />
-              <h3 className="text-xl font-semibold">Farmer Community</h3>
-              <p className="text-foreground/70">Connect with 10,000+ farmers worldwide</p>
-              <button className="w-full border border-blue-500 text-blue-400 hover:bg-blue-500/10 py-3 rounded-lg transition-colors">
-                Join Community
-              </button>
+          </section>
+        )}
+
+        {/* SECTION 6: Crop Recommendation Tab */}
+        {activeTab === 'recommendation' && (
+          <section className="space-y-12">
+            <div className="text-center space-y-4 mb-12">
+              <h2 className="text-4xl font-bold">🌱 Crop Suitability Engine (SmartCropAI)</h2>
+              <p className="text-xl text-foreground/70 max-w-3xl mx-auto">
+                Calculates the final score for crop viability based on provided environmental and seasonal parameters
+              </p>
             </div>
-            <div className="glass dark:glass-dark p-8 rounded-2xl text-center space-y-4">
-              <Video className="w-12 h-12 text-purple-400 mx-auto" />
-              <h3 className="text-xl font-semibold">Training Videos</h3>
-              <p className="text-foreground/70">Learn from 100+ expert video tutorials</p>
-              <button className="w-full border border-purple-500 text-purple-400 hover:bg-purple-500/10 py-3 rounded-lg transition-colors">
-                Watch Tutorials
-              </button>
+
+            <div className="grid lg:grid-cols-3 gap-8">
+              {/* Input Conditions Display */}
+              <div className="glass dark:glass-dark p-8 rounded-2xl">
+                <h3 className="text-2xl font-semibold mb-6">Input Conditions</h3>
+                <div className="space-y-4">
+                  {[
+                    { label: 'Current Moisture', value: `${environmentalData.soil.moisture}%`, icon: Droplets },
+                    { label: 'Current Temperature', value: `${environmentalData.soil.temperature}°C`, icon: Thermometer },
+                    { label: 'Current Humidity', value: `${environmentalData.soil.humidity}%`, icon: Leaf },
+                    { label: 'Current Season', value: 'November/Rabi', icon: Sprout }
+                  ].map((item, index) => (
+                    <div key={index} className="flex items-center gap-4 p-3 bg-secondary/50 rounded-lg">
+                      <item.icon className="w-5 h-5 text-accent" />
+                      <div>
+                        <p className="text-sm text-foreground/70">{item.label}</p>
+                        <p className="font-semibold text-foreground">{item.value}</p>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Top Recommendation Table */}
+              <div className="lg:col-span-2 glass dark:glass-dark p-8 rounded-2xl">
+                <h3 className="text-2xl font-semibold mb-6">Top Crop Recommendations</h3>
+                <div className="overflow-x-auto">
+                  <table className="w-full">
+                    <thead>
+                      <tr className="border-b border-border">
+                        <th className="text-left py-4 px-4 text-foreground/60 font-semibold">Crop Name</th>
+                        <th className="text-left py-4 px-4 text-foreground/60 font-semibold">Season Match</th>
+                        <th className="text-left py-4 px-4 text-foreground/60 font-semibold">Environmental Score</th>
+                        <th className="text-left py-4 px-4 text-foreground/60 font-semibold">Recommendation</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {cropRecommendations.map((crop, index) => (
+                        <tr key={index} className="border-b border-border/50 hover:bg-secondary/30 transition-colors duration-300">
+                          <td className="py-4 px-4">
+                            <div className="flex items-center gap-3">
+                              <div className={`w-10 h-10 rounded-lg bg-gradient-to-br ${
+                                crop.recommendation === 'Optimal' ? 'from-green-400 to-green-600' :
+                                crop.recommendation === 'Recommended' ? 'from-blue-400 to-blue-600' :
+                                'from-yellow-400 to-yellow-600'
+                              } flex items-center justify-center text-white font-bold`}>
+                                {crop.name.charAt(0)}
+                              </div>
+                              <span className="font-semibold text-foreground">{crop.name}</span>
+                            </div>
+                          </td>
+                          <td className="py-4 px-4">
+                            <span className="text-foreground/70">{crop.seasonMatch}</span>
+                          </td>
+                          <td className="py-4 px-4">
+                            <div className="flex items-center gap-2">
+                              <div className="w-20 bg-secondary rounded-full h-2">
+                                <div 
+                                  className="h-2 rounded-full bg-gradient-to-r from-green-400 to-green-600" 
+                                  style={{ width: `${crop.envScore}%` }}
+                                />
+                              </div>
+                              <span className="font-semibold text-foreground">{crop.envScore}/100</span>
+                            </div>
+                          </td>
+                          <td className="py-4 px-4">
+                            <span className={`px-3 py-1 rounded-full text-xs font-semibold ${
+                              crop.recommendation === 'Optimal' ? 'bg-green-100 text-green-800 dark:bg-green-900/50 dark:text-green-300' :
+                              crop.recommendation === 'Recommended' ? 'bg-blue-100 text-blue-800 dark:bg-blue-900/50 dark:text-blue-300' :
+                              'bg-yellow-100 text-yellow-800 dark:bg-yellow-900/50 dark:text-yellow-300'
+                            }`}>
+                              {crop.recommendation}
+                            </span>
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </section>
+        )}
+
+        {/* SECTION 7: System Architecture Info */}
+        <section className="mt-20 glass dark:glass-dark p-8 rounded-2xl">
+          <h3 className="text-2xl font-semibold mb-6">System Architecture</h3>
+          <div className="grid md:grid-cols-4 gap-6 text-center">
+            <div className="p-4 bg-secondary/50 rounded-lg">
+              <Database className="w-8 h-8 text-blue-400 mx-auto mb-2" />
+              <p className="font-semibold">Node.js Gateway</p>
+              <p className="text-sm text-foreground/70">API Orchestration</p>
+            </div>
+            <div className="p-4 bg-secondary/50 rounded-lg">
+              <Cpu className="w-8 h-8 text-green-400 mx-auto mb-2" />
+              <p className="font-semibold">YOLOv8 Microservice</p>
+              <p className="text-sm text-foreground/70">Computer Vision</p>
+            </div>
+            <div className="p-4 bg-secondary/50 rounded-lg">
+              <Zap className="w-8 h-8 text-yellow-400 mx-auto mb-2" />
+              <p className="font-semibold">ESP8266 IoT</p>
+              <p className="text-sm text-foreground/70">Real-time Sensors</p>
+            </div>
+            <div className="p-4 bg-secondary/50 rounded-lg">
+              <Brain className="w-8 h-8 text-purple-400 mx-auto mb-2" />
+              <p className="font-semibold">RandomForest ML</p>
+              <p className="text-sm text-foreground/70">Predictive Analytics</p>
             </div>
           </div>
         </section>
       </div>
+
+      {/* Disease Solution Modal */}
+      {showSolutionModal && selectedDisease && (
+        <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
+          <div className="glass dark:glass-dark rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto">
+            <div className="p-6 border-b border-border">
+              <div className="flex items-center justify-between">
+                <h3 className="text-2xl font-bold text-foreground">
+                  Treatment for {selectedDisease.name}
+                </h3>
+                <button
+                  onClick={() => setShowSolutionModal(false)}
+                  className="p-2 hover:bg-secondary rounded-lg transition-colors"
+                >
+                  <X className="w-5 h-5" />
+                </button>
+              </div>
+              <div className="flex items-center gap-4 mt-2">
+                <span className="text-green-400 font-bold">{selectedDisease.confidence}% Confidence</span>
+                <span className={`px-2 py-1 rounded-full text-xs ${
+                  selectedDisease.severity === 'High' ? 'bg-red-100 text-red-800' :
+                  selectedDisease.severity === 'Medium' ? 'bg-yellow-100 text-yellow-800' :
+                  'bg-green-100 text-green-800'
+                }`}>
+                  {selectedDisease.severity} Severity
+                </span>
+              </div>
+            </div>
+
+            <div className="p-6 space-y-6">
+              {/* Chemical Pesticides */}
+              <div>
+                <h4 className="text-lg font-semibold mb-3 flex items-center gap-2">
+                  <AlertTriangle className="w-5 h-5 text-red-400" />
+                  Recommended Pesticides
+                </h4>
+                <div className="space-y-2">
+                  {selectedDisease.solution.pesticides.map((pesticide: string, index: number) => (
+                    <div key={index} className="flex items-center gap-3 p-3 bg-red-500/10 rounded-lg">
+                      <div className="w-6 h-6 rounded-full bg-red-400 flex items-center justify-center text-white text-xs font-bold">
+                        {index + 1}
+                      </div>
+                      <span className="text-foreground/80">{pesticide}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Organic Solutions */}
+              <div>
+                <h4 className="text-lg font-semibold mb-3 flex items-center gap-2">
+                  <Leaf className="w-5 h-5 text-green-400" />
+                  Organic Alternatives
+                </h4>
+                <div className="space-y-2">
+                  {selectedDisease.solution.organic.map((organic: string, index: number) => (
+                    <div key={index} className="flex items-center gap-3 p-3 bg-green-500/10 rounded-lg">
+                      <div className="w-6 h-6 rounded-full bg-green-400 flex items-center justify-center text-white text-xs font-bold">
+                        {index + 1}
+                      </div>
+                      <span className="text-foreground/80">{organic}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Prevention Measures */}
+              <div>
+                <h4 className="text-lg font-semibold mb-3 flex items-center gap-2">
+                  <Shield className="w-5 h-5 text-blue-400" />
+                  Prevention Measures
+                </h4>
+                <div className="space-y-2">
+                  {selectedDisease.solution.prevention.map((prevention: string, index: number) => (
+                    <div key={index} className="flex items-center gap-3 p-3 bg-blue-500/10 rounded-lg">
+                      <div className="w-6 h-6 rounded-full bg-blue-400 flex items-center justify-center text-white text-xs font-bold">
+                        {index + 1}
+                      </div>
+                      <span className="text-foreground/80">{prevention}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Application Guidelines */}
+              <div className="grid grid-cols-2 gap-4">
+                <div className="p-4 bg-secondary/50 rounded-lg">
+                  <Clock className="w-5 h-5 text-purple-400 mb-2" />
+                  <p className="text-sm text-foreground/70">Application Timing</p>
+                  <p className="font-semibold">{selectedDisease.solution.timing}</p>
+                </div>
+                <div className="p-4 bg-secondary/50 rounded-lg">
+                  <RefreshCw className="w-5 h-5 text-orange-400 mb-2" />
+                  <p className="text-sm text-foreground/70">Frequency</p>
+                  <p className="font-semibold">{selectedDisease.solution.frequency}</p>
+                </div>
+              </div>
+            </div>
+
+            <div className="p-6 border-t border-border">
+              <button
+                onClick={() => setShowSolutionModal(false)}
+                className="w-full bg-accent hover:bg-accent/90 text-white py-3 rounded-lg transition-colors font-semibold"
+              >
+                Close Treatment Guide
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
 
       <Footer />
     </main>
