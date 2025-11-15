@@ -49,6 +49,71 @@ const performanceData = [
   { subject: 'Efficiency', A: 85, B: 90, fullMark: 150 },
 ];
 
+// Client-only particle system component
+const ClientOnlyParticles = () => {
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  if (!mounted) {
+    return <div className="absolute inset-0 opacity-40 dark:opacity-20" />;
+  }
+
+  return (
+    <div className="absolute inset-0 opacity-40 dark:opacity-20">
+      {[...Array(100)].map((_, i) => (
+        <div
+          key={i}
+          className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
+          style={{
+            left: `${Math.random() * 100}%`,
+            top: `${Math.random() * 100}%`,
+            animationDelay: `${Math.random() * 5}s`,
+            animationDuration: `${3 + Math.random() * 4}s`
+          }}
+        />
+      ))}
+    </div>
+  );
+};
+
+// Client-only animated grid component
+const ClientOnlyAnimatedGrid = () => {
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  if (!mounted) {
+    return (
+      <div className="absolute inset-0 opacity-5">
+        <div className="grid grid-cols-12 gap-4 h-full">
+          {[...Array(144)].map((_, i) => (
+            <div key={i} className="border border-green-400/10" />
+          ))}
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div className="absolute inset-0 opacity-5">
+      <div className="grid grid-cols-12 gap-4 h-full">
+        {[...Array(144)].map((_, i) => (
+          <div 
+            key={i} 
+            className="border border-green-400/10 animate-pulse" 
+            style={{animationDelay: `${(i * 0.1) % 5}s`}} 
+          />
+        ))}
+      </div>
+    </div>
+  );
+};
+
 export default function Home() {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
   const [scrollProgress, setScrollProgress] = useState(0);
@@ -127,33 +192,11 @@ export default function Home() {
           <div className="absolute top-3/4 left-1/2 w-64 h-64 bg-gradient-to-tr from-emerald-400/20 to-transparent rounded-full blur-2xl animate-bounce animation-delay-1000" />
           <div className="absolute bottom-3/4 right-1/3 w-80 h-80 bg-gradient-to-bl from-teal-400/15 to-transparent rounded-full blur-2xl animate-pulse animation-delay-3000" />
           
-          {/* Particle System - Client Side Only */}
-<div className="absolute inset-0 opacity-40 dark:opacity-20">
-  {typeof window !== 'undefined' && 
-    [...Array(100)].map((_, i) => (
-      <div
-        key={i}
-        className="absolute w-1 h-1 bg-green-400 rounded-full animate-pulse"
-        style={{
-          left: `${Math.random() * 100}%`,
-          top: `${Math.random() * 100}%`,
-          animationDelay: `${Math.random() * 5}s`,
-          animationDuration: `${3 + Math.random() * 4}s`
-        }}
-      />
-    ))
-  }
-</div>
+          {/* Particle System - Client Only */}
+          <ClientOnlyParticles />
 
-          {/* Animated Grid */}
-          <div className="absolute inset-0 opacity-5">
-            <div className="grid grid-cols-12 gap-4 h-full">
-              {[...Array(144)].map((_, i) => (
-                <div key={i} className="border border-green-400/10 animate-pulse" 
-                     style={{animationDelay: `${(i * 0.1) % 5}s`}} />
-              ))}
-            </div>
-          </div>
+          {/* Animated Grid - Client Only */}
+          <ClientOnlyAnimatedGrid />
         </div>
 
         <HeroAnimatedObjects />
